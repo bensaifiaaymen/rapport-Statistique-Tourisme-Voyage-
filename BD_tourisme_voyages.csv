@@ -1,0 +1,2001 @@
+id,age,sexe,revenu_categorie,nombre_voyages_par_an,budget_moyen_voyage_euros,destination_preferee,type_hebergement,mode_transport_principal,motif_principal,reservation_en_ligne,satisfaction_dernier_voyage_10
+1,24,Femme,Faible,2,50.0,France,Famille/Amis,Voiture,Loisirs,0,2.0
+2,58,Femme,Élevé,6,1070.0,France,Famille/Amis,Voiture,Visite famille,1,6.0
+3,74,Femme,Faible,0,,France,Hôtel,Train,Loisirs,0,
+4,47,Homme,Faible,2,,Europe,Location,Voiture,Loisirs,0,6.0
+5,68,Homme,Faible,3,257.0,International,Location,Voiture,Affaires,0,4.0
+6,49,Femme,Moyen,3,610.0,International,Camping,Voiture,Loisirs,1,8.0
+7,35,Femme,Moyen,2,977.0,France,Hôtel,Avion,Loisirs,1,1.0
+8,63,Homme,Moyen,0,74.0,Europe,Hôtel,Train,Affaires,1,
+9,51,Femme,Moyen,0,595.0,Europe,Location,Avion,Visite famille,0,
+10,48,Homme,Faible,0,108.0,France,Famille/Amis,Voiture,Visite famille,1,
+11,44,Femme,Faible,0,199.0,International,Location,Train,Visite famille,0,
+12,22,Homme,Moyen,0,,France,Camping,Train,Loisirs,0,
+13,20,Femme,Moyen,1,1076.0,Europe,Hôtel,Voiture,Visite famille,0,1.0
+14,43,Homme,Élevé,1,1184.0,Europe,Hôtel,Avion,Loisirs,0,10.0
+15,28,Femme,Moyen,0,841.0,Europe,Camping,Train,Loisirs,0,
+16,79,Femme,Élevé,7,1116.0,Europe,Location,Avion,Loisirs,0,8.0
+17,79,Homme,Élevé,4,1332.0,France,Location,Voiture,Loisirs,1,9.0
+18,28,Homme,Élevé,2,1327.0,Europe,Famille/Amis,Avion,Loisirs,1,2.0
+19,44,Femme,Élevé,3,1410.0,Europe,Famille/Amis,Train,Loisirs,1,10.0
+20,68,Femme,Faible,1,211.0,France,Location,Train,Loisirs,0,9.0
+21,37,Homme,Élevé,4,864.0,France,Location,Train,Loisirs,1,9.0
+22,32,Femme,Élevé,3,1096.0,France,Location,Voiture,Loisirs,1,4.0
+23,40,Femme,Moyen,3,1237.0,France,Famille/Amis,Train,Affaires,0,4.0
+24,31,Femme,Moyen,1,706.0,Europe,Location,Train,Loisirs,1,9.0
+25,64,Femme,Élevé,1,1200.0,France,Famille/Amis,Avion,Loisirs,1,2.0
+26,20,Homme,Élevé,1,923.0,Europe,Hôtel,Avion,Visite famille,1,6.0
+27,61,Homme,Moyen,2,608.0,France,Hôtel,Voiture,Loisirs,1,9.0
+28,24,Homme,Moyen,1,997.0,International,Hôtel,Train,Loisirs,0,10.0
+29,72,Homme,Moyen,2,1024.0,Europe,Hôtel,Train,Loisirs,1,3.0
+30,62,Homme,Élevé,0,,France,Location,Avion,Visite famille,0,
+31,25,Homme,Faible,0,408.0,International,Hôtel,Avion,Loisirs,0,
+32,78,Homme,Faible,0,562.0,France,Location,Voiture,Visite famille,0,
+33,43,Femme,Faible,0,620.0,France,Hôtel,Voiture,Visite famille,0,
+34,35,Homme,Moyen,1,516.0,France,Camping,Voiture,Affaires,1,1.0
+35,56,Femme,Élevé,0,1221.0,International,Hôtel,Train,Affaires,1,
+36,37,Homme,Moyen,2,501.0,Europe,Hôtel,Avion,Affaires,1,8.0
+37,52,Femme,Faible,0,247.0,France,Location,Train,Loisirs,0,
+38,24,Femme,Élevé,1,1176.0,International,Location,Voiture,Visite famille,0,2.0
+39,18,Homme,Moyen,4,789.0,Europe,Famille/Amis,Avion,Loisirs,0,2.0
+40,75,Homme,Élevé,4,1092.0,France,Famille/Amis,Voiture,Loisirs,0,8.0
+41,34,Femme,Faible,1,167.0,France,Famille/Amis,Avion,Visite famille,0,1.0
+42,35,Femme,Moyen,2,642.0,Europe,Famille/Amis,Voiture,Loisirs,0,2.0
+43,34,Homme,Moyen,2,466.0,France,Hôtel,Voiture,Loisirs,0,5.0
+44,75,Femme,Moyen,0,1016.0,France,Location,Avion,Loisirs,0,
+45,65,Femme,Moyen,5,946.0,France,Location,Voiture,Loisirs,1,10.0
+46,50,Homme,Moyen,1,329.0,France,Camping,Train,Loisirs,0,10.0
+47,44,Homme,Moyen,5,449.0,France,Camping,Train,Affaires,0,6.0
+48,32,Homme,Faible,2,50.0,Europe,Famille/Amis,Voiture,Loisirs,0,4.0
+49,59,Homme,Élevé,3,1512.0,Europe,Hôtel,Train,Loisirs,0,7.0
+50,62,Femme,Moyen,2,768.0,Europe,Location,Voiture,Loisirs,0,5.0
+51,78,Homme,Élevé,6,1114.0,Europe,Location,Avion,Loisirs,0,9.0
+52,72,Femme,Moyen,2,863.0,Europe,Hôtel,Train,Loisirs,0,6.0
+53,55,Homme,Moyen,0,795.0,France,Hôtel,Voiture,Loisirs,0,
+54,72,Homme,Moyen,5,881.0,France,Hôtel,Avion,Visite famille,0,8.0
+55,41,Homme,Élevé,1,1289.0,Europe,Hôtel,Avion,Visite famille,1,5.0
+56,24,Femme,Élevé,2,1066.0,International,Location,Voiture,Loisirs,0,8.0
+57,46,Homme,Moyen,2,548.0,France,Hôtel,Voiture,Loisirs,1,4.0
+58,36,Femme,Moyen,1,931.0,Europe,Hôtel,Voiture,Loisirs,0,10.0
+59,24,Homme,Élevé,3,1245.0,France,Famille/Amis,Voiture,Visite famille,0,4.0
+60,53,Homme,Faible,1,143.0,Europe,Hôtel,Voiture,Affaires,0,4.0
+61,78,Homme,Moyen,4,514.0,International,Famille/Amis,Avion,Loisirs,1,10.0
+62,25,Femme,Faible,0,84.0,France,Location,Avion,Visite famille,0,
+63,52,Femme,Élevé,3,964.0,Europe,Hôtel,Voiture,Loisirs,0,9.0
+64,45,Homme,Moyen,2,1013.0,Europe,Camping,Voiture,Loisirs,0,1.0
+65,69,Homme,Faible,1,417.0,International,Hôtel,Voiture,Loisirs,0,9.0
+66,27,Homme,Faible,1,345.0,France,Famille/Amis,Voiture,Loisirs,1,1.0
+67,40,Homme,Moyen,4,1009.0,International,Location,Voiture,Loisirs,1,9.0
+68,21,Homme,Faible,1,583.0,France,Location,Train,Loisirs,0,4.0
+69,35,Homme,Faible,0,487.0,France,Location,Avion,Loisirs,0,
+70,38,Femme,Moyen,1,682.0,France,Hôtel,Avion,Loisirs,0,1.0
+71,20,Femme,Moyen,2,784.0,Europe,Hôtel,Voiture,Loisirs,1,10.0
+72,54,Homme,Faible,1,402.0,France,Hôtel,Avion,Affaires,0,5.0
+73,34,Femme,Moyen,1,852.0,France,Famille/Amis,Voiture,Loisirs,1,5.0
+74,79,Femme,Faible,2,62.0,France,Location,Avion,Visite famille,0,7.0
+75,65,Femme,Moyen,2,977.0,France,Hôtel,Avion,Visite famille,0,5.0
+76,44,Homme,Moyen,5,,France,Location,Train,Loisirs,1,3.0
+77,72,Femme,Élevé,1,979.0,France,Camping,Avion,Loisirs,0,2.0
+78,29,Femme,Moyen,3,690.0,France,Location,Train,Visite famille,1,3.0
+79,71,Homme,Moyen,5,512.0,France,Location,Voiture,Visite famille,0,6.0
+80,26,Homme,Élevé,3,970.0,Europe,Hôtel,Train,Visite famille,0,5.0
+81,29,Homme,Élevé,2,1326.0,International,Hôtel,Avion,Affaires,0,4.0
+82,58,Homme,Faible,0,259.0,France,Hôtel,Voiture,Visite famille,0,
+83,51,Femme,Élevé,1,1000.0,Europe,Camping,Voiture,Affaires,0,8.0
+84,29,Femme,Moyen,3,696.0,International,Hôtel,Train,Visite famille,0,5.0
+85,76,Homme,Élevé,1,1141.0,International,Camping,Train,Visite famille,0,8.0
+86,35,Femme,Faible,2,50.0,International,Famille/Amis,Voiture,Visite famille,1,4.0
+87,23,Homme,Moyen,0,536.0,France,Famille/Amis,Train,Visite famille,0,
+88,46,Femme,Faible,2,158.0,France,Famille/Amis,Voiture,Loisirs,0,1.0
+89,45,Homme,Faible,1,383.0,International,Location,Voiture,Loisirs,0,2.0
+90,45,Femme,Élevé,6,755.0,Europe,Camping,Voiture,Affaires,0,4.0
+91,65,Femme,Faible,1,50.0,France,Location,Train,Visite famille,0,6.0
+92,39,Femme,Moyen,4,1036.0,International,Famille/Amis,Avion,Affaires,0,4.0
+93,44,Femme,Faible,1,132.0,Europe,Famille/Amis,Train,Loisirs,0,3.0
+94,33,Homme,Moyen,0,254.0,France,Famille/Amis,Avion,Visite famille,0,
+95,62,Femme,Moyen,2,984.0,Europe,Hôtel,Voiture,Loisirs,0,8.0
+96,59,Femme,Moyen,2,694.0,Europe,Famille/Amis,Train,Loisirs,0,5.0
+97,36,Femme,Faible,2,469.0,France,Famille/Amis,Avion,Loisirs,0,9.0
+98,49,Femme,Moyen,1,539.0,Europe,Camping,Voiture,Loisirs,1,7.0
+99,53,Homme,Moyen,2,685.0,Europe,Location,Voiture,Loisirs,0,10.0
+100,33,Femme,Faible,2,384.0,International,Hôtel,Voiture,Loisirs,1,5.0
+101,69,Femme,Élevé,4,1020.0,France,Hôtel,Avion,Affaires,0,10.0
+102,47,Femme,Moyen,3,752.0,France,Camping,Train,Visite famille,1,1.0
+103,25,Femme,Faible,1,50.0,Europe,Hôtel,Avion,Visite famille,1,7.0
+104,42,Homme,Faible,1,413.0,France,Location,Avion,Loisirs,0,2.0
+105,64,Homme,Faible,2,210.0,International,Hôtel,Voiture,Affaires,1,3.0
+106,32,Femme,Faible,1,349.0,France,Hôtel,Avion,Affaires,0,9.0
+107,60,Homme,Faible,3,90.0,France,Famille/Amis,Train,Loisirs,0,7.0
+108,73,Homme,Moyen,1,785.0,Europe,Location,Avion,Loisirs,1,2.0
+109,57,Femme,Moyen,2,772.0,France,Location,Voiture,Loisirs,0,4.0
+110,29,Homme,Faible,0,512.0,France,Famille/Amis,Avion,Loisirs,0,
+111,33,Homme,Moyen,3,744.0,Europe,Famille/Amis,Voiture,Loisirs,0,8.0
+112,71,Homme,Moyen,1,591.0,Europe,Camping,Voiture,Loisirs,1,9.0
+113,46,Homme,Moyen,4,,Europe,Hôtel,Train,Loisirs,0,10.0
+114,47,Homme,Moyen,2,958.0,International,Famille/Amis,Train,Affaires,0,7.0
+115,19,Homme,Faible,0,103.0,Europe,Camping,Voiture,Visite famille,0,
+116,52,Homme,Élevé,1,913.0,France,Hôtel,Avion,Visite famille,0,7.0
+117,57,Homme,Moyen,0,,Europe,Camping,Train,Loisirs,0,
+118,78,Homme,Élevé,6,1194.0,Europe,Famille/Amis,Voiture,Loisirs,0,4.0
+119,36,Femme,Faible,2,743.0,France,Location,Train,Loisirs,0,2.0
+120,72,Femme,Moyen,3,704.0,International,Location,Train,Visite famille,0,5.0
+121,59,Homme,Moyen,0,744.0,France,Camping,Voiture,Loisirs,1,
+122,57,Femme,Moyen,2,911.0,International,Hôtel,Train,Visite famille,0,4.0
+123,62,Homme,Élevé,2,845.0,Europe,Hôtel,Avion,Loisirs,0,2.0
+124,30,Femme,Moyen,1,595.0,Europe,Famille/Amis,Avion,Visite famille,1,10.0
+125,39,Homme,Moyen,2,220.0,International,Hôtel,Avion,Loisirs,0,4.0
+126,42,Femme,Faible,4,217.0,France,Location,Avion,Loisirs,0,9.0
+127,76,Homme,Élevé,3,1049.0,International,Camping,Train,Loisirs,1,10.0
+128,44,Homme,Faible,2,472.0,Europe,Location,Voiture,Visite famille,1,5.0
+129,47,Femme,Faible,1,252.0,France,Hôtel,Voiture,Visite famille,0,5.0
+130,27,Homme,Moyen,3,559.0,Europe,Camping,Voiture,Loisirs,0,3.0
+131,67,Homme,Moyen,3,875.0,Europe,Famille/Amis,Voiture,Visite famille,0,2.0
+132,29,Homme,Moyen,3,929.0,France,Famille/Amis,Voiture,Loisirs,0,10.0
+133,76,Femme,Élevé,7,1340.0,International,Hôtel,Avion,Loisirs,1,3.0
+134,75,Homme,Élevé,4,1114.0,France,Location,Voiture,Loisirs,0,7.0
+135,24,Femme,Élevé,2,1265.0,Europe,Hôtel,Train,Loisirs,1,10.0
+136,63,Homme,Moyen,1,795.0,Europe,Famille/Amis,Avion,Loisirs,0,10.0
+137,24,Femme,Moyen,2,634.0,International,Hôtel,Train,Loisirs,0,6.0
+138,32,Femme,Moyen,3,682.0,International,Location,Avion,Loisirs,1,10.0
+139,71,Homme,Élevé,2,1383.0,Europe,Location,Train,Loisirs,0,3.0
+140,63,Homme,Moyen,3,730.0,France,Hôtel,Voiture,Loisirs,1,10.0
+141,65,Femme,Faible,0,317.0,Europe,Famille/Amis,Voiture,Visite famille,0,
+142,34,Femme,Moyen,2,901.0,Europe,Famille/Amis,Train,Affaires,1,6.0
+143,64,Homme,Moyen,3,499.0,International,Location,Train,Loisirs,0,8.0
+144,30,Homme,Faible,1,494.0,Europe,Hôtel,Voiture,Affaires,0,7.0
+145,51,Homme,Élevé,1,779.0,International,Hôtel,Voiture,Affaires,1,3.0
+146,30,Homme,Moyen,0,489.0,France,Camping,Voiture,Affaires,0,
+147,53,Femme,Moyen,3,595.0,France,Hôtel,Voiture,Loisirs,0,7.0
+148,19,Homme,Moyen,1,936.0,Europe,Famille/Amis,Avion,Loisirs,1,8.0
+149,79,Homme,Faible,1,,France,Location,Voiture,Loisirs,0,10.0
+150,50,Homme,Faible,1,81.0,France,Camping,Voiture,Loisirs,1,1.0
+151,29,Homme,Faible,0,443.0,Europe,Camping,Voiture,Loisirs,1,
+152,76,Femme,Faible,0,489.0,France,Camping,Train,Visite famille,0,
+153,54,Femme,Faible,3,99.0,France,Famille/Amis,Avion,Affaires,0,3.0
+154,72,Homme,Moyen,1,547.0,International,Hôtel,Avion,Loisirs,0,7.0
+155,58,Femme,Faible,2,60.0,France,Hôtel,Voiture,Affaires,0,8.0
+156,52,Femme,Moyen,2,606.0,France,Location,Voiture,Affaires,0,8.0
+157,29,Homme,Faible,1,355.0,Europe,Location,Avion,Loisirs,0,7.0
+158,75,Homme,Élevé,0,1205.0,Europe,Hôtel,Voiture,Loisirs,1,
+159,60,Femme,Moyen,2,644.0,France,Hôtel,Avion,Visite famille,0,5.0
+160,41,Femme,Moyen,1,413.0,Europe,Famille/Amis,Voiture,Loisirs,1,6.0
+161,69,Homme,Faible,1,53.0,France,Hôtel,Voiture,Loisirs,0,3.0
+162,45,Femme,Moyen,3,641.0,International,Hôtel,Voiture,Loisirs,1,8.0
+163,72,Homme,Faible,0,327.0,Europe,Camping,Voiture,Visite famille,1,
+164,71,Homme,Faible,1,103.0,Europe,Location,Train,Loisirs,0,9.0
+165,49,Homme,Faible,1,50.0,Europe,Camping,Avion,Loisirs,0,2.0
+166,49,Homme,Faible,2,550.0,Europe,Hôtel,Voiture,Loisirs,1,10.0
+167,76,Femme,Moyen,3,413.0,France,Location,Avion,Loisirs,0,9.0
+168,68,Homme,Faible,1,325.0,International,Famille/Amis,Train,Loisirs,0,9.0
+169,50,Homme,Faible,0,261.0,Europe,Famille/Amis,Avion,Loisirs,0,
+170,29,Homme,Élevé,1,687.0,International,Location,Train,Affaires,1,7.0
+171,34,Homme,Moyen,1,,France,Location,Voiture,Loisirs,1,3.0
+172,31,Femme,Moyen,1,812.0,Europe,Hôtel,Voiture,Loisirs,1,1.0
+173,79,Homme,Moyen,0,,France,Famille/Amis,Voiture,Visite famille,0,
+174,49,Femme,Faible,2,62.0,Europe,Camping,Voiture,Loisirs,0,6.0
+175,60,Homme,Moyen,0,647.0,France,Hôtel,Train,Loisirs,0,
+176,25,Homme,Élevé,1,975.0,Europe,Famille/Amis,Voiture,Loisirs,1,10.0
+177,48,Femme,Faible,0,50.0,France,Location,Voiture,Loisirs,1,
+178,57,Homme,Moyen,2,810.0,Europe,Location,Voiture,Loisirs,0,7.0
+179,24,Homme,Élevé,10,1144.0,Europe,Location,Train,Loisirs,1,6.0
+180,70,Homme,Moyen,1,753.0,Europe,Hôtel,Voiture,Affaires,0,7.0
+181,70,Homme,Élevé,4,1475.0,France,Famille/Amis,Train,Affaires,1,6.0
+182,67,Homme,Moyen,1,631.0,Europe,Location,Voiture,Loisirs,1,1.0
+183,48,Femme,Élevé,2,1317.0,France,Camping,Voiture,Visite famille,1,6.0
+184,31,Femme,Moyen,3,715.0,Europe,Famille/Amis,Train,Loisirs,0,7.0
+185,48,Homme,Faible,1,266.0,Europe,Hôtel,Train,Loisirs,0,2.0
+186,57,Femme,Faible,2,197.0,France,Hôtel,Voiture,Visite famille,0,4.0
+187,24,Femme,Faible,2,50.0,France,Famille/Amis,Train,Loisirs,1,7.0
+188,73,Femme,Moyen,2,612.0,Europe,Camping,Voiture,Visite famille,0,10.0
+189,27,Homme,Moyen,2,699.0,Europe,Famille/Amis,Voiture,Loisirs,0,8.0
+190,69,Homme,Moyen,2,709.0,Europe,Location,Voiture,Loisirs,1,9.0
+191,74,Femme,Moyen,4,299.0,Europe,Hôtel,Avion,Loisirs,0,2.0
+192,55,Homme,Faible,0,592.0,France,Hôtel,Avion,Loisirs,0,
+193,23,Femme,Moyen,6,659.0,France,Camping,Voiture,Loisirs,0,1.0
+194,26,Homme,Moyen,1,750.0,France,Hôtel,Voiture,Visite famille,0,2.0
+195,79,Homme,Élevé,6,1142.0,France,Location,Avion,Loisirs,0,10.0
+196,36,Homme,Élevé,3,830.0,International,Location,Avion,Loisirs,1,10.0
+197,56,Femme,Élevé,4,1483.0,France,Hôtel,Train,Affaires,1,3.0
+198,29,Femme,Faible,5,845.0,Europe,Camping,Train,Loisirs,1,9.0
+199,77,Femme,Moyen,3,689.0,France,Camping,Train,Loisirs,0,2.0
+200,56,Femme,Moyen,2,808.0,France,Location,Avion,Visite famille,0,9.0
+201,72,Femme,Moyen,3,622.0,France,Location,Voiture,Loisirs,0,9.0
+202,24,Femme,Faible,2,410.0,France,Hôtel,Train,Loisirs,0,9.0
+203,72,Homme,Moyen,2,817.0,International,Hôtel,Voiture,Loisirs,0,5.0
+204,55,Femme,Élevé,2,1430.0,International,Location,Avion,Visite famille,1,6.0
+205,70,Femme,Élevé,1,847.0,France,Location,Train,Visite famille,1,5.0
+206,28,Femme,Moyen,2,842.0,France,Famille/Amis,Train,Loisirs,0,6.0
+207,36,Femme,Moyen,4,279.0,France,Camping,Avion,Loisirs,0,4.0
+208,59,Homme,Faible,1,130.0,France,Hôtel,Avion,Loisirs,0,3.0
+209,23,Homme,Moyen,2,757.0,International,Hôtel,Train,Loisirs,1,5.0
+210,51,Femme,Moyen,5,532.0,France,Hôtel,Voiture,Visite famille,0,3.0
+211,72,Homme,Faible,1,634.0,France,Famille/Amis,Voiture,Visite famille,0,1.0
+212,27,Femme,Faible,3,140.0,France,Location,Train,Loisirs,0,10.0
+213,31,Femme,Élevé,2,1178.0,France,Location,Voiture,Loisirs,1,2.0
+214,76,Homme,Élevé,6,1163.0,France,Hôtel,Avion,Loisirs,1,3.0
+215,45,Homme,Moyen,3,432.0,Europe,Camping,Avion,Affaires,0,8.0
+216,24,Femme,Élevé,2,943.0,France,Location,Train,Loisirs,0,3.0
+217,49,Homme,Faible,0,257.0,Europe,Camping,Voiture,Affaires,0,
+218,66,Homme,Élevé,5,1092.0,France,Location,Train,Visite famille,1,7.0
+219,74,Homme,Moyen,3,847.0,France,Location,Train,Loisirs,0,2.0
+220,53,Femme,Moyen,1,408.0,Europe,Location,Train,Loisirs,0,3.0
+221,60,Femme,Moyen,2,378.0,France,Camping,Voiture,Visite famille,0,4.0
+222,68,Homme,Faible,1,325.0,France,Camping,Voiture,Visite famille,1,10.0
+223,65,Femme,Élevé,4,1148.0,Europe,Camping,Avion,Loisirs,0,6.0
+224,18,Homme,Élevé,4,1215.0,International,Location,Voiture,Loisirs,0,10.0
+225,67,Homme,Faible,1,50.0,Europe,Location,Voiture,Loisirs,0,3.0
+226,30,Homme,Moyen,2,832.0,International,Location,Voiture,Affaires,0,6.0
+227,57,Homme,Moyen,4,1004.0,France,Camping,Voiture,Loisirs,0,5.0
+228,58,Homme,Moyen,1,614.0,France,Hôtel,Voiture,Loisirs,0,2.0
+229,34,Femme,Élevé,3,983.0,International,Location,Avion,Loisirs,0,6.0
+230,52,Femme,Faible,1,536.0,France,Location,Avion,Affaires,0,1.0
+231,19,Homme,Élevé,8,744.0,France,Camping,Voiture,Loisirs,0,7.0
+232,68,Femme,Faible,3,299.0,France,Hôtel,Avion,Visite famille,0,5.0
+233,31,Femme,Moyen,0,1016.0,France,Hôtel,Train,Visite famille,0,
+234,71,Homme,Élevé,0,931.0,Europe,Famille/Amis,Train,Visite famille,0,
+235,24,Femme,Faible,1,484.0,France,Location,Voiture,Loisirs,1,4.0
+236,30,Femme,Élevé,2,1291.0,Europe,Camping,Voiture,Visite famille,1,2.0
+237,46,Homme,Faible,0,200.0,Europe,Camping,Voiture,Loisirs,1,
+238,76,Homme,Moyen,4,249.0,France,Famille/Amis,Voiture,Loisirs,1,9.0
+239,41,Femme,Moyen,1,922.0,France,Hôtel,Voiture,Loisirs,1,4.0
+240,37,Homme,Moyen,3,716.0,International,Location,Voiture,Loisirs,1,8.0
+241,72,Homme,Élevé,3,1175.0,France,Location,Train,Visite famille,0,6.0
+242,59,Femme,Élevé,4,1170.0,Europe,Hôtel,Train,Loisirs,1,4.0
+243,22,Homme,Moyen,1,521.0,France,Hôtel,Train,Loisirs,1,8.0
+244,29,Femme,Moyen,3,490.0,Europe,Famille/Amis,Avion,Loisirs,0,8.0
+245,29,Femme,Faible,0,62.0,Europe,Hôtel,Voiture,Affaires,0,
+246,18,Homme,Élevé,4,1263.0,International,Famille/Amis,Voiture,Loisirs,0,4.0
+247,31,Femme,Faible,0,317.0,Europe,Hôtel,Voiture,Loisirs,0,
+248,24,Femme,Moyen,4,555.0,France,Camping,Avion,Loisirs,0,1.0
+249,50,Homme,Élevé,1,1190.0,Europe,Famille/Amis,Train,Visite famille,1,10.0
+250,33,Homme,Moyen,1,511.0,Europe,Famille/Amis,Avion,Loisirs,1,2.0
+251,26,Femme,Faible,0,452.0,Europe,Famille/Amis,Voiture,Visite famille,0,
+252,58,Femme,Moyen,1,585.0,France,Location,Voiture,Loisirs,0,9.0
+253,65,Femme,Moyen,3,,France,Hôtel,Voiture,Loisirs,1,9.0
+254,53,Femme,Faible,1,435.0,France,Camping,Voiture,Loisirs,0,7.0
+255,71,Femme,Faible,1,50.0,Europe,Location,Avion,Loisirs,0,1.0
+256,38,Femme,Moyen,0,918.0,Europe,Location,Voiture,Loisirs,0,
+257,42,Femme,Faible,2,591.0,France,Camping,Avion,Loisirs,0,10.0
+258,48,Homme,Élevé,3,1124.0,France,Location,Train,Visite famille,0,3.0
+259,26,Homme,Moyen,4,451.0,France,Location,Train,Affaires,0,1.0
+260,24,Homme,Faible,1,50.0,France,Hôtel,Train,Loisirs,0,1.0
+261,56,Homme,Moyen,4,863.0,France,Hôtel,Train,Loisirs,0,6.0
+262,61,Femme,Moyen,1,961.0,International,Hôtel,Voiture,Visite famille,0,2.0
+263,79,Homme,Faible,0,471.0,Europe,Location,Train,Affaires,0,
+264,46,Homme,Faible,2,720.0,France,Camping,Voiture,Loisirs,0,8.0
+265,20,Femme,Élevé,3,1028.0,France,Hôtel,Avion,Loisirs,1,8.0
+266,50,Homme,Moyen,3,655.0,France,Hôtel,Voiture,Loisirs,0,9.0
+267,19,Femme,Moyen,2,963.0,Europe,Location,Avion,Visite famille,0,10.0
+268,34,Homme,Moyen,2,837.0,International,Location,Voiture,Loisirs,1,7.0
+269,36,Femme,Élevé,3,1232.0,International,Hôtel,Avion,Loisirs,0,10.0
+270,70,Homme,Faible,3,69.0,International,Hôtel,Voiture,Affaires,0,3.0
+271,28,Femme,Faible,2,326.0,France,Famille/Amis,Voiture,Affaires,0,4.0
+272,25,Homme,Moyen,1,437.0,Europe,Hôtel,Avion,Visite famille,1,7.0
+273,25,Femme,Moyen,2,526.0,Europe,Famille/Amis,Train,Loisirs,0,1.0
+274,44,Homme,Faible,2,117.0,Europe,Hôtel,Train,Loisirs,0,8.0
+275,45,Femme,Élevé,4,1287.0,International,Location,Train,Loisirs,1,2.0
+276,65,Femme,Moyen,2,842.0,International,Hôtel,Avion,Visite famille,1,1.0
+277,35,Femme,Élevé,2,1166.0,Europe,Hôtel,Voiture,Loisirs,1,10.0
+278,74,Homme,Moyen,2,1314.0,International,Hôtel,Train,Affaires,1,6.0
+279,71,Femme,Moyen,2,269.0,France,Hôtel,Avion,Loisirs,0,1.0
+280,21,Homme,Élevé,2,1133.0,France,Location,Train,Affaires,1,8.0
+281,25,Homme,Élevé,3,1142.0,France,Location,Train,Affaires,1,6.0
+282,76,Femme,Moyen,3,473.0,International,Hôtel,Voiture,Visite famille,0,7.0
+283,63,Homme,Moyen,2,358.0,Europe,Location,Voiture,Visite famille,0,10.0
+284,50,Femme,Moyen,2,653.0,Europe,Location,Avion,Loisirs,1,5.0
+285,63,Femme,Faible,1,502.0,France,Location,Voiture,Loisirs,0,5.0
+286,51,Femme,Faible,3,,France,Hôtel,Train,Affaires,1,10.0
+287,46,Femme,Faible,2,50.0,Europe,Location,Avion,Loisirs,0,8.0
+288,75,Homme,Élevé,0,1087.0,Europe,Location,Avion,Affaires,0,
+289,76,Homme,Moyen,4,794.0,Europe,Location,Train,Affaires,0,1.0
+290,75,Femme,Moyen,0,561.0,France,Hôtel,Avion,Loisirs,0,
+291,19,Homme,Faible,0,496.0,France,Location,Voiture,Loisirs,0,
+292,54,Homme,Élevé,3,1354.0,Europe,Famille/Amis,Voiture,Loisirs,1,9.0
+293,22,Femme,Moyen,2,225.0,France,Hôtel,Train,Loisirs,0,6.0
+294,70,Femme,Faible,0,554.0,Europe,Location,Voiture,Loisirs,0,
+295,37,Homme,Moyen,7,980.0,France,Famille/Amis,Avion,Visite famille,0,1.0
+296,41,Homme,Moyen,0,557.0,International,Camping,Voiture,Loisirs,0,
+297,21,Homme,Élevé,2,1182.0,Europe,Camping,Voiture,Loisirs,1,4.0
+298,28,Femme,Moyen,3,369.0,International,Famille/Amis,Train,Loisirs,0,3.0
+299,62,Homme,Élevé,3,1008.0,Europe,Hôtel,Avion,Loisirs,1,9.0
+300,51,Femme,Élevé,0,1220.0,Europe,Camping,Train,Visite famille,0,
+301,76,Femme,Élevé,1,977.0,France,Famille/Amis,Voiture,Loisirs,1,10.0
+302,19,Homme,Moyen,2,600.0,Europe,Hôtel,Voiture,Loisirs,0,7.0
+303,52,Femme,Moyen,4,404.0,France,Hôtel,Avion,Loisirs,0,10.0
+304,78,Femme,Moyen,2,893.0,France,Famille/Amis,Avion,Loisirs,0,7.0
+305,58,Femme,Moyen,4,1032.0,France,Famille/Amis,Avion,Visite famille,0,2.0
+306,65,Homme,Faible,0,109.0,France,Hôtel,Voiture,Loisirs,0,
+307,35,Homme,Élevé,4,1122.0,Europe,Hôtel,Voiture,Affaires,1,2.0
+308,18,Homme,Moyen,0,657.0,France,Camping,Avion,Visite famille,1,
+309,78,Femme,Faible,0,86.0,France,Hôtel,Avion,Loisirs,0,
+310,76,Homme,Moyen,1,724.0,France,Location,Train,Visite famille,0,4.0
+311,75,Homme,Moyen,4,1136.0,Europe,Famille/Amis,Avion,Loisirs,0,6.0
+312,70,Homme,Moyen,2,774.0,Europe,Hôtel,Avion,Loisirs,0,7.0
+313,40,Homme,Élevé,5,747.0,Europe,Hôtel,Avion,Loisirs,0,6.0
+314,39,Femme,Moyen,2,655.0,International,Hôtel,Train,Visite famille,0,9.0
+315,79,Homme,Faible,2,461.0,France,Famille/Amis,Voiture,Visite famille,1,5.0
+316,72,Femme,Moyen,1,1010.0,Europe,Hôtel,Voiture,Affaires,0,1.0
+317,41,Homme,Élevé,6,789.0,International,Location,Avion,Visite famille,0,3.0
+318,37,Femme,Faible,4,161.0,Europe,Hôtel,Voiture,Affaires,0,8.0
+319,22,Femme,Moyen,3,874.0,France,Famille/Amis,Train,Loisirs,1,8.0
+320,51,Femme,Moyen,2,662.0,France,Location,Voiture,Loisirs,0,8.0
+321,27,Homme,Moyen,1,1020.0,International,Location,Voiture,Loisirs,0,9.0
+322,55,Femme,Moyen,0,689.0,International,Camping,Voiture,Visite famille,0,
+323,62,Femme,Moyen,1,747.0,France,Camping,Avion,Affaires,0,1.0
+324,52,Femme,Élevé,1,1384.0,Europe,Hôtel,Voiture,Loisirs,1,9.0
+325,73,Femme,Moyen,0,853.0,France,Famille/Amis,Train,Loisirs,0,
+326,51,Femme,Moyen,3,545.0,France,Famille/Amis,Avion,Loisirs,0,3.0
+327,67,Femme,Faible,0,333.0,Europe,Location,Train,Visite famille,0,
+328,72,Homme,Moyen,3,688.0,Europe,Famille/Amis,Voiture,Visite famille,0,3.0
+329,73,Femme,Faible,0,352.0,Europe,Camping,Voiture,Visite famille,0,
+330,20,Homme,Moyen,3,925.0,France,Hôtel,Avion,Loisirs,0,10.0
+331,48,Femme,Élevé,0,1599.0,International,Famille/Amis,Train,Loisirs,1,
+332,75,Femme,Élevé,5,889.0,Europe,Camping,Voiture,Loisirs,1,10.0
+333,70,Homme,Moyen,0,1059.0,Europe,Location,Train,Visite famille,0,
+334,32,Femme,Élevé,4,1266.0,International,Famille/Amis,Avion,Loisirs,0,1.0
+335,21,Femme,Élevé,5,1049.0,International,Hôtel,Voiture,Affaires,1,6.0
+336,42,Homme,Élevé,2,1411.0,International,Location,Voiture,Loisirs,1,3.0
+337,76,Femme,Moyen,0,1106.0,International,Camping,Voiture,Affaires,0,
+338,72,Femme,Moyen,1,810.0,France,Hôtel,Voiture,Visite famille,0,5.0
+339,50,Femme,Élevé,1,1332.0,France,Hôtel,Avion,Affaires,0,8.0
+340,46,Femme,Élevé,5,1079.0,International,Camping,Avion,Visite famille,1,8.0
+341,51,Femme,Moyen,2,681.0,France,Location,Train,Loisirs,0,4.0
+342,78,Femme,Moyen,3,694.0,Europe,Camping,Voiture,Loisirs,0,2.0
+343,49,Homme,Élevé,2,1094.0,Europe,Camping,Train,Loisirs,1,3.0
+344,28,Femme,Faible,1,532.0,France,Famille/Amis,Voiture,Loisirs,0,9.0
+345,31,Femme,Élevé,5,1108.0,Europe,Location,Avion,Visite famille,1,4.0
+346,79,Homme,Moyen,3,864.0,France,Location,Voiture,Loisirs,0,8.0
+347,50,Femme,Élevé,5,1040.0,Europe,Location,Train,Affaires,1,7.0
+348,61,Homme,Moyen,5,734.0,France,Hôtel,Train,Visite famille,0,3.0
+349,78,Homme,Faible,0,426.0,France,Famille/Amis,Train,Loisirs,0,
+350,26,Homme,Moyen,0,412.0,France,Location,Train,Loisirs,0,
+351,65,Femme,Faible,1,50.0,France,Location,Avion,Visite famille,0,3.0
+352,69,Femme,Moyen,3,714.0,Europe,Location,Avion,Loisirs,0,3.0
+353,53,Femme,Élevé,4,1340.0,France,Hôtel,Voiture,Visite famille,0,10.0
+354,29,Femme,Faible,1,152.0,Europe,Hôtel,Voiture,Affaires,0,8.0
+355,34,Homme,Faible,1,50.0,Europe,Hôtel,Avion,Loisirs,0,5.0
+356,41,Femme,Faible,0,203.0,France,Location,Avion,Visite famille,0,
+357,79,Femme,Moyen,1,594.0,International,Hôtel,Train,Affaires,0,10.0
+358,48,Homme,Moyen,2,845.0,France,Location,Voiture,Loisirs,0,4.0
+359,52,Femme,Moyen,3,1156.0,France,Camping,Voiture,Visite famille,0,8.0
+360,77,Homme,Moyen,2,928.0,International,Hôtel,Voiture,Loisirs,0,1.0
+361,75,Homme,Faible,3,,Europe,Location,Voiture,Loisirs,0,4.0
+362,79,Femme,Moyen,1,801.0,International,Camping,Train,Loisirs,0,9.0
+363,79,Femme,Moyen,2,349.0,International,Camping,Voiture,Loisirs,0,2.0
+364,42,Femme,Faible,1,742.0,Europe,Camping,Avion,Loisirs,1,5.0
+365,50,Homme,Faible,0,652.0,France,Hôtel,Train,Visite famille,0,
+366,65,Homme,Moyen,3,869.0,France,Hôtel,Train,Visite famille,0,1.0
+367,44,Homme,Faible,1,286.0,Europe,Camping,Voiture,Visite famille,0,1.0
+368,36,Homme,Faible,1,152.0,Europe,Hôtel,Train,Affaires,1,7.0
+369,36,Femme,Moyen,5,589.0,France,Famille/Amis,Voiture,Loisirs,0,8.0
+370,33,Homme,Faible,2,83.0,France,Location,Voiture,Loisirs,0,6.0
+371,60,Homme,Moyen,2,720.0,International,Location,Avion,Loisirs,1,7.0
+372,59,Femme,Moyen,6,632.0,Europe,Location,Voiture,Loisirs,0,4.0
+373,24,Femme,Faible,1,216.0,France,Famille/Amis,Train,Visite famille,0,6.0
+374,30,Homme,Élevé,1,,Europe,Hôtel,Train,Loisirs,0,7.0
+375,54,Femme,Élevé,3,848.0,International,Hôtel,Voiture,Visite famille,1,3.0
+376,25,Femme,Faible,1,266.0,France,Hôtel,Voiture,Visite famille,0,7.0
+377,64,Femme,Élevé,2,1060.0,Europe,Famille/Amis,Voiture,Affaires,1,6.0
+378,24,Femme,Faible,0,50.0,France,Famille/Amis,Train,Loisirs,1,
+379,40,Femme,Faible,2,78.0,France,Location,Train,Loisirs,1,6.0
+380,77,Femme,Élevé,4,1355.0,France,Famille/Amis,Voiture,Visite famille,0,2.0
+381,32,Homme,Moyen,3,,International,Hôtel,Voiture,Loisirs,1,7.0
+382,60,Homme,Faible,0,631.0,Europe,Camping,Avion,Affaires,1,
+383,65,Femme,Faible,1,426.0,Europe,Hôtel,Voiture,Loisirs,0,5.0
+384,42,Femme,Moyen,2,708.0,Europe,Location,Avion,Loisirs,1,3.0
+385,59,Homme,Élevé,2,956.0,France,Hôtel,Voiture,Loisirs,0,6.0
+386,41,Homme,Moyen,0,346.0,Europe,Camping,Avion,Loisirs,0,
+387,67,Femme,Moyen,1,1039.0,France,Location,Train,Visite famille,0,3.0
+388,39,Femme,Élevé,2,872.0,Europe,Hôtel,Voiture,Loisirs,1,1.0
+389,60,Femme,Élevé,2,1210.0,International,Hôtel,Voiture,Loisirs,0,6.0
+390,71,Femme,Élevé,1,1442.0,France,Hôtel,Avion,Loisirs,0,8.0
+391,73,Femme,Moyen,0,1058.0,Europe,Hôtel,Train,Affaires,0,
+392,19,Homme,Élevé,3,899.0,Europe,Camping,Avion,Loisirs,1,8.0
+393,47,Homme,Moyen,3,703.0,International,Camping,Voiture,Loisirs,0,1.0
+394,55,Femme,Moyen,3,1042.0,Europe,Hôtel,Avion,Visite famille,1,1.0
+395,65,Femme,Élevé,2,1169.0,International,Location,Train,Loisirs,1,2.0
+396,57,Homme,Faible,1,50.0,France,Famille/Amis,Voiture,Loisirs,0,3.0
+397,56,Femme,Faible,0,601.0,Europe,Location,Voiture,Visite famille,0,
+398,69,Homme,Faible,1,50.0,France,Camping,Voiture,Affaires,0,9.0
+399,31,Femme,Moyen,6,426.0,International,Location,Train,Loisirs,0,9.0
+400,23,Homme,Élevé,0,981.0,France,Location,Voiture,Loisirs,0,
+401,45,Femme,Élevé,2,1420.0,France,Hôtel,Voiture,Loisirs,1,8.0
+402,76,Homme,Moyen,2,787.0,Europe,Location,Avion,Loisirs,0,2.0
+403,29,Femme,Faible,2,460.0,France,Hôtel,Avion,Loisirs,0,9.0
+404,40,Femme,Moyen,3,855.0,International,Hôtel,Avion,Loisirs,0,3.0
+405,54,Homme,Faible,1,415.0,France,Location,Train,Loisirs,0,4.0
+406,47,Femme,Moyen,4,630.0,Europe,Location,Voiture,Affaires,1,7.0
+407,35,Femme,Élevé,1,1153.0,France,Location,Voiture,Affaires,0,7.0
+408,51,Homme,Moyen,2,659.0,Europe,Location,Voiture,Affaires,0,1.0
+409,74,Homme,Moyen,7,539.0,France,Famille/Amis,Train,Loisirs,0,4.0
+410,58,Homme,Moyen,1,579.0,France,Famille/Amis,Avion,Visite famille,0,9.0
+411,43,Homme,Moyen,1,967.0,International,Camping,Train,Loisirs,1,8.0
+412,78,Homme,Faible,1,50.0,France,Hôtel,Avion,Loisirs,0,1.0
+413,73,Femme,Moyen,4,925.0,France,Hôtel,Voiture,Loisirs,0,2.0
+414,64,Homme,Moyen,2,608.0,Europe,Hôtel,Avion,Loisirs,1,10.0
+415,38,Femme,Élevé,4,1028.0,International,Location,Train,Affaires,1,5.0
+416,50,Homme,Faible,3,50.0,France,Camping,Voiture,Loisirs,1,10.0
+417,40,Femme,Moyen,4,675.0,Europe,Hôtel,Voiture,Affaires,1,9.0
+418,50,Femme,Élevé,4,801.0,Europe,Famille/Amis,Voiture,Affaires,0,5.0
+419,63,Femme,Faible,0,50.0,France,Location,Train,Loisirs,1,
+420,66,Femme,Faible,0,225.0,France,Hôtel,Voiture,Affaires,0,
+421,26,Femme,Faible,1,294.0,International,Camping,Train,Affaires,0,3.0
+422,63,Homme,Moyen,2,926.0,Europe,Camping,Avion,Affaires,1,3.0
+423,59,Femme,Élevé,2,1507.0,Europe,Location,Voiture,Loisirs,0,1.0
+424,55,Homme,Faible,2,286.0,France,Location,Avion,Loisirs,0,7.0
+425,46,Femme,Élevé,3,905.0,Europe,Location,Avion,Loisirs,1,1.0
+426,24,Femme,Élevé,5,1055.0,France,Hôtel,Avion,Loisirs,0,2.0
+427,62,Femme,Faible,2,50.0,International,Camping,Train,Loisirs,0,6.0
+428,70,Femme,Faible,1,425.0,France,Camping,Avion,Affaires,1,9.0
+429,58,Femme,Faible,1,369.0,France,Location,Avion,Loisirs,1,6.0
+430,45,Femme,Élevé,3,864.0,International,Hôtel,Voiture,Visite famille,1,9.0
+431,46,Homme,Moyen,3,970.0,France,Camping,Voiture,Loisirs,0,2.0
+432,69,Homme,Élevé,4,1033.0,France,Hôtel,Train,Loisirs,0,6.0
+433,48,Homme,Élevé,2,851.0,France,Camping,Avion,Visite famille,1,5.0
+434,76,Femme,Moyen,6,554.0,France,Location,Voiture,Loisirs,0,1.0
+435,33,Homme,Faible,2,590.0,Europe,Famille/Amis,Voiture,Loisirs,0,9.0
+436,66,Homme,Élevé,1,991.0,France,Camping,Avion,Affaires,0,9.0
+437,32,Homme,Faible,1,724.0,International,Hôtel,Train,Loisirs,0,4.0
+438,44,Femme,Faible,0,,France,Location,Train,Loisirs,0,
+439,47,Femme,Moyen,0,992.0,France,Famille/Amis,Train,Loisirs,0,
+440,66,Homme,Faible,1,290.0,Europe,Hôtel,Voiture,Visite famille,0,7.0
+441,52,Homme,Moyen,0,487.0,France,Hôtel,Voiture,Affaires,0,
+442,60,Homme,Moyen,3,513.0,International,Camping,Voiture,Visite famille,0,6.0
+443,48,Femme,Moyen,4,827.0,International,Hôtel,Avion,Loisirs,0,3.0
+444,61,Femme,Moyen,0,456.0,France,Hôtel,Voiture,Visite famille,0,
+445,27,Femme,Faible,2,50.0,Europe,Location,Avion,Loisirs,0,8.0
+446,33,Femme,Élevé,2,1321.0,Europe,Location,Voiture,Loisirs,0,8.0
+447,73,Femme,Moyen,2,876.0,France,Location,Train,Visite famille,1,4.0
+448,52,Homme,Moyen,2,520.0,France,Location,Voiture,Visite famille,0,5.0
+449,79,Homme,Faible,0,281.0,France,Hôtel,Avion,Loisirs,0,
+450,44,Homme,Élevé,3,1631.0,Europe,Famille/Amis,Avion,Visite famille,0,9.0
+451,58,Femme,Moyen,5,708.0,France,Hôtel,Avion,Loisirs,1,5.0
+452,20,Femme,Moyen,0,582.0,Europe,Hôtel,Train,Loisirs,1,
+453,55,Homme,Moyen,1,831.0,International,Hôtel,Avion,Loisirs,1,5.0
+454,20,Homme,Moyen,1,443.0,Europe,Location,Voiture,Loisirs,0,9.0
+455,32,Femme,Faible,2,409.0,France,Hôtel,Train,Loisirs,1,4.0
+456,77,Femme,Faible,0,815.0,Europe,Famille/Amis,Avion,Visite famille,0,
+457,30,Homme,Faible,2,98.0,France,Famille/Amis,Avion,Loisirs,1,10.0
+458,33,Homme,Élevé,0,1161.0,France,Location,Train,Visite famille,1,
+459,23,Homme,Moyen,2,782.0,Europe,Hôtel,Voiture,Loisirs,1,9.0
+460,18,Homme,Moyen,1,399.0,Europe,Hôtel,Voiture,Affaires,0,8.0
+461,74,Femme,Moyen,1,627.0,France,Location,Voiture,Loisirs,0,10.0
+462,31,Homme,Faible,1,138.0,France,Location,Voiture,Loisirs,0,1.0
+463,36,Femme,Élevé,1,1227.0,International,Famille/Amis,Voiture,Affaires,0,3.0
+464,46,Homme,Faible,0,922.0,International,Camping,Train,Loisirs,0,
+465,79,Femme,Faible,1,525.0,France,Hôtel,Train,Affaires,0,7.0
+466,73,Femme,Élevé,1,1182.0,Europe,Famille/Amis,Voiture,Loisirs,1,9.0
+467,76,Homme,Élevé,2,880.0,Europe,Famille/Amis,Avion,Visite famille,0,1.0
+468,45,Homme,Moyen,1,504.0,France,Famille/Amis,Voiture,Loisirs,1,7.0
+469,55,Femme,Faible,0,357.0,France,Location,Voiture,Loisirs,1,
+470,49,Homme,Moyen,3,517.0,International,Famille/Amis,Avion,Affaires,1,1.0
+471,38,Femme,Moyen,2,996.0,Europe,Location,Avion,Loisirs,1,6.0
+472,71,Femme,Moyen,4,846.0,International,Hôtel,Voiture,Loisirs,0,10.0
+473,66,Femme,Faible,0,50.0,International,Camping,Avion,Loisirs,1,
+474,51,Femme,Faible,2,440.0,Europe,Camping,Voiture,Visite famille,0,8.0
+475,28,Femme,Moyen,2,1047.0,Europe,Famille/Amis,Voiture,Loisirs,1,2.0
+476,51,Homme,Élevé,4,1375.0,International,Hôtel,Voiture,Loisirs,0,5.0
+477,26,Femme,Moyen,4,987.0,Europe,Famille/Amis,Voiture,Loisirs,1,6.0
+478,51,Homme,Élevé,5,1165.0,International,Famille/Amis,Train,Affaires,1,10.0
+479,61,Homme,Élevé,3,868.0,Europe,Hôtel,Avion,Visite famille,0,5.0
+480,64,Femme,Moyen,1,754.0,France,Famille/Amis,Avion,Loisirs,0,8.0
+481,75,Femme,Élevé,3,1148.0,Europe,Location,Avion,Loisirs,1,4.0
+482,72,Homme,Élevé,4,1342.0,Europe,Famille/Amis,Avion,Loisirs,0,1.0
+483,73,Homme,Élevé,2,990.0,International,Famille/Amis,Voiture,Loisirs,1,8.0
+484,71,Homme,Moyen,1,685.0,Europe,Hôtel,Avion,Loisirs,0,7.0
+485,48,Femme,Faible,1,270.0,International,Location,Voiture,Loisirs,0,9.0
+486,22,Homme,Élevé,2,1213.0,France,Famille/Amis,Train,Loisirs,0,10.0
+487,23,Femme,Faible,0,491.0,Europe,Famille/Amis,Avion,Affaires,0,
+488,70,Homme,Moyen,1,639.0,France,Location,Avion,Loisirs,1,10.0
+489,60,Femme,Faible,1,50.0,France,Hôtel,Avion,Loisirs,0,3.0
+490,23,Homme,Faible,3,425.0,France,Camping,Voiture,Loisirs,1,4.0
+491,18,Femme,Élevé,3,1293.0,Europe,Famille/Amis,Avion,Loisirs,0,5.0
+492,32,Femme,Faible,1,113.0,France,Hôtel,Train,Affaires,1,10.0
+493,48,Femme,Moyen,4,650.0,Europe,Hôtel,Voiture,Visite famille,1,9.0
+494,55,Femme,Moyen,3,764.0,Europe,Hôtel,Voiture,Loisirs,0,6.0
+495,44,Femme,Faible,3,100.0,France,Famille/Amis,Voiture,Loisirs,1,4.0
+496,29,Homme,Faible,1,50.0,International,Famille/Amis,Voiture,Loisirs,0,10.0
+497,59,Femme,Faible,1,235.0,France,Camping,Voiture,Visite famille,1,1.0
+498,66,Femme,Élevé,3,972.0,France,Hôtel,Train,Loisirs,0,3.0
+499,63,Femme,Moyen,0,866.0,Europe,Famille/Amis,Train,Affaires,0,
+500,38,Femme,Faible,3,445.0,France,Camping,Train,Visite famille,1,10.0
+501,54,Homme,Moyen,3,690.0,Europe,Hôtel,Avion,Visite famille,0,9.0
+502,34,Femme,Faible,1,244.0,Europe,Camping,Voiture,Visite famille,0,4.0
+503,60,Femme,Moyen,1,888.0,International,Location,Voiture,Loisirs,1,10.0
+504,48,Homme,Moyen,0,664.0,Europe,Location,Voiture,Visite famille,1,
+505,59,Homme,Moyen,1,608.0,International,Hôtel,Voiture,Visite famille,0,1.0
+506,51,Femme,Moyen,2,408.0,Europe,Location,Voiture,Visite famille,1,2.0
+507,21,Femme,Moyen,4,1000.0,France,Hôtel,Voiture,Loisirs,1,4.0
+508,55,Homme,Moyen,3,432.0,France,Camping,Voiture,Loisirs,1,10.0
+509,79,Femme,Faible,0,499.0,France,Hôtel,Voiture,Loisirs,1,
+510,77,Femme,Moyen,3,590.0,France,Famille/Amis,Voiture,Visite famille,0,5.0
+511,33,Homme,Moyen,1,779.0,Europe,Camping,Train,Visite famille,0,9.0
+512,61,Femme,Élevé,3,816.0,International,Hôtel,Avion,Loisirs,0,3.0
+513,31,Homme,Élevé,2,,France,Location,Voiture,Loisirs,0,7.0
+514,34,Femme,Élevé,3,1175.0,International,Famille/Amis,Train,Loisirs,0,7.0
+515,33,Homme,Moyen,1,479.0,Europe,Location,Avion,Affaires,0,9.0
+516,73,Femme,Élevé,5,761.0,International,Famille/Amis,Avion,Loisirs,1,5.0
+517,69,Homme,Faible,1,309.0,France,Location,Train,Loisirs,1,10.0
+518,72,Homme,Faible,0,161.0,France,Famille/Amis,Voiture,Loisirs,1,
+519,71,Homme,Moyen,3,753.0,Europe,Hôtel,Avion,Visite famille,0,10.0
+520,37,Homme,Faible,1,489.0,France,Location,Voiture,Loisirs,1,5.0
+521,51,Homme,Faible,2,220.0,International,Famille/Amis,Train,Visite famille,0,2.0
+522,23,Femme,Élevé,2,1079.0,Europe,Camping,Voiture,Loisirs,0,1.0
+523,36,Homme,Moyen,3,799.0,Europe,Famille/Amis,Avion,Visite famille,1,9.0
+524,49,Femme,Moyen,6,601.0,International,Camping,Avion,Affaires,0,5.0
+525,77,Femme,Moyen,1,393.0,Europe,Famille/Amis,Voiture,Loisirs,0,3.0
+526,66,Homme,Moyen,1,,Europe,Famille/Amis,Voiture,Loisirs,0,2.0
+527,21,Femme,Moyen,2,1062.0,France,Camping,Voiture,Visite famille,1,10.0
+528,32,Homme,Moyen,3,1075.0,France,Location,Voiture,Loisirs,0,6.0
+529,39,Femme,Moyen,3,593.0,France,Famille/Amis,Voiture,Loisirs,0,6.0
+530,47,Femme,Élevé,3,1064.0,France,Hôtel,Train,Loisirs,1,3.0
+531,20,Homme,Moyen,1,786.0,France,Location,Voiture,Loisirs,0,5.0
+532,19,Homme,Moyen,5,,France,Hôtel,Train,Loisirs,0,1.0
+533,75,Femme,Moyen,5,747.0,France,Famille/Amis,Avion,Visite famille,1,8.0
+534,51,Homme,Moyen,1,1061.0,International,Hôtel,Voiture,Visite famille,0,1.0
+535,41,Femme,Faible,0,165.0,Europe,Camping,Voiture,Visite famille,0,
+536,48,Femme,Élevé,3,1103.0,International,Location,Avion,Loisirs,0,8.0
+537,50,Homme,Faible,1,628.0,France,Location,Train,Loisirs,1,9.0
+538,22,Homme,Élevé,3,1143.0,Europe,Location,Voiture,Affaires,0,8.0
+539,22,Femme,Moyen,3,1136.0,France,Location,Train,Visite famille,0,8.0
+540,56,Femme,Moyen,0,132.0,Europe,Location,Voiture,Visite famille,0,
+541,27,Femme,Moyen,3,231.0,Europe,Famille/Amis,Avion,Affaires,0,6.0
+542,61,Femme,Faible,2,935.0,Europe,Hôtel,Voiture,Visite famille,1,6.0
+543,69,Homme,Faible,1,308.0,Europe,Location,Voiture,Loisirs,0,4.0
+544,76,Homme,Faible,0,726.0,France,Camping,Voiture,Loisirs,0,
+545,28,Femme,Élevé,2,980.0,Europe,Famille/Amis,Voiture,Loisirs,1,3.0
+546,46,Homme,Moyen,3,785.0,France,Location,Avion,Loisirs,1,8.0
+547,52,Homme,Moyen,1,882.0,France,Famille/Amis,Train,Loisirs,0,8.0
+548,25,Homme,Élevé,3,1084.0,France,Famille/Amis,Voiture,Loisirs,1,9.0
+549,33,Femme,Moyen,3,500.0,France,Hôtel,Voiture,Loisirs,1,6.0
+550,28,Homme,Moyen,2,657.0,France,Location,Avion,Visite famille,1,3.0
+551,33,Homme,Élevé,3,1263.0,International,Famille/Amis,Avion,Loisirs,1,6.0
+552,22,Homme,Moyen,0,465.0,Europe,Hôtel,Train,Loisirs,1,
+553,75,Homme,Faible,1,,Europe,Camping,Train,Loisirs,0,7.0
+554,60,Homme,Faible,0,175.0,France,Camping,Train,Loisirs,1,
+555,41,Femme,Faible,0,379.0,France,Location,Train,Affaires,0,
+556,76,Homme,Faible,1,578.0,Europe,Hôtel,Train,Visite famille,0,5.0
+557,47,Femme,Moyen,4,737.0,France,Famille/Amis,Voiture,Loisirs,1,2.0
+558,30,Homme,Faible,2,319.0,France,Location,Avion,Loisirs,0,10.0
+559,42,Femme,Moyen,2,710.0,France,Hôtel,Voiture,Loisirs,0,6.0
+560,33,Femme,Faible,0,527.0,International,Camping,Train,Loisirs,0,
+561,41,Femme,Faible,1,418.0,France,Camping,Avion,Visite famille,1,3.0
+562,61,Homme,Faible,2,147.0,Europe,Hôtel,Avion,Visite famille,0,2.0
+563,41,Homme,Moyen,2,392.0,France,Famille/Amis,Voiture,Loisirs,1,9.0
+564,46,Femme,Faible,1,315.0,France,Famille/Amis,Train,Loisirs,1,6.0
+565,73,Homme,Faible,2,285.0,France,Location,Train,Affaires,0,5.0
+566,38,Homme,Moyen,0,,Europe,Hôtel,Voiture,Loisirs,0,
+567,32,Homme,Faible,0,464.0,France,Famille/Amis,Avion,Loisirs,1,
+568,33,Femme,Élevé,3,1088.0,International,Camping,Train,Loisirs,0,3.0
+569,44,Homme,Élevé,5,1042.0,France,Location,Train,Loisirs,1,3.0
+570,23,Femme,Faible,0,124.0,France,Famille/Amis,Voiture,Loisirs,1,
+571,71,Femme,Élevé,4,1213.0,Europe,Hôtel,Voiture,Loisirs,0,6.0
+572,32,Femme,Faible,1,413.0,France,Location,Avion,Visite famille,0,4.0
+573,25,Femme,Moyen,1,,Europe,Camping,Voiture,Loisirs,0,9.0
+574,52,Femme,Moyen,3,,France,Camping,Train,Loisirs,1,6.0
+575,64,Femme,Moyen,1,907.0,International,Camping,Train,Loisirs,0,5.0
+576,66,Femme,Élevé,2,840.0,Europe,Famille/Amis,Voiture,Loisirs,0,2.0
+577,64,Femme,Moyen,3,557.0,France,Location,Train,Affaires,0,5.0
+578,51,Homme,Moyen,3,729.0,France,Hôtel,Train,Affaires,0,7.0
+579,57,Homme,Faible,2,50.0,France,Location,Train,Loisirs,0,8.0
+580,23,Homme,Élevé,1,1300.0,France,Hôtel,Voiture,Loisirs,0,1.0
+581,54,Homme,Faible,1,202.0,France,Hôtel,Voiture,Affaires,0,6.0
+582,20,Homme,Élevé,2,795.0,Europe,Famille/Amis,Avion,Loisirs,1,2.0
+583,31,Femme,Élevé,2,1021.0,International,Hôtel,Voiture,Loisirs,1,8.0
+584,40,Femme,Faible,1,50.0,France,Camping,Train,Visite famille,0,1.0
+585,34,Femme,Moyen,4,714.0,International,Famille/Amis,Avion,Loisirs,1,9.0
+586,21,Homme,Élevé,4,1127.0,Europe,Location,Voiture,Loisirs,1,7.0
+587,63,Homme,Moyen,0,686.0,France,Famille/Amis,Train,Loisirs,1,
+588,73,Homme,Faible,1,50.0,Europe,Camping,Train,Loisirs,0,5.0
+589,68,Homme,Moyen,6,352.0,France,Location,Avion,Loisirs,1,1.0
+590,73,Femme,Faible,2,174.0,Europe,Hôtel,Voiture,Visite famille,0,1.0
+591,75,Homme,Moyen,4,,International,Camping,Avion,Loisirs,1,6.0
+592,25,Homme,Élevé,3,1239.0,Europe,Camping,Voiture,Affaires,1,6.0
+593,22,Femme,Élevé,2,981.0,France,Hôtel,Train,Loisirs,1,1.0
+594,59,Homme,Faible,1,60.0,International,Location,Voiture,Visite famille,0,2.0
+595,28,Homme,Moyen,4,1071.0,Europe,Location,Voiture,Loisirs,1,3.0
+596,18,Femme,Élevé,3,984.0,Europe,Hôtel,Voiture,Loisirs,1,3.0
+597,64,Homme,Faible,0,268.0,Europe,Hôtel,Train,Visite famille,0,
+598,44,Homme,Moyen,1,248.0,France,Hôtel,Voiture,Visite famille,0,9.0
+599,55,Homme,Moyen,1,570.0,International,Camping,Voiture,Affaires,0,2.0
+600,21,Femme,Faible,2,299.0,Europe,Location,Avion,Loisirs,1,9.0
+601,55,Homme,Élevé,2,585.0,Europe,Hôtel,Voiture,Loisirs,0,1.0
+602,38,Femme,Moyen,3,824.0,Europe,Location,Avion,Visite famille,0,1.0
+603,79,Homme,Faible,1,203.0,France,Location,Voiture,Loisirs,0,3.0
+604,23,Femme,Moyen,2,504.0,France,Location,Train,Loisirs,0,6.0
+605,20,Femme,Moyen,2,1059.0,International,Camping,Voiture,Loisirs,1,4.0
+606,33,Homme,Moyen,4,746.0,Europe,Location,Avion,Loisirs,0,8.0
+607,43,Femme,Faible,1,325.0,France,Hôtel,Avion,Loisirs,0,6.0
+608,38,Femme,Élevé,2,1040.0,Europe,Famille/Amis,Train,Loisirs,1,10.0
+609,53,Homme,Moyen,2,880.0,France,Hôtel,Train,Loisirs,1,1.0
+610,37,Femme,Faible,1,378.0,France,Hôtel,Voiture,Loisirs,1,4.0
+611,40,Femme,Faible,1,345.0,France,Hôtel,Voiture,Loisirs,1,10.0
+612,54,Femme,Moyen,1,940.0,France,Camping,Avion,Loisirs,1,5.0
+613,27,Homme,Faible,2,50.0,France,Location,Voiture,Loisirs,0,2.0
+614,78,Homme,Moyen,0,814.0,France,Camping,Voiture,Loisirs,0,
+615,32,Femme,Faible,2,628.0,France,Famille/Amis,Avion,Affaires,0,1.0
+616,33,Homme,Élevé,3,992.0,Europe,Famille/Amis,Voiture,Affaires,0,5.0
+617,50,Femme,Faible,2,405.0,France,Hôtel,Avion,Loisirs,0,7.0
+618,57,Homme,Moyen,2,,Europe,Famille/Amis,Avion,Loisirs,1,7.0
+619,67,Femme,Moyen,0,859.0,France,Location,Avion,Loisirs,0,
+620,23,Femme,Moyen,0,534.0,France,Location,Voiture,Visite famille,0,
+621,71,Femme,Moyen,2,658.0,France,Location,Avion,Loisirs,0,9.0
+622,70,Femme,Moyen,1,709.0,International,Hôtel,Voiture,Loisirs,0,1.0
+623,57,Femme,Moyen,0,407.0,Europe,Famille/Amis,Train,Visite famille,0,
+624,66,Homme,Faible,1,180.0,France,Camping,Avion,Affaires,1,5.0
+625,34,Homme,Faible,3,491.0,Europe,Hôtel,Train,Loisirs,0,5.0
+626,53,Homme,Faible,1,359.0,France,Hôtel,Voiture,Visite famille,0,1.0
+627,46,Homme,Élevé,1,1237.0,France,Hôtel,Train,Loisirs,1,4.0
+628,65,Homme,Moyen,1,627.0,France,Location,Voiture,Visite famille,0,10.0
+629,41,Femme,Élevé,2,1158.0,Europe,Location,Voiture,Visite famille,0,7.0
+630,33,Homme,Élevé,3,802.0,France,Hôtel,Voiture,Loisirs,1,6.0
+631,70,Femme,Faible,0,,France,Famille/Amis,Train,Loisirs,1,
+632,39,Femme,Moyen,3,601.0,International,Hôtel,Train,Visite famille,0,4.0
+633,44,Femme,Faible,1,406.0,International,Famille/Amis,Train,Visite famille,0,8.0
+634,66,Homme,Moyen,4,765.0,Europe,Famille/Amis,Avion,Visite famille,1,8.0
+635,52,Femme,Moyen,1,745.0,International,Hôtel,Voiture,Loisirs,0,6.0
+636,68,Homme,Élevé,2,1268.0,International,Camping,Train,Visite famille,0,9.0
+637,34,Homme,Moyen,3,669.0,Europe,Camping,Voiture,Loisirs,0,5.0
+638,25,Femme,Faible,1,493.0,Europe,Location,Avion,Visite famille,0,1.0
+639,68,Homme,Faible,0,230.0,Europe,Location,Avion,Loisirs,0,
+640,72,Homme,Faible,0,68.0,France,Hôtel,Voiture,Loisirs,0,
+641,64,Homme,Moyen,1,1072.0,France,Hôtel,Voiture,Visite famille,1,4.0
+642,22,Femme,Moyen,2,876.0,Europe,Camping,Train,Loisirs,1,4.0
+643,52,Homme,Moyen,0,692.0,France,Camping,Avion,Loisirs,0,
+644,38,Homme,Faible,1,204.0,France,Famille/Amis,Train,Affaires,0,2.0
+645,21,Femme,Faible,1,50.0,France,Location,Avion,Loisirs,1,9.0
+646,35,Femme,Faible,1,50.0,Europe,Hôtel,Avion,Loisirs,0,5.0
+647,66,Homme,Moyen,1,480.0,Europe,Camping,Voiture,Loisirs,0,7.0
+648,39,Homme,Faible,1,390.0,France,Location,Voiture,Loisirs,0,3.0
+649,40,Femme,Moyen,3,852.0,France,Famille/Amis,Avion,Loisirs,0,9.0
+650,39,Homme,Élevé,4,1061.0,France,Hôtel,Voiture,Visite famille,0,10.0
+651,69,Homme,Élevé,3,1069.0,International,Camping,Train,Visite famille,1,7.0
+652,21,Femme,Élevé,6,1689.0,International,Famille/Amis,Avion,Loisirs,1,7.0
+653,35,Homme,Moyen,1,693.0,Europe,Location,Voiture,Loisirs,1,10.0
+654,27,Homme,Faible,1,108.0,France,Famille/Amis,Train,Affaires,0,3.0
+655,43,Femme,Élevé,2,929.0,France,Hôtel,Train,Loisirs,0,5.0
+656,71,Femme,Faible,2,,Europe,Location,Avion,Loisirs,1,1.0
+657,70,Femme,Moyen,1,527.0,Europe,Location,Train,Visite famille,0,9.0
+658,44,Homme,Élevé,2,1594.0,International,Location,Avion,Loisirs,0,10.0
+659,51,Femme,Moyen,2,985.0,Europe,Famille/Amis,Avion,Visite famille,0,4.0
+660,35,Homme,Moyen,3,958.0,France,Location,Voiture,Loisirs,0,4.0
+661,65,Homme,Moyen,4,710.0,Europe,Hôtel,Voiture,Loisirs,1,9.0
+662,35,Homme,Moyen,2,761.0,Europe,Camping,Train,Loisirs,0,4.0
+663,30,Femme,Élevé,4,1204.0,France,Famille/Amis,Avion,Loisirs,1,5.0
+664,59,Femme,Élevé,3,931.0,International,Famille/Amis,Voiture,Loisirs,1,10.0
+665,30,Homme,Moyen,2,665.0,Europe,Location,Train,Loisirs,1,7.0
+666,70,Homme,Élevé,7,769.0,International,Location,Avion,Loisirs,0,10.0
+667,30,Homme,Élevé,2,1078.0,Europe,Famille/Amis,Voiture,Loisirs,1,8.0
+668,66,Homme,Faible,0,58.0,Europe,Location,Train,Affaires,0,
+669,30,Homme,Faible,0,233.0,Europe,Location,Train,Visite famille,1,
+670,65,Homme,Faible,2,394.0,International,Famille/Amis,Avion,Loisirs,0,10.0
+671,66,Femme,Moyen,5,728.0,Europe,Location,Voiture,Loisirs,0,5.0
+672,64,Femme,Faible,0,283.0,France,Famille/Amis,Avion,Loisirs,0,
+673,61,Homme,Faible,1,354.0,International,Hôtel,Avion,Visite famille,0,9.0
+674,55,Femme,Faible,1,977.0,France,Hôtel,Voiture,Loisirs,0,9.0
+675,72,Homme,Moyen,1,924.0,Europe,Location,Avion,Loisirs,0,6.0
+676,22,Femme,Moyen,2,732.0,France,Location,Voiture,Loisirs,1,6.0
+677,33,Femme,Élevé,5,957.0,Europe,Hôtel,Voiture,Loisirs,1,10.0
+678,76,Femme,Moyen,4,638.0,France,Hôtel,Avion,Visite famille,0,6.0
+679,47,Homme,Moyen,0,824.0,France,Famille/Amis,Train,Loisirs,0,
+680,30,Femme,Faible,0,349.0,France,Camping,Voiture,Affaires,1,
+681,61,Femme,Faible,2,675.0,France,Location,Train,Loisirs,1,6.0
+682,66,Homme,Moyen,4,495.0,Europe,Camping,Voiture,Loisirs,0,5.0
+683,38,Femme,Moyen,2,763.0,Europe,Hôtel,Train,Loisirs,0,4.0
+684,21,Femme,Élevé,1,1033.0,International,Famille/Amis,Avion,Loisirs,0,1.0
+685,77,Femme,Faible,2,50.0,France,Famille/Amis,Voiture,Loisirs,0,2.0
+686,59,Homme,Moyen,1,841.0,France,Hôtel,Voiture,Loisirs,0,8.0
+687,35,Femme,Faible,1,529.0,France,Famille/Amis,Voiture,Loisirs,1,9.0
+688,66,Homme,Faible,2,534.0,Europe,Hôtel,Voiture,Visite famille,0,4.0
+689,48,Femme,Moyen,2,398.0,France,Hôtel,Train,Loisirs,0,8.0
+690,34,Homme,Faible,1,50.0,Europe,Location,Voiture,Loisirs,0,2.0
+691,53,Homme,Élevé,1,870.0,International,Location,Train,Visite famille,1,5.0
+692,58,Femme,Faible,1,759.0,France,Hôtel,Avion,Loisirs,0,7.0
+693,72,Homme,Moyen,3,456.0,International,Famille/Amis,Avion,Loisirs,0,5.0
+694,72,Femme,Faible,3,143.0,France,Location,Voiture,Loisirs,0,3.0
+695,57,Homme,Moyen,3,677.0,Europe,Location,Train,Visite famille,0,4.0
+696,70,Femme,Faible,1,289.0,France,Camping,Voiture,Loisirs,1,4.0
+697,53,Femme,Moyen,3,663.0,France,Famille/Amis,Train,Visite famille,1,3.0
+698,76,Homme,Faible,0,317.0,Europe,Hôtel,Train,Loisirs,0,
+699,45,Femme,Faible,1,686.0,France,Location,Voiture,Visite famille,0,5.0
+700,75,Femme,Moyen,0,834.0,Europe,Famille/Amis,Voiture,Loisirs,0,
+701,74,Homme,Élevé,5,937.0,Europe,Hôtel,Train,Visite famille,0,4.0
+702,23,Femme,Faible,0,565.0,France,Hôtel,Avion,Loisirs,0,
+703,54,Homme,Élevé,2,1356.0,Europe,Location,Voiture,Loisirs,1,6.0
+704,38,Homme,Moyen,5,343.0,Europe,Hôtel,Avion,Loisirs,0,7.0
+705,22,Homme,Moyen,3,375.0,Europe,Hôtel,Avion,Visite famille,1,2.0
+706,65,Homme,Élevé,1,1352.0,Europe,Hôtel,Voiture,Loisirs,0,2.0
+707,18,Femme,Faible,0,231.0,France,Location,Train,Affaires,1,
+708,41,Homme,Élevé,2,1003.0,France,Hôtel,Voiture,Visite famille,0,5.0
+709,25,Homme,Moyen,0,887.0,France,Hôtel,Voiture,Loisirs,0,
+710,36,Femme,Faible,0,,France,Location,Train,Visite famille,0,
+711,54,Homme,Élevé,2,1013.0,Europe,Location,Voiture,Visite famille,0,6.0
+712,24,Homme,Moyen,0,1007.0,International,Hôtel,Avion,Affaires,1,
+713,22,Homme,Élevé,1,1032.0,International,Hôtel,Avion,Loisirs,1,2.0
+714,32,Homme,Élevé,1,1516.0,International,Location,Voiture,Loisirs,0,8.0
+715,54,Femme,Faible,3,50.0,France,Hôtel,Voiture,Affaires,1,10.0
+716,40,Femme,Moyen,6,601.0,France,Camping,Train,Loisirs,0,10.0
+717,41,Femme,Faible,1,469.0,France,Location,Voiture,Loisirs,1,4.0
+718,39,Femme,Élevé,2,1728.0,International,Famille/Amis,Train,Loisirs,1,3.0
+719,33,Femme,Élevé,1,1013.0,Europe,Location,Avion,Visite famille,0,2.0
+720,76,Homme,Moyen,3,518.0,France,Famille/Amis,Voiture,Loisirs,1,2.0
+721,23,Femme,Élevé,7,1083.0,International,Famille/Amis,Avion,Loisirs,1,5.0
+722,45,Homme,Moyen,6,764.0,France,Hôtel,Avion,Loisirs,0,8.0
+723,27,Homme,Moyen,1,410.0,France,Location,Voiture,Loisirs,0,9.0
+724,50,Homme,Moyen,0,541.0,International,Location,Avion,Loisirs,0,
+725,44,Femme,Moyen,1,807.0,France,Hôtel,Avion,Visite famille,0,9.0
+726,18,Homme,Faible,0,735.0,Europe,Location,Train,Loisirs,0,
+727,77,Femme,Faible,2,322.0,France,Hôtel,Voiture,Loisirs,0,9.0
+728,42,Femme,Moyen,2,655.0,Europe,Location,Avion,Loisirs,1,6.0
+729,48,Femme,Faible,2,783.0,Europe,Camping,Voiture,Loisirs,0,10.0
+730,23,Femme,Moyen,2,823.0,France,Hôtel,Avion,Loisirs,1,4.0
+731,62,Femme,Faible,1,123.0,International,Location,Avion,Loisirs,0,5.0
+732,59,Femme,Moyen,3,879.0,France,Hôtel,Train,Loisirs,0,4.0
+733,71,Homme,Faible,4,471.0,France,Famille/Amis,Voiture,Loisirs,0,2.0
+734,26,Homme,Faible,0,500.0,Europe,Hôtel,Avion,Loisirs,0,
+735,26,Homme,Faible,2,96.0,Europe,Hôtel,Avion,Loisirs,0,3.0
+736,64,Femme,Faible,1,149.0,Europe,Hôtel,Train,Loisirs,0,10.0
+737,36,Homme,Faible,0,366.0,France,Location,Voiture,Loisirs,0,
+738,22,Homme,Moyen,4,894.0,Europe,Camping,Train,Affaires,0,8.0
+739,29,Homme,Moyen,2,527.0,Europe,Location,Voiture,Loisirs,0,4.0
+740,77,Homme,Faible,0,202.0,France,Famille/Amis,Voiture,Loisirs,0,
+741,40,Femme,Faible,0,597.0,France,Hôtel,Train,Loisirs,1,
+742,19,Femme,Élevé,5,1497.0,International,Famille/Amis,Train,Loisirs,1,3.0
+743,26,Homme,Moyen,4,1013.0,France,Camping,Voiture,Affaires,0,2.0
+744,74,Homme,Élevé,5,878.0,France,Hôtel,Train,Loisirs,0,10.0
+745,58,Femme,Moyen,1,714.0,France,Camping,Avion,Loisirs,1,7.0
+746,69,Femme,Moyen,1,294.0,Europe,Hôtel,Voiture,Loisirs,0,7.0
+747,54,Femme,Moyen,9,317.0,Europe,Location,Voiture,Loisirs,0,2.0
+748,55,Femme,Élevé,4,1065.0,France,Camping,Avion,Loisirs,0,10.0
+749,76,Femme,Élevé,3,819.0,International,Famille/Amis,Train,Visite famille,1,9.0
+750,77,Femme,Élevé,4,1058.0,Europe,Famille/Amis,Voiture,Affaires,0,1.0
+751,60,Femme,Moyen,3,532.0,International,Famille/Amis,Train,Loisirs,1,4.0
+752,46,Homme,Moyen,2,1033.0,International,Location,Avion,Loisirs,0,4.0
+753,40,Homme,Moyen,4,974.0,International,Location,Train,Loisirs,0,8.0
+754,32,Homme,Faible,0,246.0,France,Hôtel,Avion,Affaires,0,
+755,62,Femme,Élevé,3,1312.0,Europe,Location,Avion,Visite famille,0,4.0
+756,66,Homme,Élevé,1,1077.0,France,Location,Avion,Loisirs,0,4.0
+757,50,Homme,Élevé,7,,France,Camping,Avion,Loisirs,0,8.0
+758,68,Femme,Élevé,0,1180.0,France,Hôtel,Avion,Loisirs,0,
+759,63,Homme,Élevé,3,1472.0,France,Famille/Amis,Voiture,Loisirs,0,2.0
+760,19,Homme,Moyen,2,555.0,Europe,Famille/Amis,Voiture,Loisirs,1,6.0
+761,23,Homme,Moyen,1,759.0,Europe,Location,Avion,Affaires,1,10.0
+762,56,Femme,Élevé,1,1161.0,Europe,Famille/Amis,Avion,Loisirs,1,10.0
+763,62,Homme,Moyen,5,859.0,France,Hôtel,Avion,Loisirs,0,10.0
+764,52,Femme,Élevé,0,1391.0,France,Location,Voiture,Loisirs,0,
+765,40,Femme,Élevé,3,1421.0,International,Location,Voiture,Visite famille,0,10.0
+766,37,Homme,Moyen,2,755.0,Europe,Location,Avion,Loisirs,0,10.0
+767,46,Femme,Élevé,2,1467.0,International,Location,Voiture,Loisirs,1,10.0
+768,27,Homme,Élevé,3,657.0,Europe,Camping,Train,Visite famille,1,6.0
+769,71,Homme,Moyen,2,802.0,Europe,Location,Train,Loisirs,0,7.0
+770,70,Homme,Élevé,5,1289.0,International,Location,Train,Loisirs,1,4.0
+771,73,Femme,Élevé,2,1190.0,Europe,Hôtel,Voiture,Affaires,0,10.0
+772,58,Femme,Faible,2,174.0,France,Hôtel,Train,Visite famille,0,8.0
+773,21,Femme,Faible,0,245.0,France,Location,Voiture,Loisirs,0,
+774,50,Femme,Élevé,1,1015.0,Europe,Location,Avion,Visite famille,0,3.0
+775,58,Homme,Moyen,2,461.0,Europe,Famille/Amis,Avion,Loisirs,1,6.0
+776,36,Femme,Moyen,2,833.0,Europe,Camping,Train,Loisirs,0,7.0
+777,69,Homme,Élevé,3,993.0,International,Hôtel,Train,Loisirs,1,10.0
+778,47,Femme,Faible,0,71.0,France,Hôtel,Train,Loisirs,0,
+779,59,Femme,Élevé,2,877.0,International,Location,Voiture,Loisirs,0,2.0
+780,74,Homme,Moyen,1,736.0,International,Camping,Train,Loisirs,1,5.0
+781,77,Homme,Faible,0,219.0,France,Hôtel,Train,Loisirs,0,
+782,64,Homme,Moyen,5,988.0,Europe,Hôtel,Train,Loisirs,0,6.0
+783,60,Homme,Faible,2,132.0,France,Location,Voiture,Loisirs,0,1.0
+784,18,Femme,Élevé,4,1180.0,France,Location,Train,Loisirs,0,6.0
+785,46,Femme,Faible,1,163.0,France,Famille/Amis,Train,Loisirs,1,5.0
+786,62,Homme,Faible,1,199.0,France,Hôtel,Train,Affaires,0,3.0
+787,40,Homme,Moyen,2,254.0,Europe,Famille/Amis,Avion,Loisirs,0,2.0
+788,68,Homme,Moyen,1,727.0,France,Camping,Voiture,Loisirs,0,2.0
+789,34,Homme,Moyen,3,350.0,Europe,Hôtel,Train,Loisirs,1,4.0
+790,25,Femme,Faible,2,,International,Camping,Train,Visite famille,1,3.0
+791,18,Femme,Élevé,5,1692.0,Europe,Location,Voiture,Visite famille,0,7.0
+792,71,Homme,Élevé,5,814.0,France,Hôtel,Voiture,Loisirs,1,9.0
+793,50,Homme,Faible,2,330.0,France,Camping,Voiture,Visite famille,0,1.0
+794,45,Homme,Moyen,1,489.0,France,Hôtel,Train,Loisirs,0,8.0
+795,58,Homme,Moyen,5,848.0,France,Famille/Amis,Train,Loisirs,1,6.0
+796,77,Homme,Faible,1,183.0,France,Camping,Voiture,Visite famille,1,3.0
+797,46,Femme,Moyen,1,1062.0,France,Hôtel,Train,Loisirs,0,5.0
+798,39,Femme,Moyen,0,712.0,France,Hôtel,Avion,Visite famille,0,
+799,70,Femme,Moyen,0,1005.0,International,Hôtel,Voiture,Loisirs,0,
+800,28,Femme,Faible,0,504.0,Europe,Famille/Amis,Train,Visite famille,0,
+801,38,Homme,Élevé,1,907.0,Europe,Hôtel,Voiture,Loisirs,0,9.0
+802,57,Femme,Moyen,3,806.0,Europe,Location,Train,Loisirs,1,7.0
+803,76,Femme,Élevé,2,1387.0,Europe,Famille/Amis,Voiture,Loisirs,0,8.0
+804,44,Homme,Faible,0,813.0,France,Hôtel,Avion,Visite famille,0,
+805,39,Homme,Moyen,1,519.0,Europe,Location,Avion,Loisirs,1,4.0
+806,46,Homme,Moyen,4,648.0,France,Hôtel,Voiture,Visite famille,0,10.0
+807,30,Femme,Moyen,1,,Europe,Camping,Voiture,Loisirs,0,5.0
+808,23,Femme,Élevé,2,936.0,France,Location,Voiture,Loisirs,1,4.0
+809,34,Homme,Moyen,2,640.0,International,Hôtel,Train,Loisirs,1,6.0
+810,52,Femme,Élevé,5,999.0,International,Famille/Amis,Voiture,Visite famille,0,5.0
+811,53,Femme,Moyen,1,926.0,Europe,Camping,Avion,Loisirs,1,10.0
+812,42,Femme,Moyen,1,428.0,Europe,Hôtel,Avion,Loisirs,1,3.0
+813,33,Femme,Élevé,3,1314.0,France,Hôtel,Avion,Loisirs,1,9.0
+814,33,Femme,Moyen,5,664.0,France,Famille/Amis,Avion,Visite famille,1,6.0
+815,53,Homme,Moyen,2,468.0,France,Location,Train,Loisirs,0,5.0
+816,21,Femme,Moyen,2,365.0,France,Location,Avion,Visite famille,0,8.0
+817,27,Femme,Élevé,3,1199.0,France,Hôtel,Voiture,Affaires,0,6.0
+818,34,Homme,Moyen,2,1009.0,Europe,Hôtel,Avion,Visite famille,0,3.0
+819,72,Femme,Moyen,4,780.0,France,Hôtel,Avion,Loisirs,0,7.0
+820,31,Homme,Faible,1,319.0,France,Hôtel,Voiture,Affaires,0,2.0
+821,42,Femme,Moyen,1,794.0,Europe,Camping,Avion,Affaires,0,8.0
+822,20,Homme,Élevé,2,857.0,International,Famille/Amis,Train,Loisirs,0,10.0
+823,22,Homme,Moyen,2,872.0,Europe,Famille/Amis,Voiture,Loisirs,0,1.0
+824,71,Femme,Moyen,0,888.0,Europe,Location,Voiture,Visite famille,0,
+825,33,Homme,Moyen,5,939.0,Europe,Famille/Amis,Voiture,Loisirs,1,7.0
+826,52,Femme,Faible,2,50.0,France,Hôtel,Voiture,Loisirs,0,5.0
+827,49,Femme,Faible,4,71.0,Europe,Hôtel,Avion,Loisirs,0,7.0
+828,65,Femme,Moyen,2,919.0,Europe,Hôtel,Avion,Loisirs,0,9.0
+829,74,Homme,Faible,0,153.0,France,Location,Train,Visite famille,0,
+830,55,Femme,Moyen,1,846.0,France,Location,Voiture,Visite famille,1,7.0
+831,45,Femme,Faible,3,454.0,Europe,Camping,Avion,Affaires,1,6.0
+832,69,Femme,Moyen,0,717.0,Europe,Location,Voiture,Visite famille,0,
+833,71,Homme,Moyen,0,664.0,International,Hôtel,Voiture,Loisirs,0,
+834,60,Femme,Faible,2,515.0,International,Hôtel,Train,Loisirs,0,3.0
+835,76,Homme,Faible,3,332.0,France,Hôtel,Avion,Visite famille,0,10.0
+836,75,Homme,Élevé,2,1333.0,Europe,Location,Voiture,Affaires,0,9.0
+837,47,Homme,Moyen,4,1128.0,Europe,Hôtel,Train,Affaires,0,9.0
+838,44,Homme,Moyen,4,650.0,International,Hôtel,Avion,Loisirs,1,9.0
+839,37,Homme,Faible,2,356.0,France,Famille/Amis,Avion,Loisirs,0,9.0
+840,56,Homme,Élevé,2,1180.0,Europe,Famille/Amis,Voiture,Visite famille,1,10.0
+841,30,Homme,Élevé,1,1339.0,France,Hôtel,Train,Loisirs,1,8.0
+842,38,Femme,Élevé,3,1092.0,Europe,Hôtel,Train,Loisirs,0,5.0
+843,36,Homme,Faible,3,558.0,Europe,Hôtel,Avion,Visite famille,0,2.0
+844,77,Femme,Élevé,2,707.0,Europe,Location,Voiture,Visite famille,0,9.0
+845,25,Femme,Faible,0,220.0,France,Famille/Amis,Avion,Visite famille,0,
+846,72,Homme,Élevé,1,1478.0,Europe,Location,Avion,Visite famille,1,9.0
+847,50,Femme,Élevé,1,1093.0,France,Hôtel,Voiture,Loisirs,1,8.0
+848,44,Homme,Faible,2,147.0,France,Location,Avion,Loisirs,0,9.0
+849,69,Homme,Moyen,0,545.0,France,Hôtel,Voiture,Loisirs,1,
+850,68,Femme,Moyen,0,926.0,France,Hôtel,Avion,Affaires,1,
+851,48,Femme,Moyen,1,1077.0,France,Hôtel,Train,Loisirs,1,1.0
+852,38,Homme,Élevé,4,1237.0,France,Camping,Voiture,Visite famille,1,4.0
+853,58,Homme,Moyen,1,1015.0,France,Location,Avion,Visite famille,1,9.0
+854,72,Homme,Faible,1,590.0,International,Famille/Amis,Avion,Affaires,1,5.0
+855,52,Femme,Élevé,0,1456.0,Europe,Location,Avion,Loisirs,0,
+856,31,Femme,Moyen,0,911.0,Europe,Famille/Amis,Avion,Loisirs,0,
+857,60,Homme,Moyen,1,906.0,Europe,Famille/Amis,Avion,Visite famille,1,7.0
+858,22,Homme,Faible,3,472.0,France,Famille/Amis,Train,Loisirs,0,1.0
+859,58,Homme,Élevé,2,1158.0,International,Camping,Avion,Loisirs,0,4.0
+860,67,Homme,Moyen,1,472.0,Europe,Famille/Amis,Voiture,Loisirs,0,6.0
+861,79,Femme,Faible,1,243.0,France,Camping,Voiture,Loisirs,0,9.0
+862,25,Homme,Moyen,2,378.0,International,Hôtel,Voiture,Visite famille,1,3.0
+863,26,Femme,Moyen,3,1088.0,Europe,Hôtel,Train,Loisirs,1,2.0
+864,47,Homme,Moyen,2,662.0,France,Hôtel,Train,Loisirs,0,4.0
+865,33,Femme,Moyen,3,923.0,France,Location,Avion,Affaires,0,2.0
+866,20,Femme,Moyen,3,762.0,France,Location,Voiture,Loisirs,0,8.0
+867,35,Homme,Moyen,5,421.0,Europe,Hôtel,Voiture,Loisirs,1,2.0
+868,65,Femme,Moyen,1,809.0,International,Location,Voiture,Loisirs,0,6.0
+869,49,Homme,Faible,0,50.0,Europe,Hôtel,Avion,Loisirs,0,
+870,21,Femme,Moyen,3,332.0,France,Hôtel,Train,Affaires,0,10.0
+871,18,Femme,Moyen,3,1003.0,International,Camping,Avion,Loisirs,0,4.0
+872,67,Homme,Moyen,0,428.0,Europe,Hôtel,Avion,Visite famille,0,
+873,38,Femme,Élevé,4,749.0,Europe,Location,Avion,Visite famille,1,4.0
+874,65,Homme,Faible,2,344.0,International,Famille/Amis,Avion,Loisirs,0,1.0
+875,51,Femme,Faible,1,800.0,France,Hôtel,Avion,Affaires,0,7.0
+876,74,Femme,Moyen,2,397.0,France,Location,Voiture,Loisirs,0,3.0
+877,51,Femme,Moyen,1,493.0,France,Hôtel,Train,Visite famille,1,2.0
+878,65,Homme,Faible,0,347.0,Europe,Location,Train,Visite famille,0,
+879,51,Homme,Faible,3,163.0,France,Location,Train,Affaires,0,5.0
+880,62,Femme,Moyen,2,649.0,International,Hôtel,Avion,Loisirs,0,3.0
+881,38,Femme,Élevé,4,1336.0,France,Location,Avion,Visite famille,0,2.0
+882,60,Homme,Moyen,3,323.0,Europe,Hôtel,Train,Loisirs,0,6.0
+883,20,Femme,Élevé,1,1116.0,France,Famille/Amis,Avion,Affaires,1,2.0
+884,73,Femme,Moyen,1,606.0,France,Location,Voiture,Loisirs,1,3.0
+885,65,Homme,Moyen,2,734.0,Europe,Location,Train,Loisirs,0,6.0
+886,73,Femme,Élevé,4,904.0,International,Hôtel,Voiture,Loisirs,0,3.0
+887,62,Homme,Moyen,0,643.0,International,Famille/Amis,Train,Visite famille,0,
+888,36,Femme,Moyen,2,977.0,Europe,Famille/Amis,Avion,Loisirs,0,7.0
+889,61,Homme,Moyen,2,471.0,International,Hôtel,Avion,Loisirs,0,1.0
+890,60,Homme,Moyen,3,623.0,France,Camping,Avion,Visite famille,1,1.0
+891,53,Homme,Moyen,5,517.0,France,Location,Train,Loisirs,0,2.0
+892,65,Femme,Faible,1,50.0,France,Hôtel,Train,Loisirs,0,2.0
+893,68,Femme,Faible,0,184.0,France,Famille/Amis,Avion,Loisirs,0,
+894,75,Homme,Élevé,4,1022.0,France,Famille/Amis,Train,Loisirs,0,2.0
+895,75,Femme,Faible,1,,France,Location,Train,Loisirs,0,4.0
+896,61,Femme,Faible,4,357.0,Europe,Hôtel,Avion,Visite famille,0,1.0
+897,31,Homme,Faible,2,50.0,France,Hôtel,Train,Loisirs,1,1.0
+898,58,Homme,Moyen,4,748.0,International,Location,Avion,Loisirs,1,4.0
+899,46,Homme,Moyen,3,384.0,France,Location,Avion,Visite famille,0,8.0
+900,75,Homme,Faible,0,447.0,France,Location,Avion,Loisirs,0,
+901,49,Femme,Moyen,1,695.0,Europe,Hôtel,Avion,Loisirs,1,1.0
+902,29,Femme,Faible,1,169.0,France,Location,Voiture,Loisirs,0,2.0
+903,53,Homme,Moyen,3,497.0,France,Camping,Voiture,Loisirs,0,2.0
+904,54,Femme,Faible,2,269.0,France,Famille/Amis,Voiture,Loisirs,0,3.0
+905,57,Homme,Faible,0,172.0,France,Famille/Amis,Voiture,Loisirs,0,
+906,40,Homme,Élevé,1,1037.0,France,Location,Avion,Affaires,0,10.0
+907,65,Femme,Élevé,3,1338.0,International,Camping,Voiture,Loisirs,1,3.0
+908,29,Femme,Élevé,2,1378.0,France,Famille/Amis,Voiture,Loisirs,1,10.0
+909,25,Femme,Moyen,5,433.0,France,Location,Avion,Loisirs,1,9.0
+910,78,Femme,Moyen,5,231.0,France,Famille/Amis,Avion,Affaires,0,9.0
+911,53,Femme,Moyen,3,991.0,Europe,Hôtel,Voiture,Loisirs,0,4.0
+912,45,Homme,Moyen,2,828.0,France,Camping,Voiture,Visite famille,0,7.0
+913,28,Femme,Élevé,5,1317.0,Europe,Location,Train,Loisirs,0,8.0
+914,46,Homme,Élevé,2,1189.0,International,Famille/Amis,Train,Loisirs,1,4.0
+915,78,Femme,Élevé,2,925.0,Europe,Hôtel,Voiture,Visite famille,1,1.0
+916,79,Femme,Élevé,5,1395.0,International,Location,Avion,Affaires,0,7.0
+917,44,Femme,Moyen,1,397.0,International,Hôtel,Train,Loisirs,0,6.0
+918,63,Femme,Élevé,4,,France,Location,Train,Loisirs,1,3.0
+919,62,Homme,Élevé,1,1088.0,Europe,Hôtel,Voiture,Visite famille,0,3.0
+920,78,Femme,Moyen,4,708.0,France,Camping,Voiture,Loisirs,0,1.0
+921,53,Femme,Moyen,1,933.0,Europe,Famille/Amis,Train,Affaires,1,2.0
+922,54,Femme,Élevé,2,734.0,International,Famille/Amis,Train,Loisirs,1,7.0
+923,38,Femme,Moyen,0,583.0,France,Famille/Amis,Voiture,Loisirs,0,
+924,52,Homme,Faible,1,50.0,France,Location,Voiture,Loisirs,0,7.0
+925,65,Homme,Moyen,1,543.0,Europe,Famille/Amis,Avion,Loisirs,1,2.0
+926,69,Femme,Moyen,3,880.0,France,Camping,Voiture,Loisirs,0,6.0
+927,48,Homme,Élevé,2,959.0,International,Location,Voiture,Loisirs,1,8.0
+928,29,Homme,Faible,1,433.0,France,Location,Voiture,Loisirs,0,9.0
+929,34,Homme,Moyen,2,762.0,Europe,Location,Avion,Loisirs,0,8.0
+930,74,Homme,Moyen,1,770.0,France,Location,Avion,Loisirs,0,5.0
+931,28,Homme,Moyen,3,683.0,Europe,Location,Avion,Visite famille,0,10.0
+932,45,Femme,Moyen,1,735.0,France,Location,Voiture,Loisirs,0,6.0
+933,50,Femme,Moyen,4,703.0,France,Camping,Train,Affaires,0,2.0
+934,62,Femme,Moyen,0,548.0,France,Famille/Amis,Voiture,Loisirs,0,
+935,37,Femme,Faible,3,784.0,France,Hôtel,Avion,Loisirs,0,10.0
+936,40,Homme,Moyen,4,818.0,France,Location,Voiture,Affaires,1,2.0
+937,33,Femme,Élevé,0,874.0,International,Famille/Amis,Voiture,Visite famille,1,
+938,58,Femme,Moyen,0,927.0,France,Hôtel,Train,Visite famille,0,
+939,31,Femme,Moyen,2,499.0,International,Camping,Avion,Loisirs,0,6.0
+940,39,Femme,Moyen,5,585.0,International,Camping,Voiture,Loisirs,0,1.0
+941,79,Femme,Élevé,2,1217.0,France,Location,Voiture,Loisirs,1,1.0
+942,73,Homme,Moyen,1,718.0,France,Location,Voiture,Loisirs,0,4.0
+943,53,Homme,Élevé,2,1426.0,France,Location,Voiture,Visite famille,0,6.0
+944,30,Homme,Faible,1,310.0,Europe,Famille/Amis,Train,Loisirs,0,8.0
+945,37,Homme,Moyen,4,913.0,Europe,Location,Train,Loisirs,1,7.0
+946,59,Homme,Faible,1,67.0,France,Famille/Amis,Avion,Loisirs,0,7.0
+947,77,Femme,Moyen,3,867.0,Europe,Location,Avion,Loisirs,0,3.0
+948,20,Femme,Moyen,1,786.0,Europe,Location,Voiture,Loisirs,1,4.0
+949,73,Homme,Moyen,2,875.0,France,Camping,Avion,Loisirs,0,1.0
+950,33,Femme,Moyen,4,628.0,Europe,Location,Train,Loisirs,0,4.0
+951,68,Femme,Faible,0,445.0,Europe,Hôtel,Train,Visite famille,0,
+952,39,Femme,Élevé,4,996.0,France,Famille/Amis,Train,Loisirs,1,5.0
+953,30,Homme,Moyen,0,689.0,Europe,Hôtel,Voiture,Loisirs,0,
+954,27,Homme,Faible,1,500.0,Europe,Famille/Amis,Train,Loisirs,0,7.0
+955,70,Femme,Faible,0,,France,Famille/Amis,Voiture,Visite famille,0,
+956,37,Homme,Moyen,4,457.0,Europe,Famille/Amis,Avion,Loisirs,1,7.0
+957,51,Homme,Moyen,3,574.0,France,Famille/Amis,Voiture,Affaires,0,2.0
+958,42,Femme,Élevé,4,1139.0,International,Famille/Amis,Train,Loisirs,1,1.0
+959,24,Homme,Moyen,4,889.0,France,Camping,Voiture,Visite famille,0,5.0
+960,72,Homme,Faible,1,834.0,France,Hôtel,Train,Loisirs,0,8.0
+961,47,Femme,Élevé,2,1068.0,Europe,Location,Voiture,Visite famille,0,9.0
+962,62,Homme,Élevé,1,1056.0,International,Famille/Amis,Train,Loisirs,1,7.0
+963,60,Homme,Moyen,1,731.0,Europe,Location,Avion,Affaires,0,2.0
+964,18,Homme,Moyen,1,537.0,Europe,Famille/Amis,Avion,Loisirs,1,9.0
+965,72,Femme,Moyen,2,890.0,France,Hôtel,Voiture,Loisirs,0,10.0
+966,54,Homme,Élevé,5,923.0,International,Hôtel,Avion,Loisirs,0,1.0
+967,53,Homme,Moyen,4,791.0,Europe,Hôtel,Avion,Visite famille,0,4.0
+968,46,Homme,Moyen,1,465.0,France,Famille/Amis,Voiture,Affaires,1,4.0
+969,42,Femme,Faible,1,256.0,International,Camping,Voiture,Loisirs,0,2.0
+970,45,Femme,Moyen,2,447.0,Europe,Hôtel,Voiture,Visite famille,0,9.0
+971,72,Femme,Faible,2,50.0,Europe,Hôtel,Voiture,Affaires,0,8.0
+972,56,Femme,Faible,1,111.0,France,Camping,Train,Affaires,0,6.0
+973,33,Femme,Élevé,4,1294.0,France,Camping,Train,Visite famille,1,6.0
+974,24,Homme,Moyen,3,838.0,France,Location,Train,Affaires,1,5.0
+975,69,Femme,Moyen,2,792.0,International,Hôtel,Voiture,Loisirs,0,4.0
+976,75,Homme,Moyen,2,742.0,France,Location,Voiture,Visite famille,1,1.0
+977,50,Femme,Faible,0,162.0,Europe,Famille/Amis,Train,Visite famille,0,
+978,78,Homme,Faible,2,483.0,France,Famille/Amis,Voiture,Visite famille,1,6.0
+979,63,Homme,Moyen,3,344.0,International,Location,Train,Loisirs,0,8.0
+980,53,Femme,Élevé,5,1244.0,France,Hôtel,Avion,Loisirs,1,1.0
+981,22,Femme,Élevé,3,1125.0,Europe,Hôtel,Train,Loisirs,1,1.0
+982,40,Femme,Élevé,3,891.0,France,Hôtel,Voiture,Loisirs,1,10.0
+983,39,Homme,Moyen,5,1157.0,France,Location,Train,Loisirs,0,9.0
+984,68,Femme,Moyen,1,1062.0,Europe,Hôtel,Voiture,Loisirs,0,10.0
+985,48,Homme,Élevé,3,841.0,Europe,Famille/Amis,Voiture,Affaires,0,2.0
+986,18,Femme,Moyen,3,929.0,France,Hôtel,Voiture,Loisirs,0,7.0
+987,79,Femme,Élevé,3,1010.0,France,Location,Train,Loisirs,1,8.0
+988,27,Femme,Élevé,2,1243.0,Europe,Location,Train,Loisirs,1,5.0
+989,23,Homme,Élevé,5,1151.0,International,Camping,Avion,Loisirs,0,10.0
+990,57,Femme,Faible,4,661.0,Europe,Hôtel,Voiture,Loisirs,1,3.0
+991,71,Homme,Moyen,4,1041.0,Europe,Famille/Amis,Voiture,Visite famille,0,2.0
+992,25,Femme,Moyen,2,678.0,Europe,Camping,Voiture,Visite famille,0,4.0
+993,44,Homme,Élevé,3,1364.0,Europe,Location,Train,Loisirs,1,8.0
+994,25,Femme,Faible,2,220.0,France,Hôtel,Train,Loisirs,1,10.0
+995,75,Homme,Moyen,2,551.0,France,Hôtel,Avion,Visite famille,0,3.0
+996,69,Femme,Moyen,2,668.0,International,Location,Voiture,Affaires,1,3.0
+997,77,Femme,Moyen,1,859.0,France,Camping,Train,Visite famille,0,6.0
+998,27,Homme,Élevé,3,1104.0,France,Hôtel,Train,Loisirs,1,4.0
+999,75,Femme,Élevé,5,992.0,Europe,Location,Train,Loisirs,1,8.0
+1000,35,Homme,Élevé,6,1224.0,France,Hôtel,Voiture,Loisirs,0,10.0
+1001,39,Homme,Moyen,1,714.0,France,Hôtel,Train,Loisirs,1,3.0
+1002,32,Femme,Moyen,0,561.0,Europe,Location,Train,Loisirs,0,
+1003,79,Homme,Moyen,4,724.0,France,Famille/Amis,Train,Visite famille,0,3.0
+1004,64,Femme,Moyen,5,378.0,France,Hôtel,Train,Loisirs,0,3.0
+1005,53,Homme,Moyen,3,833.0,Europe,Location,Voiture,Visite famille,0,8.0
+1006,78,Homme,Faible,1,279.0,Europe,Hôtel,Avion,Loisirs,0,2.0
+1007,18,Femme,Élevé,0,1264.0,International,Camping,Train,Visite famille,1,
+1008,19,Homme,Moyen,0,493.0,France,Hôtel,Avion,Loisirs,0,
+1009,57,Homme,Moyen,1,289.0,Europe,Famille/Amis,Train,Loisirs,0,1.0
+1010,48,Femme,Moyen,4,1019.0,Europe,Camping,Train,Loisirs,0,3.0
+1011,50,Femme,Faible,1,179.0,France,Famille/Amis,Voiture,Affaires,1,4.0
+1012,64,Femme,Faible,2,50.0,Europe,Hôtel,Voiture,Loisirs,0,1.0
+1013,26,Homme,Moyen,0,566.0,France,Camping,Train,Loisirs,0,
+1014,51,Homme,Moyen,1,1151.0,France,Hôtel,Voiture,Loisirs,1,3.0
+1015,59,Femme,Élevé,3,1123.0,International,Hôtel,Avion,Loisirs,1,9.0
+1016,62,Homme,Faible,2,308.0,France,Famille/Amis,Train,Loisirs,1,7.0
+1017,72,Homme,Moyen,3,619.0,International,Famille/Amis,Avion,Loisirs,0,9.0
+1018,21,Homme,Élevé,5,959.0,Europe,Hôtel,Avion,Loisirs,0,7.0
+1019,66,Homme,Moyen,2,511.0,International,Hôtel,Voiture,Loisirs,0,6.0
+1020,39,Homme,Moyen,3,510.0,Europe,Hôtel,Train,Loisirs,0,1.0
+1021,39,Homme,Moyen,2,727.0,France,Famille/Amis,Train,Loisirs,1,4.0
+1022,49,Homme,Moyen,5,778.0,Europe,Camping,Train,Loisirs,1,7.0
+1023,57,Femme,Faible,1,493.0,France,Location,Voiture,Visite famille,1,7.0
+1024,62,Homme,Élevé,3,1305.0,International,Camping,Voiture,Loisirs,1,3.0
+1025,34,Homme,Moyen,0,896.0,France,Location,Voiture,Visite famille,0,
+1026,51,Femme,Moyen,1,436.0,Europe,Hôtel,Avion,Loisirs,0,3.0
+1027,39,Homme,Moyen,0,658.0,France,Location,Avion,Loisirs,1,
+1028,57,Femme,Élevé,2,1058.0,International,Hôtel,Voiture,Loisirs,1,2.0
+1029,59,Femme,Élevé,6,942.0,International,Camping,Avion,Loisirs,1,4.0
+1030,30,Homme,Moyen,2,809.0,France,Hôtel,Voiture,Loisirs,1,8.0
+1031,55,Homme,Moyen,3,465.0,Europe,Hôtel,Avion,Affaires,0,6.0
+1032,75,Femme,Faible,2,50.0,France,Location,Voiture,Loisirs,0,2.0
+1033,61,Femme,Faible,0,490.0,France,Hôtel,Voiture,Loisirs,0,
+1034,48,Homme,Faible,1,50.0,Europe,Famille/Amis,Voiture,Loisirs,0,3.0
+1035,23,Homme,Moyen,2,490.0,Europe,Famille/Amis,Train,Loisirs,0,3.0
+1036,23,Femme,Élevé,3,738.0,International,Location,Train,Affaires,1,7.0
+1037,59,Homme,Moyen,4,541.0,France,Camping,Avion,Affaires,0,3.0
+1038,68,Homme,Faible,2,118.0,France,Camping,Avion,Loisirs,0,1.0
+1039,68,Homme,Élevé,2,1110.0,Europe,Hôtel,Avion,Loisirs,1,6.0
+1040,58,Homme,Moyen,3,869.0,Europe,Hôtel,Avion,Loisirs,0,6.0
+1041,49,Femme,Moyen,0,1094.0,International,Hôtel,Voiture,Loisirs,0,
+1042,61,Femme,Élevé,6,1152.0,Europe,Location,Avion,Loisirs,1,1.0
+1043,72,Homme,Moyen,2,896.0,France,Location,Voiture,Visite famille,1,8.0
+1044,37,Homme,Moyen,2,782.0,France,Hôtel,Train,Loisirs,0,2.0
+1045,50,Femme,Élevé,1,1109.0,Europe,Famille/Amis,Voiture,Affaires,1,7.0
+1046,22,Homme,Élevé,2,1082.0,Europe,Hôtel,Voiture,Loisirs,1,5.0
+1047,72,Homme,Élevé,2,930.0,International,Hôtel,Avion,Visite famille,0,8.0
+1048,63,Homme,Faible,0,478.0,Europe,Location,Train,Loisirs,0,
+1049,37,Femme,Moyen,2,901.0,Europe,Famille/Amis,Voiture,Loisirs,0,6.0
+1050,74,Femme,Faible,2,50.0,France,Hôtel,Train,Affaires,0,6.0
+1051,77,Homme,Faible,0,259.0,France,Location,Voiture,Loisirs,0,
+1052,57,Homme,Élevé,0,1091.0,Europe,Famille/Amis,Train,Visite famille,1,
+1053,78,Homme,Moyen,2,652.0,Europe,Camping,Avion,Visite famille,0,3.0
+1054,42,Homme,Faible,2,369.0,France,Location,Voiture,Visite famille,0,9.0
+1055,77,Homme,Élevé,0,1260.0,France,Location,Avion,Affaires,1,
+1056,32,Homme,Faible,1,527.0,France,Location,Train,Loisirs,0,5.0
+1057,49,Femme,Moyen,1,790.0,Europe,Hôtel,Voiture,Loisirs,0,10.0
+1058,70,Femme,Moyen,1,992.0,France,Location,Avion,Loisirs,0,1.0
+1059,51,Femme,Moyen,4,698.0,France,Location,Avion,Visite famille,0,6.0
+1060,59,Femme,Moyen,1,550.0,France,Famille/Amis,Voiture,Loisirs,0,3.0
+1061,79,Homme,Élevé,4,1324.0,International,Location,Voiture,Loisirs,0,10.0
+1062,72,Homme,Moyen,3,442.0,France,Location,Voiture,Visite famille,0,5.0
+1063,27,Homme,Moyen,2,875.0,Europe,Famille/Amis,Avion,Affaires,1,2.0
+1064,67,Femme,Moyen,2,1105.0,Europe,Camping,Train,Loisirs,0,6.0
+1065,65,Homme,Faible,2,342.0,France,Location,Avion,Loisirs,0,7.0
+1066,33,Homme,Élevé,1,,Europe,Location,Voiture,Loisirs,1,4.0
+1067,38,Femme,Élevé,3,1147.0,International,Location,Avion,Loisirs,0,7.0
+1068,76,Homme,Moyen,5,891.0,France,Location,Voiture,Visite famille,1,2.0
+1069,45,Femme,Faible,2,585.0,Europe,Location,Train,Visite famille,0,5.0
+1070,43,Homme,Élevé,2,922.0,Europe,Famille/Amis,Voiture,Loisirs,0,3.0
+1071,73,Homme,Faible,1,471.0,France,Location,Train,Visite famille,0,1.0
+1072,49,Homme,Moyen,0,831.0,Europe,Location,Voiture,Loisirs,0,
+1073,54,Homme,Élevé,4,1457.0,Europe,Famille/Amis,Avion,Visite famille,0,10.0
+1074,79,Femme,Élevé,3,933.0,Europe,Location,Train,Loisirs,0,4.0
+1075,35,Femme,Moyen,1,405.0,France,Famille/Amis,Avion,Visite famille,1,1.0
+1076,62,Homme,Élevé,3,1342.0,Europe,Location,Avion,Affaires,1,6.0
+1077,51,Femme,Faible,2,193.0,International,Location,Avion,Loisirs,1,2.0
+1078,60,Homme,Moyen,1,797.0,France,Famille/Amis,Voiture,Loisirs,0,8.0
+1079,57,Femme,Moyen,3,318.0,Europe,Famille/Amis,Train,Loisirs,1,6.0
+1080,42,Homme,Moyen,4,433.0,Europe,Location,Avion,Visite famille,0,2.0
+1081,60,Homme,Élevé,4,896.0,France,Camping,Train,Loisirs,1,5.0
+1082,43,Homme,Moyen,4,664.0,Europe,Location,Voiture,Loisirs,1,7.0
+1083,34,Homme,Faible,1,476.0,Europe,Location,Voiture,Loisirs,0,6.0
+1084,22,Femme,Faible,0,430.0,Europe,Location,Voiture,Loisirs,1,
+1085,55,Homme,Moyen,1,856.0,France,Location,Avion,Loisirs,1,1.0
+1086,42,Homme,Faible,0,77.0,Europe,Famille/Amis,Voiture,Loisirs,1,
+1087,47,Femme,Moyen,1,651.0,France,Camping,Train,Loisirs,0,4.0
+1088,62,Homme,Élevé,2,798.0,France,Famille/Amis,Train,Loisirs,1,7.0
+1089,23,Femme,Élevé,3,760.0,France,Camping,Avion,Visite famille,1,4.0
+1090,47,Homme,Élevé,2,907.0,Europe,Camping,Voiture,Visite famille,0,8.0
+1091,23,Homme,Moyen,0,591.0,Europe,Hôtel,Train,Loisirs,1,
+1092,56,Femme,Élevé,1,1371.0,Europe,Location,Voiture,Loisirs,0,7.0
+1093,29,Homme,Élevé,2,1204.0,Europe,Famille/Amis,Train,Loisirs,0,2.0
+1094,73,Homme,Moyen,2,708.0,Europe,Hôtel,Avion,Loisirs,1,7.0
+1095,48,Femme,Élevé,2,891.0,Europe,Hôtel,Train,Visite famille,0,6.0
+1096,39,Homme,Moyen,4,714.0,International,Camping,Train,Visite famille,1,10.0
+1097,69,Femme,Élevé,4,968.0,France,Location,Avion,Visite famille,0,6.0
+1098,45,Femme,Faible,1,462.0,France,Famille/Amis,Voiture,Loisirs,0,3.0
+1099,76,Femme,Faible,1,224.0,Europe,Famille/Amis,Avion,Loisirs,0,5.0
+1100,18,Femme,Moyen,1,225.0,Europe,Famille/Amis,Train,Visite famille,1,9.0
+1101,55,Homme,Élevé,2,1204.0,France,Hôtel,Avion,Visite famille,1,4.0
+1102,52,Homme,Faible,1,86.0,France,Hôtel,Avion,Loisirs,0,8.0
+1103,28,Femme,Élevé,3,696.0,France,Camping,Voiture,Visite famille,0,9.0
+1104,65,Homme,Moyen,7,694.0,Europe,Hôtel,Train,Loisirs,0,10.0
+1105,78,Homme,Moyen,2,,France,Hôtel,Voiture,Loisirs,1,8.0
+1106,64,Homme,Faible,0,423.0,International,Hôtel,Voiture,Loisirs,0,
+1107,42,Femme,Moyen,0,1031.0,Europe,Camping,Voiture,Loisirs,1,
+1108,33,Homme,Faible,2,50.0,France,Hôtel,Avion,Affaires,0,6.0
+1109,53,Femme,Moyen,2,619.0,International,Location,Voiture,Loisirs,0,8.0
+1110,54,Femme,Moyen,2,1078.0,Europe,Hôtel,Avion,Loisirs,0,8.0
+1111,63,Homme,Moyen,2,789.0,Europe,Famille/Amis,Avion,Loisirs,1,8.0
+1112,72,Femme,Moyen,2,1011.0,France,Hôtel,Train,Loisirs,0,8.0
+1113,29,Femme,Moyen,0,904.0,International,Hôtel,Avion,Loisirs,1,
+1114,71,Homme,Moyen,4,868.0,Europe,Famille/Amis,Voiture,Loisirs,0,5.0
+1115,42,Femme,Élevé,1,611.0,France,Famille/Amis,Avion,Loisirs,0,4.0
+1116,39,Homme,Élevé,4,1336.0,International,Famille/Amis,Voiture,Visite famille,0,3.0
+1117,23,Femme,Faible,1,,Europe,Hôtel,Voiture,Visite famille,0,1.0
+1118,29,Homme,Élevé,1,1210.0,International,Camping,Train,Visite famille,1,3.0
+1119,38,Femme,Faible,0,50.0,France,Hôtel,Train,Loisirs,1,
+1120,49,Homme,Élevé,3,889.0,Europe,Famille/Amis,Voiture,Loisirs,0,5.0
+1121,27,Femme,Moyen,4,799.0,France,Hôtel,Voiture,Visite famille,0,5.0
+1122,28,Homme,Faible,4,419.0,France,Hôtel,Voiture,Loisirs,0,5.0
+1123,62,Homme,Moyen,1,502.0,France,Famille/Amis,Avion,Loisirs,0,6.0
+1124,38,Homme,Moyen,2,474.0,Europe,Hôtel,Train,Loisirs,1,3.0
+1125,25,Homme,Moyen,1,507.0,France,Hôtel,Train,Loisirs,1,10.0
+1126,40,Femme,Faible,1,328.0,France,Hôtel,Avion,Loisirs,0,6.0
+1127,71,Homme,Faible,1,50.0,France,Camping,Voiture,Loisirs,0,5.0
+1128,64,Femme,Moyen,1,774.0,France,Hôtel,Voiture,Loisirs,0,9.0
+1129,44,Homme,Faible,2,550.0,France,Location,Avion,Loisirs,0,7.0
+1130,35,Homme,Moyen,2,716.0,Europe,Location,Voiture,Visite famille,0,2.0
+1131,44,Femme,Élevé,2,1170.0,Europe,Hôtel,Voiture,Loisirs,1,10.0
+1132,52,Femme,Faible,0,114.0,France,Location,Train,Loisirs,0,
+1133,71,Homme,Élevé,4,1586.0,Europe,Location,Voiture,Loisirs,0,2.0
+1134,67,Homme,Moyen,2,778.0,France,Hôtel,Avion,Loisirs,0,4.0
+1135,47,Femme,Élevé,5,940.0,Europe,Hôtel,Voiture,Visite famille,1,5.0
+1136,38,Homme,Moyen,1,758.0,Europe,Hôtel,Avion,Visite famille,0,5.0
+1137,63,Homme,Faible,1,325.0,Europe,Hôtel,Avion,Visite famille,0,2.0
+1138,20,Femme,Élevé,5,794.0,France,Hôtel,Voiture,Loisirs,1,10.0
+1139,47,Femme,Moyen,2,773.0,France,Location,Voiture,Loisirs,0,8.0
+1140,61,Homme,Faible,1,363.0,Europe,Hôtel,Train,Loisirs,0,2.0
+1141,61,Homme,Moyen,2,,France,Famille/Amis,Voiture,Loisirs,0,3.0
+1142,42,Homme,Moyen,4,902.0,France,Location,Voiture,Loisirs,0,7.0
+1143,40,Homme,Moyen,5,946.0,France,Famille/Amis,Avion,Loisirs,0,3.0
+1144,51,Femme,Moyen,4,707.0,France,Camping,Train,Loisirs,0,7.0
+1145,79,Homme,Faible,2,108.0,France,Hôtel,Voiture,Loisirs,1,8.0
+1146,75,Homme,Moyen,1,511.0,France,Location,Train,Loisirs,0,10.0
+1147,41,Homme,Faible,2,412.0,France,Camping,Train,Loisirs,1,3.0
+1148,19,Homme,Élevé,3,1066.0,Europe,Hôtel,Train,Affaires,0,4.0
+1149,55,Homme,Moyen,3,546.0,International,Location,Avion,Affaires,0,8.0
+1150,61,Femme,Moyen,3,914.0,France,Camping,Avion,Loisirs,1,10.0
+1151,46,Homme,Élevé,2,1370.0,Europe,Location,Avion,Visite famille,0,3.0
+1152,56,Homme,Moyen,2,619.0,Europe,Location,Voiture,Loisirs,1,3.0
+1153,21,Femme,Moyen,1,736.0,Europe,Location,Voiture,Loisirs,1,10.0
+1154,76,Femme,Faible,2,206.0,France,Camping,Voiture,Loisirs,0,5.0
+1155,65,Homme,Moyen,2,950.0,Europe,Hôtel,Voiture,Affaires,0,4.0
+1156,43,Femme,Élevé,5,1126.0,Europe,Hôtel,Train,Loisirs,0,6.0
+1157,76,Femme,Faible,1,635.0,France,Famille/Amis,Voiture,Loisirs,0,7.0
+1158,69,Femme,Élevé,4,1114.0,Europe,Location,Voiture,Loisirs,0,9.0
+1159,77,Femme,Moyen,2,685.0,International,Location,Train,Loisirs,0,8.0
+1160,44,Homme,Faible,0,220.0,France,Location,Voiture,Visite famille,0,
+1161,65,Homme,Faible,1,50.0,International,Location,Avion,Loisirs,0,9.0
+1162,69,Femme,Faible,1,252.0,France,Location,Voiture,Loisirs,0,2.0
+1163,50,Femme,Élevé,0,1551.0,International,Hôtel,Train,Visite famille,0,
+1164,41,Femme,Élevé,2,965.0,International,Location,Voiture,Visite famille,0,1.0
+1165,29,Homme,Élevé,1,1190.0,Europe,Camping,Voiture,Visite famille,1,10.0
+1166,58,Femme,Faible,0,746.0,France,Hôtel,Avion,Visite famille,0,
+1167,44,Homme,Moyen,1,965.0,France,Location,Avion,Affaires,0,8.0
+1168,24,Femme,Moyen,1,736.0,Europe,Hôtel,Voiture,Loisirs,0,8.0
+1169,29,Femme,Élevé,2,1062.0,Europe,Famille/Amis,Train,Loisirs,0,10.0
+1170,62,Homme,Moyen,2,595.0,International,Hôtel,Voiture,Loisirs,1,10.0
+1171,57,Femme,Moyen,2,638.0,Europe,Location,Voiture,Loisirs,0,3.0
+1172,52,Femme,Élevé,2,1146.0,Europe,Hôtel,Train,Affaires,0,7.0
+1173,67,Femme,Moyen,4,702.0,Europe,Location,Voiture,Visite famille,1,6.0
+1174,57,Femme,Moyen,3,497.0,France,Hôtel,Voiture,Visite famille,0,6.0
+1175,67,Homme,Moyen,4,534.0,International,Location,Avion,Loisirs,0,3.0
+1176,62,Homme,Moyen,2,856.0,International,Camping,Voiture,Loisirs,0,5.0
+1177,36,Homme,Moyen,3,854.0,Europe,Location,Avion,Visite famille,1,4.0
+1178,42,Homme,Moyen,2,563.0,France,Famille/Amis,Train,Visite famille,0,9.0
+1179,52,Femme,Moyen,1,504.0,International,Famille/Amis,Voiture,Loisirs,1,6.0
+1180,52,Homme,Moyen,2,717.0,Europe,Camping,Avion,Visite famille,0,8.0
+1181,43,Homme,Moyen,0,770.0,Europe,Location,Voiture,Visite famille,0,
+1182,50,Homme,Moyen,2,1263.0,France,Hôtel,Train,Loisirs,0,3.0
+1183,77,Femme,Élevé,3,1232.0,Europe,Hôtel,Voiture,Loisirs,0,8.0
+1184,18,Femme,Moyen,5,799.0,France,Camping,Avion,Loisirs,0,10.0
+1185,41,Femme,Moyen,0,415.0,France,Famille/Amis,Avion,Visite famille,0,
+1186,35,Homme,Moyen,2,849.0,France,Famille/Amis,Voiture,Loisirs,0,4.0
+1187,53,Homme,Élevé,5,923.0,International,Camping,Avion,Visite famille,0,4.0
+1188,72,Homme,Faible,1,233.0,International,Camping,Avion,Visite famille,1,8.0
+1189,60,Homme,Moyen,3,371.0,Europe,Location,Train,Visite famille,0,6.0
+1190,46,Homme,Moyen,0,521.0,International,Hôtel,Avion,Loisirs,0,
+1191,55,Homme,Faible,1,60.0,Europe,Famille/Amis,Voiture,Affaires,0,9.0
+1192,49,Femme,Moyen,2,,International,Location,Voiture,Loisirs,0,5.0
+1193,20,Homme,Faible,3,313.0,France,Famille/Amis,Train,Loisirs,0,9.0
+1194,19,Femme,Moyen,0,233.0,International,Hôtel,Train,Loisirs,0,
+1195,49,Femme,Moyen,1,981.0,France,Hôtel,Train,Loisirs,0,6.0
+1196,53,Homme,Faible,0,50.0,France,Camping,Voiture,Loisirs,0,
+1197,57,Femme,Faible,2,445.0,France,Famille/Amis,Avion,Loisirs,1,9.0
+1198,78,Homme,Moyen,2,789.0,Europe,Famille/Amis,Train,Loisirs,0,6.0
+1199,25,Homme,Faible,1,113.0,Europe,Hôtel,Voiture,Loisirs,0,3.0
+1200,49,Femme,Élevé,3,1071.0,Europe,Hôtel,Voiture,Loisirs,1,4.0
+1201,28,Homme,Faible,1,235.0,France,Location,Voiture,Visite famille,0,4.0
+1202,42,Homme,Moyen,1,770.0,Europe,Location,Train,Loisirs,0,9.0
+1203,57,Homme,Élevé,2,1336.0,Europe,Camping,Voiture,Loisirs,1,8.0
+1204,49,Homme,Moyen,2,788.0,Europe,Camping,Voiture,Visite famille,0,4.0
+1205,54,Femme,Élevé,3,1042.0,Europe,Location,Train,Loisirs,0,1.0
+1206,35,Homme,Moyen,3,511.0,Europe,Famille/Amis,Train,Loisirs,0,5.0
+1207,74,Femme,Moyen,3,945.0,Europe,Hôtel,Avion,Visite famille,0,2.0
+1208,26,Femme,Élevé,3,1065.0,France,Location,Voiture,Visite famille,0,4.0
+1209,31,Femme,Élevé,3,919.0,International,Hôtel,Voiture,Visite famille,0,6.0
+1210,69,Homme,Élevé,3,1762.0,Europe,Hôtel,Train,Loisirs,1,9.0
+1211,27,Femme,Moyen,3,321.0,France,Location,Voiture,Loisirs,1,6.0
+1212,25,Homme,Moyen,3,954.0,Europe,Famille/Amis,Train,Visite famille,0,6.0
+1213,19,Homme,Élevé,1,1105.0,Europe,Famille/Amis,Avion,Loisirs,1,5.0
+1214,68,Femme,Faible,1,331.0,France,Hôtel,Avion,Loisirs,0,6.0
+1215,33,Femme,Moyen,2,339.0,Europe,Location,Voiture,Loisirs,0,1.0
+1216,43,Femme,Faible,2,51.0,France,Famille/Amis,Avion,Loisirs,1,2.0
+1217,72,Femme,Élevé,3,,Europe,Location,Avion,Visite famille,1,7.0
+1218,22,Femme,Élevé,6,922.0,France,Camping,Voiture,Loisirs,0,9.0
+1219,42,Homme,Élevé,4,1087.0,Europe,Location,Train,Loisirs,0,1.0
+1220,26,Homme,Moyen,1,441.0,International,Camping,Train,Visite famille,1,10.0
+1221,68,Homme,Élevé,1,1050.0,Europe,Famille/Amis,Voiture,Loisirs,0,3.0
+1222,21,Homme,Élevé,1,1042.0,Europe,Camping,Voiture,Visite famille,1,5.0
+1223,72,Homme,Moyen,3,885.0,France,Famille/Amis,Voiture,Loisirs,0,3.0
+1224,74,Homme,Moyen,0,677.0,Europe,Hôtel,Voiture,Visite famille,0,
+1225,34,Femme,Élevé,2,1195.0,Europe,Camping,Voiture,Loisirs,1,6.0
+1226,43,Femme,Faible,1,326.0,France,Hôtel,Avion,Loisirs,1,7.0
+1227,57,Homme,Moyen,1,433.0,France,Famille/Amis,Train,Loisirs,1,1.0
+1228,36,Femme,Moyen,1,459.0,Europe,Famille/Amis,Avion,Loisirs,0,8.0
+1229,61,Femme,Faible,1,50.0,France,Location,Avion,Visite famille,1,2.0
+1230,60,Femme,Moyen,2,813.0,Europe,Hôtel,Voiture,Visite famille,1,8.0
+1231,44,Homme,Moyen,2,918.0,France,Camping,Train,Loisirs,0,9.0
+1232,59,Femme,Élevé,3,1334.0,France,Famille/Amis,Voiture,Visite famille,1,10.0
+1233,48,Homme,Moyen,3,660.0,Europe,Famille/Amis,Voiture,Loisirs,1,3.0
+1234,47,Homme,Moyen,2,349.0,Europe,Hôtel,Voiture,Loisirs,0,7.0
+1235,77,Homme,Moyen,2,300.0,Europe,Hôtel,Avion,Loisirs,0,4.0
+1236,34,Femme,Moyen,2,209.0,France,Location,Voiture,Loisirs,0,9.0
+1237,78,Femme,Moyen,1,,Europe,Location,Avion,Loisirs,0,9.0
+1238,74,Homme,Moyen,2,860.0,Europe,Location,Avion,Affaires,0,3.0
+1239,62,Homme,Moyen,2,627.0,France,Famille/Amis,Voiture,Visite famille,1,10.0
+1240,18,Homme,Élevé,3,1226.0,Europe,Location,Avion,Loisirs,1,5.0
+1241,26,Homme,Élevé,5,1348.0,Europe,Location,Avion,Loisirs,0,1.0
+1242,55,Homme,Moyen,1,569.0,France,Location,Voiture,Affaires,0,1.0
+1243,55,Femme,Moyen,3,911.0,International,Famille/Amis,Voiture,Visite famille,0,9.0
+1244,29,Femme,Élevé,4,,International,Hôtel,Voiture,Loisirs,0,3.0
+1245,52,Homme,Élevé,6,1040.0,Europe,Hôtel,Voiture,Loisirs,1,6.0
+1246,61,Femme,Élevé,1,944.0,Europe,Location,Train,Visite famille,1,9.0
+1247,39,Homme,Élevé,2,1212.0,International,Hôtel,Voiture,Affaires,1,10.0
+1248,68,Homme,Moyen,4,801.0,Europe,Location,Voiture,Affaires,0,1.0
+1249,78,Femme,Moyen,1,747.0,France,Location,Voiture,Loisirs,0,1.0
+1250,35,Homme,Moyen,4,667.0,International,Hôtel,Voiture,Loisirs,1,5.0
+1251,76,Femme,Moyen,2,495.0,France,Famille/Amis,Avion,Visite famille,1,7.0
+1252,23,Homme,Faible,0,340.0,International,Location,Voiture,Loisirs,1,
+1253,37,Homme,Moyen,2,693.0,Europe,Hôtel,Train,Visite famille,0,7.0
+1254,25,Homme,Moyen,3,689.0,France,Famille/Amis,Voiture,Visite famille,0,4.0
+1255,79,Homme,Moyen,3,630.0,Europe,Camping,Avion,Loisirs,1,8.0
+1256,30,Femme,Faible,1,50.0,France,Hôtel,Train,Affaires,1,4.0
+1257,75,Femme,Moyen,0,863.0,France,Hôtel,Voiture,Loisirs,0,
+1258,71,Homme,Faible,3,154.0,International,Famille/Amis,Voiture,Visite famille,0,8.0
+1259,71,Homme,Moyen,2,1070.0,France,Location,Voiture,Affaires,0,9.0
+1260,77,Femme,Élevé,3,1327.0,France,Hôtel,Avion,Loisirs,0,3.0
+1261,25,Femme,Moyen,1,1028.0,France,Location,Voiture,Visite famille,0,7.0
+1262,35,Femme,Élevé,3,1112.0,France,Hôtel,Train,Loisirs,0,9.0
+1263,35,Femme,Moyen,1,949.0,France,Famille/Amis,Voiture,Visite famille,0,1.0
+1264,76,Femme,Élevé,2,1186.0,Europe,Hôtel,Voiture,Visite famille,1,10.0
+1265,48,Homme,Faible,2,63.0,Europe,Location,Train,Loisirs,0,10.0
+1266,53,Femme,Faible,0,349.0,France,Famille/Amis,Avion,Loisirs,0,
+1267,60,Femme,Moyen,4,702.0,Europe,Location,Voiture,Loisirs,0,4.0
+1268,48,Homme,Faible,1,328.0,France,Location,Voiture,Loisirs,1,5.0
+1269,19,Homme,Faible,0,639.0,France,Hôtel,Avion,Loisirs,0,
+1270,33,Femme,Moyen,2,,France,Hôtel,Voiture,Visite famille,0,4.0
+1271,75,Femme,Élevé,3,846.0,International,Location,Train,Loisirs,0,8.0
+1272,19,Homme,Faible,0,370.0,France,Hôtel,Voiture,Visite famille,0,
+1273,41,Homme,Moyen,2,785.0,France,Famille/Amis,Avion,Affaires,0,5.0
+1274,75,Femme,Moyen,0,840.0,Europe,Location,Train,Visite famille,0,
+1275,39,Femme,Moyen,5,653.0,International,Hôtel,Voiture,Loisirs,1,7.0
+1276,52,Homme,Élevé,3,1338.0,France,Hôtel,Voiture,Loisirs,1,9.0
+1277,60,Homme,Faible,2,411.0,France,Hôtel,Voiture,Loisirs,0,3.0
+1278,52,Homme,Élevé,5,1570.0,Europe,Hôtel,Train,Affaires,0,4.0
+1279,66,Femme,Moyen,2,666.0,France,Location,Avion,Visite famille,0,4.0
+1280,54,Homme,Faible,0,442.0,France,Location,Avion,Loisirs,0,
+1281,34,Femme,Élevé,1,1141.0,International,Famille/Amis,Train,Loisirs,0,8.0
+1282,47,Homme,Faible,2,582.0,France,Hôtel,Voiture,Loisirs,0,1.0
+1283,28,Femme,Élevé,1,762.0,International,Famille/Amis,Voiture,Loisirs,1,2.0
+1284,59,Femme,Faible,0,75.0,France,Location,Train,Affaires,0,
+1285,18,Homme,Faible,3,50.0,France,Hôtel,Train,Visite famille,0,8.0
+1286,56,Homme,Moyen,3,725.0,Europe,Camping,Train,Visite famille,0,5.0
+1287,31,Homme,Faible,1,390.0,International,Famille/Amis,Voiture,Loisirs,0,5.0
+1288,32,Homme,Moyen,1,662.0,Europe,Location,Voiture,Loisirs,1,10.0
+1289,66,Homme,Élevé,5,1182.0,France,Hôtel,Train,Loisirs,1,6.0
+1290,39,Femme,Faible,1,152.0,Europe,Hôtel,Voiture,Affaires,0,9.0
+1291,75,Homme,Moyen,2,948.0,France,Famille/Amis,Voiture,Loisirs,0,10.0
+1292,70,Femme,Élevé,2,958.0,International,Famille/Amis,Train,Affaires,1,4.0
+1293,35,Femme,Moyen,2,795.0,France,Famille/Amis,Avion,Visite famille,1,8.0
+1294,30,Femme,Moyen,2,1046.0,France,Location,Voiture,Visite famille,1,2.0
+1295,63,Femme,Faible,1,239.0,France,Hôtel,Avion,Visite famille,0,6.0
+1296,31,Femme,Moyen,1,713.0,Europe,Famille/Amis,Voiture,Visite famille,0,5.0
+1297,69,Femme,Moyen,1,743.0,France,Famille/Amis,Voiture,Loisirs,0,6.0
+1298,33,Homme,Moyen,4,1125.0,Europe,Hôtel,Train,Loisirs,1,8.0
+1299,75,Homme,Élevé,4,1265.0,France,Famille/Amis,Voiture,Loisirs,1,6.0
+1300,48,Femme,Moyen,2,52.0,France,Camping,Avion,Affaires,0,8.0
+1301,79,Femme,Faible,3,532.0,France,Camping,Voiture,Affaires,1,7.0
+1302,51,Femme,Moyen,4,540.0,Europe,Location,Voiture,Loisirs,1,2.0
+1303,72,Femme,Moyen,1,885.0,International,Location,Voiture,Affaires,0,7.0
+1304,42,Homme,Faible,1,220.0,Europe,Location,Train,Loisirs,0,8.0
+1305,59,Femme,Faible,2,92.0,France,Location,Train,Loisirs,0,2.0
+1306,60,Homme,Moyen,4,919.0,France,Famille/Amis,Voiture,Visite famille,1,10.0
+1307,76,Homme,Moyen,3,718.0,France,Camping,Voiture,Loisirs,0,1.0
+1308,54,Femme,Moyen,1,719.0,Europe,Famille/Amis,Avion,Loisirs,0,7.0
+1309,71,Homme,Moyen,2,,France,Famille/Amis,Train,Visite famille,0,5.0
+1310,56,Femme,Élevé,4,1182.0,Europe,Famille/Amis,Train,Loisirs,0,10.0
+1311,36,Femme,Moyen,2,,France,Location,Train,Loisirs,0,9.0
+1312,35,Homme,Faible,2,273.0,France,Location,Voiture,Loisirs,0,3.0
+1313,48,Homme,Moyen,1,759.0,France,Hôtel,Voiture,Loisirs,0,8.0
+1314,36,Femme,Moyen,3,807.0,France,Camping,Voiture,Visite famille,0,4.0
+1315,72,Femme,Moyen,0,755.0,France,Camping,Voiture,Loisirs,0,
+1316,24,Femme,Moyen,2,1095.0,Europe,Location,Train,Affaires,0,6.0
+1317,62,Femme,Moyen,3,624.0,Europe,Camping,Train,Visite famille,1,8.0
+1318,60,Femme,Moyen,3,820.0,France,Hôtel,Voiture,Loisirs,1,5.0
+1319,77,Homme,Faible,1,473.0,Europe,Camping,Voiture,Affaires,0,9.0
+1320,63,Femme,Élevé,6,852.0,International,Camping,Voiture,Visite famille,1,2.0
+1321,72,Homme,Faible,1,57.0,Europe,Famille/Amis,Voiture,Affaires,0,2.0
+1322,46,Homme,Moyen,2,451.0,France,Location,Voiture,Affaires,0,8.0
+1323,50,Homme,Faible,1,93.0,France,Camping,Train,Loisirs,0,8.0
+1324,64,Homme,Faible,0,687.0,Europe,Location,Avion,Loisirs,1,
+1325,59,Femme,Élevé,3,1154.0,International,Hôtel,Avion,Loisirs,0,9.0
+1326,79,Femme,Faible,2,529.0,Europe,Location,Avion,Loisirs,0,4.0
+1327,46,Femme,Faible,0,50.0,France,Famille/Amis,Voiture,Loisirs,1,
+1328,50,Homme,Moyen,1,651.0,France,Famille/Amis,Avion,Loisirs,1,3.0
+1329,25,Femme,Faible,0,178.0,France,Hôtel,Voiture,Affaires,0,
+1330,77,Homme,Moyen,3,907.0,Europe,Famille/Amis,Train,Visite famille,0,8.0
+1331,47,Femme,Moyen,1,614.0,France,Hôtel,Voiture,Visite famille,0,4.0
+1332,25,Homme,Faible,2,50.0,France,Hôtel,Voiture,Loisirs,1,6.0
+1333,20,Femme,Moyen,2,579.0,France,Location,Train,Affaires,0,1.0
+1334,60,Femme,Faible,0,98.0,France,Hôtel,Avion,Loisirs,0,
+1335,74,Femme,Moyen,1,627.0,France,Location,Avion,Visite famille,1,7.0
+1336,57,Homme,Élevé,2,1309.0,France,Location,Train,Loisirs,0,4.0
+1337,27,Homme,Moyen,2,925.0,France,Hôtel,Avion,Loisirs,1,1.0
+1338,54,Homme,Moyen,0,615.0,France,Location,Train,Loisirs,1,
+1339,25,Femme,Élevé,1,999.0,France,Location,Voiture,Loisirs,1,2.0
+1340,72,Femme,Moyen,3,410.0,France,Camping,Train,Loisirs,0,3.0
+1341,21,Homme,Faible,2,139.0,Europe,Hôtel,Avion,Loisirs,0,7.0
+1342,58,Femme,Élevé,2,1314.0,France,Hôtel,Avion,Loisirs,1,10.0
+1343,48,Femme,Élevé,3,1462.0,France,Location,Train,Affaires,0,2.0
+1344,56,Femme,Moyen,1,762.0,Europe,Hôtel,Voiture,Loisirs,0,2.0
+1345,75,Homme,Moyen,2,738.0,France,Famille/Amis,Avion,Loisirs,1,6.0
+1346,70,Homme,Élevé,0,1036.0,International,Location,Avion,Loisirs,0,
+1347,64,Homme,Élevé,5,994.0,France,Location,Avion,Loisirs,0,1.0
+1348,23,Femme,Faible,1,250.0,France,Famille/Amis,Voiture,Loisirs,0,1.0
+1349,41,Femme,Moyen,2,565.0,Europe,Famille/Amis,Train,Loisirs,0,1.0
+1350,44,Femme,Moyen,2,559.0,France,Location,Avion,Affaires,0,10.0
+1351,74,Femme,Moyen,4,854.0,France,Hôtel,Avion,Affaires,0,7.0
+1352,66,Femme,Moyen,0,753.0,Europe,Hôtel,Avion,Visite famille,0,
+1353,46,Homme,Élevé,3,1209.0,France,Hôtel,Avion,Visite famille,0,1.0
+1354,57,Femme,Élevé,4,1052.0,Europe,Location,Voiture,Visite famille,0,4.0
+1355,51,Homme,Élevé,4,1251.0,France,Hôtel,Voiture,Loisirs,0,1.0
+1356,60,Homme,Élevé,2,941.0,International,Famille/Amis,Avion,Loisirs,1,7.0
+1357,40,Homme,Moyen,1,428.0,France,Camping,Voiture,Loisirs,1,7.0
+1358,76,Homme,Moyen,1,772.0,France,Location,Voiture,Affaires,1,8.0
+1359,44,Homme,Moyen,1,436.0,France,Location,Voiture,Loisirs,0,2.0
+1360,42,Femme,Moyen,4,536.0,Europe,Hôtel,Train,Loisirs,1,10.0
+1361,77,Homme,Faible,1,420.0,France,Location,Voiture,Loisirs,0,3.0
+1362,35,Femme,Faible,2,106.0,France,Famille/Amis,Voiture,Loisirs,0,5.0
+1363,35,Homme,Moyen,3,749.0,Europe,Famille/Amis,Avion,Loisirs,0,5.0
+1364,32,Homme,Moyen,4,542.0,France,Hôtel,Avion,Visite famille,0,9.0
+1365,66,Femme,Élevé,4,1029.0,Europe,Hôtel,Avion,Visite famille,1,9.0
+1366,55,Homme,Moyen,4,413.0,International,Hôtel,Train,Visite famille,0,9.0
+1367,25,Homme,Faible,1,256.0,France,Hôtel,Voiture,Visite famille,0,7.0
+1368,35,Femme,Élevé,3,1354.0,International,Location,Voiture,Loisirs,0,2.0
+1369,67,Femme,Moyen,3,662.0,Europe,Famille/Amis,Voiture,Loisirs,0,7.0
+1370,19,Femme,Faible,1,50.0,Europe,Camping,Voiture,Loisirs,1,4.0
+1371,63,Femme,Moyen,0,815.0,Europe,Hôtel,Voiture,Loisirs,0,
+1372,20,Femme,Élevé,1,1100.0,France,Camping,Voiture,Visite famille,1,4.0
+1373,60,Femme,Moyen,1,457.0,Europe,Hôtel,Avion,Affaires,0,9.0
+1374,33,Femme,Élevé,2,1296.0,Europe,Famille/Amis,Train,Loisirs,1,9.0
+1375,24,Femme,Faible,0,131.0,France,Location,Voiture,Loisirs,0,
+1376,65,Homme,Faible,1,449.0,France,Location,Voiture,Loisirs,0,4.0
+1377,55,Homme,Faible,1,94.0,France,Location,Train,Visite famille,0,2.0
+1378,32,Femme,Moyen,1,511.0,International,Camping,Voiture,Affaires,0,2.0
+1379,42,Femme,Moyen,1,580.0,France,Hôtel,Avion,Loisirs,0,3.0
+1380,53,Homme,Élevé,5,1075.0,Europe,Hôtel,Avion,Loisirs,0,2.0
+1381,70,Femme,Moyen,2,177.0,France,Famille/Amis,Voiture,Loisirs,0,4.0
+1382,44,Homme,Moyen,2,430.0,International,Famille/Amis,Voiture,Affaires,0,9.0
+1383,37,Femme,Élevé,1,1243.0,Europe,Famille/Amis,Voiture,Visite famille,0,8.0
+1384,64,Homme,Moyen,3,552.0,Europe,Location,Train,Affaires,1,9.0
+1385,34,Femme,Élevé,4,1180.0,France,Location,Train,Visite famille,0,5.0
+1386,51,Femme,Moyen,0,988.0,France,Location,Avion,Loisirs,0,
+1387,38,Femme,Moyen,1,827.0,International,Famille/Amis,Avion,Visite famille,0,5.0
+1388,20,Homme,Moyen,2,664.0,International,Hôtel,Avion,Visite famille,0,10.0
+1389,67,Femme,Moyen,5,509.0,France,Famille/Amis,Voiture,Loisirs,0,5.0
+1390,58,Femme,Moyen,1,1010.0,France,Location,Train,Loisirs,0,1.0
+1391,28,Homme,Faible,1,469.0,France,Camping,Avion,Loisirs,1,1.0
+1392,25,Homme,Élevé,6,1212.0,Europe,Location,Voiture,Loisirs,1,4.0
+1393,53,Femme,Élevé,2,1371.0,Europe,Hôtel,Voiture,Loisirs,1,1.0
+1394,21,Femme,Moyen,4,584.0,France,Camping,Voiture,Visite famille,1,5.0
+1395,28,Homme,Faible,1,326.0,France,Famille/Amis,Voiture,Loisirs,1,2.0
+1396,24,Femme,Faible,0,340.0,International,Famille/Amis,Voiture,Loisirs,1,
+1397,76,Femme,Moyen,1,925.0,Europe,Hôtel,Voiture,Loisirs,0,7.0
+1398,39,Femme,Faible,0,449.0,France,Hôtel,Train,Loisirs,0,
+1399,79,Homme,Moyen,0,953.0,France,Camping,Voiture,Loisirs,1,
+1400,20,Homme,Faible,4,267.0,France,Famille/Amis,Voiture,Loisirs,1,3.0
+1401,30,Femme,Moyen,1,807.0,France,Location,Voiture,Loisirs,1,1.0
+1402,52,Homme,Moyen,2,725.0,France,Hôtel,Avion,Loisirs,1,8.0
+1403,55,Femme,Élevé,1,1236.0,Europe,Camping,Voiture,Affaires,0,6.0
+1404,20,Homme,Faible,1,353.0,France,Camping,Train,Loisirs,0,3.0
+1405,22,Femme,Moyen,3,717.0,Europe,Location,Voiture,Visite famille,1,9.0
+1406,64,Femme,Moyen,3,717.0,International,Famille/Amis,Train,Affaires,0,7.0
+1407,41,Homme,Moyen,2,620.0,France,Camping,Train,Loisirs,1,5.0
+1408,31,Femme,Moyen,6,793.0,France,Famille/Amis,Train,Loisirs,0,10.0
+1409,48,Femme,Élevé,2,1079.0,Europe,Location,Avion,Loisirs,0,5.0
+1410,28,Femme,Moyen,3,505.0,International,Location,Voiture,Loisirs,0,7.0
+1411,57,Femme,Faible,1,429.0,France,Camping,Voiture,Loisirs,0,4.0
+1412,57,Femme,Faible,0,229.0,France,Hôtel,Voiture,Loisirs,0,
+1413,75,Homme,Élevé,3,965.0,Europe,Hôtel,Voiture,Visite famille,0,8.0
+1414,66,Femme,Faible,2,180.0,Europe,Camping,Avion,Loisirs,0,6.0
+1415,58,Femme,Moyen,1,1127.0,Europe,Hôtel,Voiture,Loisirs,0,10.0
+1416,45,Femme,Élevé,0,860.0,France,Famille/Amis,Train,Visite famille,0,
+1417,47,Homme,Élevé,2,1123.0,Europe,Famille/Amis,Voiture,Loisirs,0,5.0
+1418,34,Femme,Moyen,0,673.0,France,Famille/Amis,Voiture,Loisirs,1,
+1419,20,Homme,Élevé,2,,Europe,Hôtel,Voiture,Loisirs,0,1.0
+1420,43,Homme,Faible,0,524.0,France,Camping,Train,Visite famille,0,
+1421,51,Homme,Faible,1,560.0,France,Hôtel,Voiture,Loisirs,0,10.0
+1422,63,Homme,Élevé,3,747.0,International,Famille/Amis,Voiture,Loisirs,1,9.0
+1423,36,Homme,Moyen,2,662.0,Europe,Hôtel,Train,Loisirs,0,10.0
+1424,25,Homme,Faible,0,64.0,France,Camping,Voiture,Loisirs,0,
+1425,29,Homme,Moyen,1,1015.0,France,Hôtel,Avion,Loisirs,0,1.0
+1426,22,Homme,Moyen,1,528.0,International,Location,Train,Loisirs,0,6.0
+1427,18,Femme,Élevé,2,1168.0,Europe,Location,Avion,Visite famille,1,9.0
+1428,32,Femme,Élevé,2,1270.0,Europe,Location,Train,Affaires,1,7.0
+1429,25,Femme,Moyen,2,1048.0,France,Hôtel,Voiture,Loisirs,0,5.0
+1430,49,Homme,Élevé,2,1581.0,Europe,Hôtel,Voiture,Affaires,1,6.0
+1431,72,Homme,Élevé,4,1401.0,International,Hôtel,Avion,Loisirs,1,3.0
+1432,61,Homme,Élevé,3,1778.0,International,Famille/Amis,Train,Loisirs,1,10.0
+1433,31,Homme,Moyen,2,576.0,Europe,Hôtel,Avion,Affaires,1,3.0
+1434,48,Homme,Faible,2,581.0,France,Hôtel,Avion,Visite famille,0,6.0
+1435,75,Femme,Élevé,3,1155.0,France,Hôtel,Avion,Affaires,0,3.0
+1436,42,Homme,Faible,1,56.0,Europe,Location,Voiture,Affaires,0,6.0
+1437,62,Homme,Moyen,5,466.0,Europe,Camping,Voiture,Affaires,1,5.0
+1438,75,Femme,Moyen,3,474.0,France,Famille/Amis,Voiture,Loisirs,0,3.0
+1439,31,Homme,Moyen,0,783.0,International,Hôtel,Avion,Loisirs,0,
+1440,49,Femme,Moyen,0,705.0,France,Hôtel,Avion,Loisirs,0,
+1441,75,Homme,Moyen,2,588.0,Europe,Hôtel,Voiture,Affaires,0,5.0
+1442,32,Femme,Moyen,5,924.0,Europe,Camping,Voiture,Affaires,0,10.0
+1443,40,Homme,Moyen,2,702.0,France,Famille/Amis,Avion,Visite famille,0,6.0
+1444,33,Homme,Faible,0,50.0,France,Camping,Voiture,Visite famille,0,
+1445,70,Homme,Moyen,4,850.0,International,Hôtel,Avion,Loisirs,1,7.0
+1446,44,Homme,Moyen,1,414.0,International,Hôtel,Train,Loisirs,0,6.0
+1447,64,Homme,Élevé,2,1043.0,International,Hôtel,Train,Visite famille,1,7.0
+1448,63,Homme,Élevé,2,1381.0,International,Hôtel,Avion,Visite famille,0,9.0
+1449,68,Femme,Moyen,0,622.0,France,Hôtel,Voiture,Loisirs,1,
+1450,39,Femme,Faible,1,99.0,International,Hôtel,Voiture,Visite famille,0,8.0
+1451,39,Femme,Élevé,3,1474.0,France,Hôtel,Voiture,Visite famille,0,6.0
+1452,37,Femme,Faible,0,77.0,France,Hôtel,Avion,Loisirs,0,
+1453,66,Homme,Moyen,4,491.0,Europe,Hôtel,Avion,Loisirs,1,9.0
+1454,78,Femme,Moyen,2,415.0,France,Hôtel,Voiture,Loisirs,0,6.0
+1455,33,Homme,Faible,1,336.0,France,Hôtel,Train,Loisirs,0,1.0
+1456,77,Homme,Moyen,1,488.0,France,Hôtel,Avion,Loisirs,0,2.0
+1457,29,Femme,Moyen,3,459.0,Europe,Famille/Amis,Voiture,Loisirs,0,7.0
+1458,26,Femme,Élevé,2,1077.0,International,Hôtel,Train,Loisirs,0,9.0
+1459,63,Homme,Moyen,1,923.0,Europe,Hôtel,Train,Loisirs,0,10.0
+1460,27,Homme,Moyen,1,262.0,Europe,Location,Voiture,Loisirs,0,2.0
+1461,18,Femme,Élevé,5,1182.0,Europe,Hôtel,Voiture,Loisirs,0,5.0
+1462,53,Femme,Faible,2,,International,Hôtel,Voiture,Loisirs,0,8.0
+1463,44,Homme,Élevé,3,1745.0,France,Hôtel,Train,Loisirs,0,6.0
+1464,62,Homme,Élevé,1,989.0,International,Hôtel,Avion,Loisirs,0,5.0
+1465,49,Homme,Faible,2,154.0,Europe,Camping,Avion,Loisirs,0,3.0
+1466,29,Femme,Élevé,2,1415.0,Europe,Location,Avion,Affaires,1,10.0
+1467,20,Homme,Élevé,2,1431.0,France,Famille/Amis,Avion,Visite famille,1,4.0
+1468,71,Homme,Moyen,1,877.0,International,Hôtel,Train,Loisirs,0,9.0
+1469,61,Femme,Moyen,1,582.0,France,Famille/Amis,Voiture,Visite famille,0,6.0
+1470,25,Homme,Faible,2,190.0,Europe,Location,Voiture,Loisirs,1,2.0
+1471,40,Homme,Élevé,6,1191.0,Europe,Famille/Amis,Train,Loisirs,0,5.0
+1472,62,Femme,Moyen,4,1100.0,France,Camping,Voiture,Visite famille,1,5.0
+1473,54,Homme,Élevé,2,1191.0,International,Location,Train,Loisirs,0,7.0
+1474,74,Homme,Moyen,3,968.0,International,Famille/Amis,Avion,Visite famille,0,7.0
+1475,66,Femme,Moyen,1,826.0,France,Famille/Amis,Avion,Loisirs,1,4.0
+1476,66,Homme,Faible,1,50.0,France,Location,Voiture,Visite famille,0,5.0
+1477,29,Femme,Moyen,2,747.0,Europe,Location,Avion,Loisirs,0,9.0
+1478,47,Femme,Faible,0,90.0,Europe,Location,Avion,Loisirs,0,
+1479,42,Homme,Faible,0,489.0,France,Location,Train,Loisirs,0,
+1480,51,Femme,Moyen,0,304.0,Europe,Famille/Amis,Voiture,Visite famille,1,
+1481,39,Homme,Moyen,0,889.0,International,Hôtel,Voiture,Affaires,0,
+1482,78,Homme,Élevé,2,646.0,France,Famille/Amis,Avion,Loisirs,0,5.0
+1483,30,Femme,Élevé,3,1022.0,International,Camping,Train,Loisirs,0,3.0
+1484,52,Femme,Élevé,1,1095.0,Europe,Camping,Voiture,Loisirs,0,4.0
+1485,32,Femme,Faible,1,154.0,France,Famille/Amis,Train,Visite famille,0,6.0
+1486,70,Homme,Moyen,0,594.0,Europe,Camping,Voiture,Visite famille,1,
+1487,55,Femme,Moyen,4,533.0,Europe,Hôtel,Train,Visite famille,1,5.0
+1488,30,Femme,Faible,1,189.0,France,Famille/Amis,Avion,Affaires,0,6.0
+1489,74,Homme,Moyen,1,440.0,France,Camping,Avion,Affaires,0,9.0
+1490,49,Homme,Moyen,7,948.0,France,Hôtel,Avion,Visite famille,1,1.0
+1491,39,Homme,Moyen,2,805.0,Europe,Hôtel,Voiture,Loisirs,1,9.0
+1492,72,Femme,Moyen,2,645.0,International,Location,Train,Affaires,0,4.0
+1493,73,Homme,Moyen,1,506.0,Europe,Camping,Train,Loisirs,0,5.0
+1494,78,Homme,Faible,0,196.0,France,Camping,Voiture,Loisirs,0,
+1495,69,Homme,Faible,0,278.0,France,Hôtel,Voiture,Loisirs,0,
+1496,58,Femme,Élevé,4,945.0,France,Hôtel,Train,Loisirs,1,4.0
+1497,23,Femme,Moyen,1,911.0,International,Camping,Train,Loisirs,0,6.0
+1498,32,Homme,Faible,1,,France,Hôtel,Voiture,Affaires,1,3.0
+1499,24,Homme,Moyen,1,727.0,France,Famille/Amis,Avion,Visite famille,0,9.0
+1500,20,Femme,Élevé,1,1031.0,Europe,Hôtel,Train,Affaires,0,8.0
+1501,39,Femme,Faible,0,303.0,Europe,Camping,Avion,Visite famille,0,
+1502,43,Homme,Moyen,5,765.0,France,Famille/Amis,Voiture,Loisirs,0,6.0
+1503,26,Homme,Élevé,1,1096.0,International,Famille/Amis,Train,Visite famille,0,4.0
+1504,66,Homme,Faible,0,621.0,Europe,Famille/Amis,Train,Loisirs,0,
+1505,29,Femme,Faible,2,646.0,France,Camping,Voiture,Visite famille,0,4.0
+1506,65,Homme,Élevé,4,1033.0,Europe,Location,Voiture,Visite famille,0,5.0
+1507,50,Femme,Moyen,2,686.0,Europe,Hôtel,Train,Loisirs,0,3.0
+1508,60,Homme,Élevé,0,1233.0,Europe,Hôtel,Voiture,Visite famille,0,
+1509,25,Homme,Moyen,4,581.0,France,Location,Voiture,Visite famille,0,5.0
+1510,71,Homme,Faible,4,413.0,Europe,Location,Voiture,Loisirs,0,2.0
+1511,66,Femme,Élevé,2,693.0,Europe,Camping,Avion,Loisirs,0,8.0
+1512,47,Femme,Faible,2,208.0,France,Camping,Voiture,Visite famille,0,7.0
+1513,43,Femme,Faible,1,115.0,France,Location,Train,Loisirs,0,4.0
+1514,22,Homme,Élevé,5,,Europe,Location,Voiture,Loisirs,0,8.0
+1515,51,Femme,Élevé,2,977.0,France,Camping,Voiture,Visite famille,0,5.0
+1516,41,Femme,Élevé,4,1115.0,Europe,Hôtel,Voiture,Loisirs,1,10.0
+1517,67,Homme,Élevé,0,1449.0,Europe,Hôtel,Voiture,Loisirs,1,
+1518,48,Femme,Faible,2,104.0,France,Camping,Train,Visite famille,0,9.0
+1519,73,Femme,Faible,2,50.0,Europe,Famille/Amis,Voiture,Loisirs,0,3.0
+1520,41,Homme,Faible,2,373.0,Europe,Famille/Amis,Voiture,Loisirs,0,6.0
+1521,52,Femme,Élevé,3,995.0,Europe,Location,Voiture,Affaires,0,4.0
+1522,70,Homme,Élevé,3,1252.0,Europe,Hôtel,Train,Affaires,0,5.0
+1523,57,Homme,Faible,3,143.0,Europe,Location,Avion,Affaires,0,6.0
+1524,65,Femme,Moyen,4,619.0,France,Hôtel,Voiture,Loisirs,0,7.0
+1525,63,Femme,Moyen,0,599.0,Europe,Famille/Amis,Voiture,Loisirs,0,
+1526,37,Femme,Élevé,3,1291.0,Europe,Camping,Train,Loisirs,0,5.0
+1527,68,Homme,Élevé,5,1372.0,Europe,Hôtel,Avion,Loisirs,0,4.0
+1528,60,Femme,Faible,1,194.0,France,Hôtel,Voiture,Loisirs,0,7.0
+1529,40,Femme,Moyen,1,448.0,France,Famille/Amis,Train,Loisirs,1,1.0
+1530,72,Homme,Moyen,0,871.0,Europe,Hôtel,Train,Loisirs,1,
+1531,32,Femme,Moyen,2,942.0,International,Location,Avion,Visite famille,1,9.0
+1532,36,Homme,Élevé,2,1222.0,Europe,Location,Voiture,Loisirs,0,3.0
+1533,23,Femme,Élevé,1,1283.0,International,Camping,Train,Loisirs,0,7.0
+1534,38,Homme,Faible,1,315.0,France,Camping,Train,Loisirs,1,4.0
+1535,30,Homme,Faible,3,285.0,France,Location,Train,Loisirs,0,7.0
+1536,71,Femme,Moyen,1,866.0,France,Famille/Amis,Voiture,Loisirs,0,3.0
+1537,52,Femme,Faible,2,109.0,France,Camping,Avion,Loisirs,0,2.0
+1538,71,Femme,Moyen,1,694.0,Europe,Hôtel,Voiture,Loisirs,0,6.0
+1539,78,Homme,Moyen,0,1029.0,France,Hôtel,Avion,Loisirs,0,
+1540,66,Homme,Faible,0,135.0,Europe,Camping,Voiture,Visite famille,0,
+1541,54,Homme,Moyen,2,1106.0,International,Famille/Amis,Voiture,Loisirs,1,10.0
+1542,61,Homme,Moyen,2,838.0,Europe,Camping,Avion,Loisirs,0,7.0
+1543,77,Homme,Élevé,2,1291.0,France,Location,Voiture,Loisirs,1,9.0
+1544,27,Femme,Faible,0,223.0,France,Hôtel,Voiture,Loisirs,0,
+1545,36,Femme,Élevé,3,1186.0,France,Famille/Amis,Avion,Loisirs,1,6.0
+1546,43,Femme,Élevé,0,1600.0,France,Hôtel,Voiture,Visite famille,0,
+1547,20,Femme,Faible,1,50.0,Europe,Camping,Voiture,Affaires,0,1.0
+1548,62,Homme,Faible,0,387.0,France,Location,Voiture,Loisirs,0,
+1549,47,Homme,Faible,1,137.0,France,Famille/Amis,Voiture,Loisirs,1,5.0
+1550,61,Homme,Faible,0,579.0,France,Camping,Voiture,Loisirs,0,
+1551,35,Homme,Moyen,3,655.0,Europe,Famille/Amis,Voiture,Loisirs,0,7.0
+1552,56,Homme,Élevé,3,1429.0,France,Famille/Amis,Voiture,Loisirs,0,4.0
+1553,49,Homme,Moyen,0,569.0,Europe,Location,Avion,Visite famille,0,
+1554,45,Femme,Faible,0,61.0,Europe,Hôtel,Voiture,Loisirs,0,
+1555,44,Homme,Faible,0,161.0,France,Hôtel,Voiture,Visite famille,0,
+1556,65,Homme,Élevé,5,820.0,Europe,Camping,Avion,Visite famille,0,10.0
+1557,67,Homme,Élevé,3,1027.0,Europe,Hôtel,Avion,Affaires,1,1.0
+1558,43,Femme,Élevé,3,1009.0,Europe,Camping,Train,Affaires,1,2.0
+1559,45,Homme,Moyen,2,818.0,Europe,Location,Train,Loisirs,0,7.0
+1560,34,Homme,Faible,2,330.0,Europe,Hôtel,Voiture,Visite famille,1,3.0
+1561,28,Homme,Faible,0,360.0,Europe,Hôtel,Voiture,Affaires,0,
+1562,26,Femme,Faible,1,129.0,Europe,Location,Avion,Loisirs,0,7.0
+1563,41,Homme,Faible,3,560.0,International,Hôtel,Avion,Affaires,1,7.0
+1564,57,Homme,Moyen,2,616.0,International,Hôtel,Train,Visite famille,0,3.0
+1565,48,Femme,Moyen,2,747.0,International,Famille/Amis,Voiture,Loisirs,0,1.0
+1566,31,Homme,Moyen,1,488.0,Europe,Famille/Amis,Train,Visite famille,1,5.0
+1567,33,Femme,Faible,0,80.0,France,Hôtel,Voiture,Loisirs,1,
+1568,43,Homme,Moyen,3,1112.0,International,Hôtel,Avion,Loisirs,0,2.0
+1569,34,Homme,Moyen,0,590.0,Europe,Famille/Amis,Train,Loisirs,0,
+1570,77,Homme,Élevé,2,861.0,International,Famille/Amis,Train,Visite famille,0,10.0
+1571,23,Femme,Élevé,6,1054.0,Europe,Hôtel,Avion,Loisirs,1,2.0
+1572,65,Homme,Faible,2,419.0,France,Hôtel,Voiture,Affaires,0,6.0
+1573,77,Homme,Faible,1,322.0,France,Hôtel,Avion,Loisirs,0,7.0
+1574,24,Homme,Moyen,2,,International,Famille/Amis,Voiture,Loisirs,0,5.0
+1575,35,Homme,Moyen,1,,Europe,Location,Avion,Loisirs,1,1.0
+1576,52,Homme,Moyen,2,1005.0,International,Camping,Voiture,Visite famille,1,8.0
+1577,42,Femme,Faible,1,369.0,France,Hôtel,Voiture,Loisirs,0,6.0
+1578,57,Homme,Faible,0,50.0,France,Hôtel,Voiture,Loisirs,0,
+1579,79,Femme,Élevé,8,1469.0,France,Hôtel,Train,Loisirs,0,10.0
+1580,76,Homme,Moyen,2,343.0,International,Famille/Amis,Voiture,Visite famille,0,5.0
+1581,40,Femme,Moyen,4,684.0,France,Location,Voiture,Loisirs,0,8.0
+1582,45,Homme,Moyen,2,753.0,Europe,Location,Voiture,Loisirs,0,10.0
+1583,69,Femme,Moyen,1,244.0,Europe,Location,Train,Loisirs,1,6.0
+1584,62,Homme,Élevé,3,1131.0,France,Hôtel,Voiture,Affaires,1,2.0
+1585,23,Femme,Moyen,1,808.0,International,Hôtel,Voiture,Loisirs,0,8.0
+1586,51,Femme,Moyen,3,782.0,Europe,Hôtel,Voiture,Affaires,0,8.0
+1587,78,Homme,Moyen,3,812.0,International,Camping,Voiture,Loisirs,1,7.0
+1588,79,Femme,Élevé,6,1103.0,France,Hôtel,Voiture,Visite famille,1,6.0
+1589,73,Homme,Faible,0,138.0,Europe,Camping,Voiture,Loisirs,0,
+1590,27,Homme,Faible,2,438.0,Europe,Camping,Voiture,Visite famille,0,7.0
+1591,40,Homme,Moyen,4,785.0,France,Camping,Train,Loisirs,0,5.0
+1592,78,Femme,Moyen,3,580.0,France,Location,Train,Loisirs,1,10.0
+1593,50,Homme,Élevé,3,1178.0,Europe,Camping,Avion,Affaires,0,7.0
+1594,66,Femme,Moyen,3,906.0,Europe,Famille/Amis,Train,Visite famille,1,8.0
+1595,67,Homme,Faible,2,124.0,Europe,Hôtel,Voiture,Visite famille,0,6.0
+1596,76,Femme,Moyen,0,723.0,France,Famille/Amis,Voiture,Visite famille,0,
+1597,61,Femme,Faible,3,50.0,Europe,Famille/Amis,Voiture,Affaires,0,3.0
+1598,79,Femme,Moyen,6,569.0,France,Location,Voiture,Affaires,0,3.0
+1599,51,Homme,Moyen,2,878.0,France,Hôtel,Avion,Visite famille,1,7.0
+1600,21,Homme,Faible,3,252.0,Europe,Camping,Voiture,Visite famille,0,8.0
+1601,62,Homme,Élevé,6,1024.0,Europe,Hôtel,Train,Affaires,0,9.0
+1602,61,Femme,Moyen,0,526.0,Europe,Famille/Amis,Avion,Loisirs,0,
+1603,64,Femme,Élevé,2,811.0,France,Camping,Train,Loisirs,0,8.0
+1604,58,Femme,Faible,0,310.0,France,Hôtel,Avion,Loisirs,0,
+1605,43,Homme,Moyen,1,790.0,Europe,Camping,Voiture,Loisirs,1,9.0
+1606,54,Femme,Élevé,0,1352.0,International,Hôtel,Avion,Loisirs,0,
+1607,35,Femme,Moyen,2,695.0,Europe,Famille/Amis,Train,Loisirs,0,7.0
+1608,28,Femme,Élevé,4,1017.0,France,Hôtel,Voiture,Affaires,0,2.0
+1609,55,Femme,Moyen,1,1009.0,Europe,Hôtel,Voiture,Affaires,1,9.0
+1610,53,Femme,Faible,1,543.0,Europe,Location,Voiture,Visite famille,0,10.0
+1611,66,Homme,Moyen,2,1160.0,France,Camping,Voiture,Loisirs,0,1.0
+1612,23,Femme,Élevé,0,1082.0,International,Location,Voiture,Visite famille,1,
+1613,55,Homme,Moyen,5,398.0,France,Location,Voiture,Visite famille,0,4.0
+1614,44,Homme,Élevé,3,1525.0,Europe,Famille/Amis,Avion,Loisirs,1,5.0
+1615,34,Homme,Moyen,1,517.0,France,Location,Voiture,Loisirs,1,1.0
+1616,65,Homme,Élevé,2,1203.0,International,Camping,Avion,Affaires,0,1.0
+1617,33,Femme,Moyen,2,422.0,Europe,Location,Avion,Visite famille,0,1.0
+1618,54,Femme,Moyen,0,698.0,Europe,Famille/Amis,Avion,Loisirs,0,
+1619,49,Homme,Moyen,1,837.0,International,Hôtel,Voiture,Visite famille,0,3.0
+1620,42,Homme,Moyen,2,1184.0,Europe,Hôtel,Voiture,Loisirs,0,3.0
+1621,59,Femme,Élevé,4,977.0,International,Hôtel,Avion,Loisirs,0,9.0
+1622,27,Femme,Élevé,4,1627.0,Europe,Location,Voiture,Loisirs,1,3.0
+1623,61,Femme,Faible,1,,France,Hôtel,Train,Loisirs,0,4.0
+1624,33,Femme,Moyen,1,703.0,France,Camping,Avion,Loisirs,0,1.0
+1625,68,Homme,Élevé,1,930.0,France,Location,Train,Loisirs,0,3.0
+1626,59,Femme,Moyen,2,515.0,France,Famille/Amis,Voiture,Loisirs,0,3.0
+1627,27,Homme,Moyen,3,500.0,Europe,Famille/Amis,Voiture,Visite famille,1,10.0
+1628,66,Homme,Faible,1,351.0,France,Camping,Voiture,Visite famille,0,5.0
+1629,34,Homme,Élevé,1,1073.0,France,Location,Train,Loisirs,0,1.0
+1630,70,Homme,Moyen,2,884.0,Europe,Hôtel,Voiture,Loisirs,0,5.0
+1631,70,Homme,Élevé,6,962.0,International,Hôtel,Voiture,Loisirs,0,4.0
+1632,21,Homme,Moyen,5,577.0,Europe,Hôtel,Voiture,Loisirs,0,9.0
+1633,36,Femme,Faible,3,529.0,International,Famille/Amis,Train,Visite famille,0,8.0
+1634,67,Homme,Moyen,0,587.0,Europe,Location,Voiture,Visite famille,0,
+1635,26,Homme,Élevé,1,1068.0,Europe,Hôtel,Avion,Visite famille,0,2.0
+1636,67,Homme,Élevé,2,1121.0,Europe,Famille/Amis,Voiture,Visite famille,0,9.0
+1637,21,Homme,Faible,1,239.0,France,Famille/Amis,Voiture,Visite famille,1,9.0
+1638,58,Femme,Moyen,2,416.0,Europe,Location,Voiture,Loisirs,1,7.0
+1639,56,Femme,Moyen,2,1126.0,France,Hôtel,Voiture,Loisirs,0,8.0
+1640,72,Femme,Élevé,3,903.0,International,Location,Voiture,Loisirs,1,7.0
+1641,29,Homme,Moyen,1,367.0,Europe,Famille/Amis,Voiture,Loisirs,0,2.0
+1642,65,Homme,Élevé,5,1128.0,Europe,Hôtel,Voiture,Loisirs,1,2.0
+1643,43,Homme,Moyen,4,686.0,France,Hôtel,Avion,Loisirs,0,6.0
+1644,41,Femme,Moyen,2,621.0,Europe,Hôtel,Voiture,Loisirs,0,9.0
+1645,37,Femme,Moyen,4,443.0,Europe,Famille/Amis,Voiture,Affaires,0,7.0
+1646,27,Femme,Moyen,5,915.0,Europe,Location,Avion,Loisirs,1,6.0
+1647,18,Homme,Moyen,1,752.0,Europe,Famille/Amis,Train,Loisirs,0,1.0
+1648,77,Homme,Moyen,2,708.0,Europe,Famille/Amis,Train,Visite famille,1,8.0
+1649,67,Femme,Faible,2,469.0,International,Famille/Amis,Avion,Loisirs,1,7.0
+1650,23,Femme,Moyen,1,993.0,France,Famille/Amis,Voiture,Loisirs,0,3.0
+1651,40,Femme,Moyen,2,329.0,International,Location,Avion,Affaires,0,1.0
+1652,28,Homme,Élevé,2,1219.0,Europe,Hôtel,Train,Loisirs,0,10.0
+1653,59,Femme,Moyen,2,381.0,Europe,Famille/Amis,Train,Loisirs,0,1.0
+1654,49,Femme,Moyen,2,670.0,Europe,Famille/Amis,Train,Loisirs,0,4.0
+1655,27,Homme,Faible,0,50.0,International,Famille/Amis,Voiture,Loisirs,0,
+1656,39,Femme,Faible,1,412.0,France,Location,Train,Visite famille,0,4.0
+1657,27,Femme,Élevé,3,951.0,International,Location,Train,Visite famille,1,8.0
+1658,74,Homme,Faible,0,694.0,Europe,Location,Train,Loisirs,0,
+1659,55,Femme,Moyen,0,734.0,France,Famille/Amis,Voiture,Visite famille,0,
+1660,42,Homme,Moyen,3,567.0,International,Famille/Amis,Avion,Loisirs,0,4.0
+1661,29,Homme,Élevé,2,892.0,France,Famille/Amis,Voiture,Visite famille,0,4.0
+1662,73,Femme,Élevé,4,840.0,Europe,Camping,Voiture,Loisirs,0,9.0
+1663,32,Femme,Faible,0,359.0,France,Famille/Amis,Train,Affaires,0,
+1664,61,Homme,Moyen,0,812.0,France,Location,Train,Loisirs,0,
+1665,73,Homme,Élevé,5,1423.0,Europe,Camping,Train,Visite famille,1,3.0
+1666,67,Homme,Faible,1,151.0,Europe,Hôtel,Avion,Affaires,0,6.0
+1667,69,Femme,Moyen,2,476.0,Europe,Hôtel,Avion,Loisirs,0,1.0
+1668,41,Femme,Faible,2,113.0,France,Camping,Avion,Loisirs,0,4.0
+1669,27,Femme,Élevé,5,1187.0,Europe,Location,Avion,Loisirs,1,10.0
+1670,51,Femme,Moyen,3,947.0,Europe,Location,Voiture,Affaires,0,10.0
+1671,31,Femme,Élevé,2,1337.0,France,Camping,Voiture,Loisirs,1,10.0
+1672,79,Homme,Élevé,5,738.0,Europe,Hôtel,Avion,Loisirs,0,6.0
+1673,62,Femme,Élevé,1,1266.0,Europe,Hôtel,Voiture,Loisirs,0,1.0
+1674,29,Homme,Moyen,3,960.0,International,Famille/Amis,Voiture,Loisirs,0,10.0
+1675,76,Homme,Faible,2,186.0,Europe,Hôtel,Voiture,Loisirs,0,2.0
+1676,76,Femme,Moyen,2,615.0,France,Hôtel,Train,Affaires,0,2.0
+1677,74,Femme,Élevé,5,1083.0,Europe,Famille/Amis,Voiture,Loisirs,1,7.0
+1678,29,Homme,Élevé,3,1400.0,France,Location,Train,Visite famille,0,6.0
+1679,75,Femme,Élevé,3,1411.0,France,Famille/Amis,Voiture,Loisirs,0,1.0
+1680,33,Homme,Moyen,1,614.0,International,Famille/Amis,Avion,Affaires,0,9.0
+1681,60,Femme,Faible,0,50.0,Europe,Hôtel,Voiture,Loisirs,0,
+1682,76,Homme,Moyen,1,775.0,Europe,Famille/Amis,Train,Affaires,0,3.0
+1683,18,Homme,Élevé,5,1437.0,France,Famille/Amis,Train,Loisirs,1,4.0
+1684,69,Homme,Faible,0,213.0,France,Hôtel,Avion,Visite famille,0,
+1685,59,Homme,Moyen,0,996.0,France,Hôtel,Train,Visite famille,1,
+1686,29,Homme,Moyen,2,436.0,Europe,Camping,Voiture,Loisirs,1,8.0
+1687,49,Femme,Faible,1,502.0,Europe,Famille/Amis,Voiture,Visite famille,0,2.0
+1688,40,Homme,Faible,2,792.0,France,Location,Voiture,Affaires,0,4.0
+1689,66,Femme,Élevé,1,854.0,International,Hôtel,Voiture,Visite famille,0,10.0
+1690,56,Homme,Moyen,2,518.0,Europe,Hôtel,Voiture,Loisirs,0,7.0
+1691,27,Femme,Moyen,0,413.0,Europe,Hôtel,Voiture,Affaires,0,
+1692,27,Homme,Faible,3,273.0,France,Famille/Amis,Voiture,Loisirs,0,5.0
+1693,31,Femme,Moyen,0,545.0,France,Location,Avion,Loisirs,1,
+1694,76,Femme,Élevé,5,1267.0,Europe,Famille/Amis,Avion,Loisirs,0,7.0
+1695,72,Femme,Élevé,5,1084.0,International,Hôtel,Voiture,Loisirs,0,6.0
+1696,69,Femme,Faible,1,283.0,France,Camping,Voiture,Loisirs,0,7.0
+1697,69,Femme,Élevé,1,613.0,International,Location,Voiture,Visite famille,1,1.0
+1698,21,Femme,Faible,1,297.0,France,Hôtel,Voiture,Loisirs,0,8.0
+1699,77,Femme,Moyen,2,866.0,Europe,Famille/Amis,Voiture,Loisirs,0,6.0
+1700,34,Femme,Moyen,1,571.0,International,Camping,Train,Loisirs,0,5.0
+1701,48,Femme,Moyen,2,677.0,Europe,Location,Avion,Loisirs,0,5.0
+1702,58,Femme,Faible,1,326.0,France,Famille/Amis,Voiture,Affaires,0,5.0
+1703,43,Femme,Élevé,5,1028.0,France,Hôtel,Avion,Visite famille,1,9.0
+1704,69,Femme,Moyen,0,592.0,International,Hôtel,Avion,Visite famille,0,
+1705,19,Homme,Moyen,2,929.0,Europe,Hôtel,Voiture,Loisirs,0,9.0
+1706,20,Homme,Moyen,7,384.0,Europe,Famille/Amis,Train,Loisirs,1,9.0
+1707,60,Femme,Élevé,1,997.0,International,Location,Train,Affaires,1,6.0
+1708,27,Homme,Moyen,2,781.0,Europe,Location,Voiture,Affaires,0,9.0
+1709,77,Homme,Faible,1,50.0,France,Camping,Avion,Visite famille,1,8.0
+1710,24,Homme,Moyen,0,637.0,Europe,Famille/Amis,Avion,Loisirs,0,
+1711,21,Femme,Moyen,1,552.0,Europe,Camping,Train,Loisirs,1,8.0
+1712,32,Femme,Moyen,1,714.0,Europe,Location,Voiture,Loisirs,1,3.0
+1713,27,Femme,Moyen,1,814.0,Europe,Famille/Amis,Train,Loisirs,0,10.0
+1714,48,Homme,Élevé,3,618.0,Europe,Famille/Amis,Avion,Loisirs,0,8.0
+1715,55,Homme,Élevé,3,1092.0,France,Location,Train,Affaires,1,4.0
+1716,57,Homme,Élevé,1,1016.0,Europe,Location,Voiture,Loisirs,1,7.0
+1717,23,Homme,Moyen,2,718.0,International,Famille/Amis,Avion,Loisirs,1,8.0
+1718,58,Homme,Faible,1,,France,Hôtel,Train,Visite famille,0,3.0
+1719,18,Homme,Faible,1,396.0,France,Location,Avion,Visite famille,0,6.0
+1720,19,Femme,Élevé,1,1000.0,Europe,Famille/Amis,Train,Affaires,1,4.0
+1721,40,Homme,Moyen,3,992.0,France,Location,Voiture,Visite famille,0,1.0
+1722,58,Homme,Élevé,3,954.0,Europe,Location,Avion,Loisirs,0,10.0
+1723,27,Homme,Faible,1,321.0,France,Famille/Amis,Train,Loisirs,1,6.0
+1724,50,Homme,Moyen,0,780.0,Europe,Hôtel,Voiture,Visite famille,0,
+1725,29,Femme,Moyen,1,537.0,Europe,Location,Voiture,Loisirs,0,8.0
+1726,77,Homme,Moyen,2,416.0,France,Hôtel,Avion,Affaires,1,5.0
+1727,66,Femme,Faible,1,198.0,France,Hôtel,Avion,Visite famille,0,2.0
+1728,71,Homme,Moyen,2,788.0,France,Hôtel,Voiture,Loisirs,0,2.0
+1729,31,Homme,Faible,0,140.0,Europe,Hôtel,Avion,Loisirs,0,
+1730,36,Homme,Moyen,5,184.0,Europe,Hôtel,Voiture,Loisirs,0,8.0
+1731,73,Femme,Élevé,1,1233.0,France,Famille/Amis,Voiture,Affaires,0,4.0
+1732,27,Homme,Faible,2,530.0,Europe,Hôtel,Voiture,Loisirs,0,10.0
+1733,72,Homme,Faible,1,197.0,France,Hôtel,Train,Visite famille,0,1.0
+1734,45,Homme,Moyen,3,730.0,Europe,Location,Voiture,Loisirs,0,7.0
+1735,27,Homme,Moyen,5,936.0,France,Location,Voiture,Visite famille,0,1.0
+1736,77,Femme,Moyen,2,445.0,France,Location,Train,Visite famille,0,3.0
+1737,69,Femme,Faible,1,544.0,France,Famille/Amis,Avion,Loisirs,0,3.0
+1738,68,Femme,Élevé,2,1104.0,International,Location,Voiture,Loisirs,0,2.0
+1739,21,Femme,Moyen,2,678.0,France,Location,Avion,Loisirs,0,4.0
+1740,30,Femme,Moyen,3,567.0,Europe,Location,Train,Loisirs,1,8.0
+1741,46,Femme,Faible,0,553.0,France,Hôtel,Voiture,Visite famille,0,
+1742,71,Homme,Élevé,6,1232.0,France,Camping,Avion,Loisirs,1,5.0
+1743,39,Femme,Moyen,2,982.0,Europe,Camping,Voiture,Visite famille,1,7.0
+1744,32,Femme,Faible,1,229.0,France,Location,Train,Loisirs,1,9.0
+1745,25,Homme,Faible,1,492.0,International,Camping,Train,Affaires,0,3.0
+1746,39,Femme,Faible,2,351.0,International,Hôtel,Avion,Loisirs,0,3.0
+1747,48,Femme,Moyen,2,700.0,Europe,Location,Voiture,Affaires,1,9.0
+1748,75,Femme,Moyen,0,560.0,Europe,Hôtel,Voiture,Loisirs,0,
+1749,18,Femme,Faible,1,50.0,Europe,Camping,Voiture,Visite famille,1,10.0
+1750,70,Homme,Moyen,0,,Europe,Hôtel,Train,Loisirs,0,
+1751,75,Homme,Faible,2,404.0,France,Location,Voiture,Loisirs,0,10.0
+1752,44,Femme,Faible,0,235.0,France,Hôtel,Train,Visite famille,0,
+1753,73,Femme,Moyen,3,1012.0,France,Camping,Voiture,Visite famille,1,7.0
+1754,68,Femme,Faible,0,246.0,Europe,Hôtel,Avion,Affaires,0,
+1755,62,Homme,Moyen,2,683.0,Europe,Hôtel,Train,Visite famille,0,10.0
+1756,26,Homme,Moyen,1,906.0,France,Hôtel,Voiture,Loisirs,0,1.0
+1757,32,Femme,Faible,3,50.0,Europe,Hôtel,Train,Loisirs,1,8.0
+1758,38,Femme,Moyen,0,837.0,International,Location,Voiture,Loisirs,0,
+1759,29,Femme,Élevé,5,1351.0,International,Location,Train,Loisirs,1,3.0
+1760,56,Femme,Moyen,4,781.0,France,Famille/Amis,Voiture,Visite famille,1,9.0
+1761,27,Femme,Élevé,6,1471.0,France,Famille/Amis,Voiture,Visite famille,1,8.0
+1762,60,Femme,Moyen,2,1060.0,France,Location,Avion,Visite famille,0,9.0
+1763,58,Homme,Élevé,2,1153.0,Europe,Famille/Amis,Avion,Loisirs,1,10.0
+1764,23,Homme,Faible,1,213.0,France,Famille/Amis,Avion,Loisirs,0,4.0
+1765,30,Femme,Faible,1,446.0,France,Hôtel,Avion,Affaires,0,4.0
+1766,40,Homme,Faible,3,50.0,France,Location,Train,Visite famille,1,9.0
+1767,67,Femme,Élevé,2,1130.0,France,Camping,Voiture,Visite famille,1,9.0
+1768,54,Femme,Faible,1,202.0,France,Location,Voiture,Visite famille,0,8.0
+1769,42,Homme,Moyen,5,1027.0,International,Hôtel,Avion,Loisirs,1,7.0
+1770,25,Femme,Faible,0,348.0,France,Hôtel,Avion,Loisirs,0,
+1771,38,Homme,Faible,1,347.0,France,Famille/Amis,Avion,Loisirs,1,6.0
+1772,32,Femme,Faible,3,276.0,Europe,Hôtel,Avion,Loisirs,0,10.0
+1773,53,Homme,Élevé,4,,International,Camping,Avion,Loisirs,0,2.0
+1774,39,Homme,Faible,1,216.0,Europe,Location,Avion,Loisirs,0,5.0
+1775,56,Femme,Faible,2,50.0,France,Camping,Avion,Affaires,1,4.0
+1776,71,Homme,Faible,2,50.0,France,Famille/Amis,Voiture,Loisirs,0,5.0
+1777,64,Homme,Élevé,1,963.0,International,Location,Avion,Loisirs,0,9.0
+1778,60,Homme,Élevé,2,876.0,France,Hôtel,Voiture,Loisirs,1,9.0
+1779,39,Homme,Faible,1,50.0,France,Location,Voiture,Loisirs,1,4.0
+1780,31,Homme,Moyen,1,866.0,Europe,Camping,Avion,Loisirs,1,7.0
+1781,30,Homme,Élevé,3,1285.0,Europe,Hôtel,Voiture,Visite famille,0,7.0
+1782,26,Homme,Élevé,1,1225.0,International,Famille/Amis,Voiture,Loisirs,0,3.0
+1783,50,Homme,Élevé,2,897.0,France,Hôtel,Voiture,Loisirs,1,7.0
+1784,66,Femme,Faible,0,434.0,France,Famille/Amis,Train,Loisirs,0,
+1785,79,Femme,Élevé,2,1226.0,France,Famille/Amis,Avion,Loisirs,0,2.0
+1786,47,Femme,Faible,1,253.0,France,Famille/Amis,Voiture,Loisirs,1,1.0
+1787,44,Femme,Faible,0,522.0,France,Hôtel,Train,Visite famille,0,
+1788,29,Homme,Moyen,2,864.0,France,Hôtel,Avion,Loisirs,0,6.0
+1789,62,Homme,Faible,3,128.0,France,Hôtel,Voiture,Loisirs,0,5.0
+1790,67,Femme,Moyen,1,,Europe,Location,Train,Loisirs,0,6.0
+1791,20,Homme,Faible,2,467.0,Europe,Location,Train,Visite famille,0,10.0
+1792,76,Homme,Élevé,1,840.0,International,Location,Voiture,Loisirs,1,6.0
+1793,32,Homme,Moyen,2,356.0,Europe,Camping,Train,Affaires,0,7.0
+1794,29,Homme,Faible,1,50.0,France,Camping,Train,Affaires,0,8.0
+1795,54,Homme,Élevé,1,1125.0,International,Camping,Voiture,Loisirs,0,7.0
+1796,78,Homme,Élevé,4,1019.0,France,Hôtel,Train,Affaires,1,10.0
+1797,51,Femme,Faible,2,214.0,Europe,Hôtel,Avion,Affaires,1,4.0
+1798,27,Homme,Faible,0,352.0,France,Location,Voiture,Visite famille,1,
+1799,73,Homme,Moyen,3,,Europe,Hôtel,Avion,Loisirs,1,5.0
+1800,39,Homme,Faible,5,346.0,France,Camping,Voiture,Visite famille,1,3.0
+1801,74,Homme,Faible,2,241.0,Europe,Hôtel,Voiture,Affaires,1,4.0
+1802,26,Femme,Élevé,2,1060.0,Europe,Famille/Amis,Train,Loisirs,0,5.0
+1803,44,Femme,Élevé,4,,International,Famille/Amis,Voiture,Loisirs,1,10.0
+1804,76,Homme,Faible,0,,Europe,Camping,Avion,Loisirs,0,
+1805,68,Femme,Élevé,1,908.0,France,Location,Voiture,Loisirs,1,1.0
+1806,45,Homme,Moyen,2,318.0,International,Famille/Amis,Voiture,Loisirs,0,3.0
+1807,47,Homme,Élevé,4,1001.0,France,Hôtel,Voiture,Affaires,0,2.0
+1808,35,Homme,Moyen,2,771.0,Europe,Camping,Train,Loisirs,0,6.0
+1809,24,Femme,Élevé,2,1358.0,France,Hôtel,Voiture,Loisirs,1,4.0
+1810,22,Femme,Faible,1,238.0,Europe,Location,Voiture,Loisirs,0,2.0
+1811,30,Homme,Élevé,2,1145.0,France,Camping,Voiture,Affaires,1,7.0
+1812,62,Homme,Moyen,2,608.0,France,Camping,Voiture,Affaires,0,2.0
+1813,55,Femme,Moyen,3,823.0,International,Hôtel,Avion,Visite famille,0,6.0
+1814,45,Femme,Moyen,1,,France,Hôtel,Voiture,Visite famille,0,10.0
+1815,54,Femme,Élevé,2,934.0,Europe,Camping,Train,Visite famille,1,9.0
+1816,25,Femme,Élevé,5,1220.0,France,Hôtel,Train,Loisirs,1,7.0
+1817,79,Homme,Élevé,3,1040.0,France,Camping,Voiture,Visite famille,1,8.0
+1818,69,Femme,Élevé,4,876.0,Europe,Hôtel,Train,Loisirs,1,10.0
+1819,69,Femme,Élevé,4,1020.0,France,Hôtel,Voiture,Visite famille,0,10.0
+1820,39,Homme,Moyen,1,846.0,Europe,Location,Train,Affaires,0,5.0
+1821,38,Femme,Faible,2,400.0,France,Camping,Voiture,Loisirs,0,7.0
+1822,59,Homme,Faible,1,129.0,France,Location,Voiture,Loisirs,0,7.0
+1823,50,Homme,Élevé,3,790.0,France,Camping,Voiture,Affaires,0,7.0
+1824,76,Femme,Faible,3,623.0,France,Hôtel,Avion,Visite famille,0,9.0
+1825,23,Femme,Faible,0,506.0,France,Hôtel,Voiture,Loisirs,0,
+1826,29,Femme,Faible,1,132.0,France,Location,Voiture,Affaires,1,1.0
+1827,68,Femme,Faible,2,62.0,France,Camping,Voiture,Loisirs,0,4.0
+1828,43,Homme,Faible,1,50.0,France,Location,Avion,Loisirs,0,6.0
+1829,76,Femme,Moyen,2,546.0,International,Location,Voiture,Loisirs,0,2.0
+1830,58,Homme,Moyen,5,690.0,International,Hôtel,Train,Loisirs,1,4.0
+1831,44,Femme,Élevé,0,1309.0,France,Hôtel,Voiture,Visite famille,1,
+1832,33,Homme,Faible,3,371.0,France,Hôtel,Train,Loisirs,1,7.0
+1833,51,Femme,Moyen,0,834.0,Europe,Camping,Train,Visite famille,1,
+1834,65,Femme,Moyen,3,520.0,International,Location,Avion,Loisirs,0,5.0
+1835,62,Homme,Faible,2,727.0,France,Hôtel,Avion,Affaires,0,1.0
+1836,41,Homme,Faible,1,420.0,Europe,Hôtel,Train,Affaires,1,10.0
+1837,67,Homme,Faible,0,494.0,France,Hôtel,Avion,Loisirs,0,
+1838,78,Femme,Faible,0,493.0,France,Location,Voiture,Affaires,0,
+1839,40,Homme,Élevé,5,936.0,France,Camping,Avion,Loisirs,1,2.0
+1840,19,Femme,Faible,1,416.0,France,Hôtel,Voiture,Loisirs,0,10.0
+1841,61,Femme,Élevé,1,1332.0,Europe,Location,Train,Loisirs,1,4.0
+1842,52,Femme,Moyen,4,977.0,International,Location,Voiture,Loisirs,0,5.0
+1843,34,Homme,Moyen,1,796.0,International,Camping,Avion,Loisirs,1,6.0
+1844,39,Homme,Moyen,1,857.0,France,Location,Voiture,Affaires,0,10.0
+1845,35,Homme,Moyen,4,658.0,Europe,Famille/Amis,Voiture,Visite famille,1,8.0
+1846,59,Femme,Moyen,0,298.0,Europe,Location,Avion,Loisirs,0,
+1847,25,Femme,Faible,2,467.0,France,Location,Voiture,Loisirs,1,5.0
+1848,62,Femme,Élevé,3,994.0,Europe,Camping,Voiture,Loisirs,1,6.0
+1849,54,Femme,Élevé,4,936.0,France,Location,Voiture,Loisirs,0,4.0
+1850,54,Femme,Moyen,2,,Europe,Location,Voiture,Loisirs,0,10.0
+1851,49,Femme,Élevé,5,,International,Hôtel,Avion,Loisirs,0,2.0
+1852,46,Femme,Faible,1,589.0,France,Camping,Train,Visite famille,0,1.0
+1853,58,Homme,Élevé,4,1077.0,International,Famille/Amis,Train,Loisirs,1,10.0
+1854,56,Homme,Faible,2,558.0,Europe,Hôtel,Avion,Loisirs,0,1.0
+1855,53,Femme,Élevé,2,1208.0,International,Hôtel,Train,Loisirs,0,6.0
+1856,47,Homme,Élevé,5,875.0,France,Hôtel,Train,Loisirs,0,7.0
+1857,47,Homme,Élevé,0,1249.0,International,Camping,Train,Loisirs,1,
+1858,65,Homme,Faible,0,227.0,France,Location,Avion,Affaires,0,
+1859,48,Femme,Moyen,1,864.0,France,Hôtel,Voiture,Visite famille,1,8.0
+1860,38,Homme,Faible,1,153.0,France,Camping,Train,Affaires,0,3.0
+1861,55,Homme,Moyen,3,771.0,France,Famille/Amis,Voiture,Visite famille,0,4.0
+1862,58,Homme,Moyen,2,679.0,France,Famille/Amis,Avion,Visite famille,0,2.0
+1863,20,Femme,Moyen,3,649.0,International,Hôtel,Avion,Loisirs,1,8.0
+1864,44,Femme,Moyen,2,742.0,France,Hôtel,Voiture,Loisirs,0,5.0
+1865,70,Femme,Moyen,0,902.0,Europe,Hôtel,Voiture,Loisirs,0,
+1866,74,Homme,Moyen,2,,Europe,Hôtel,Train,Visite famille,0,10.0
+1867,51,Femme,Élevé,5,1499.0,Europe,Location,Voiture,Loisirs,1,7.0
+1868,56,Femme,Faible,0,243.0,France,Hôtel,Voiture,Loisirs,0,
+1869,67,Femme,Faible,2,820.0,Europe,Location,Avion,Loisirs,0,1.0
+1870,36,Femme,Moyen,0,774.0,France,Camping,Avion,Loisirs,0,
+1871,38,Homme,Moyen,1,451.0,Europe,Location,Avion,Loisirs,0,2.0
+1872,47,Homme,Moyen,2,656.0,France,Hôtel,Voiture,Loisirs,0,10.0
+1873,68,Femme,Élevé,2,1197.0,Europe,Location,Voiture,Affaires,0,1.0
+1874,61,Homme,Faible,1,157.0,France,Hôtel,Avion,Loisirs,1,1.0
+1875,32,Homme,Faible,1,363.0,Europe,Location,Train,Loisirs,0,2.0
+1876,39,Homme,Faible,2,50.0,France,Hôtel,Voiture,Loisirs,0,8.0
+1877,77,Homme,Moyen,4,902.0,International,Location,Voiture,Visite famille,0,7.0
+1878,20,Homme,Élevé,2,1189.0,Europe,Famille/Amis,Train,Affaires,1,8.0
+1879,27,Homme,Moyen,1,660.0,Europe,Famille/Amis,Voiture,Loisirs,1,7.0
+1880,22,Femme,Moyen,1,851.0,Europe,Hôtel,Avion,Loisirs,0,7.0
+1881,62,Homme,Faible,2,234.0,International,Famille/Amis,Avion,Visite famille,0,9.0
+1882,47,Femme,Moyen,2,708.0,Europe,Location,Voiture,Loisirs,0,4.0
+1883,45,Homme,Faible,1,376.0,Europe,Famille/Amis,Train,Visite famille,0,5.0
+1884,21,Femme,Moyen,1,827.0,Europe,Hôtel,Voiture,Loisirs,0,9.0
+1885,40,Homme,Moyen,1,717.0,International,Camping,Voiture,Visite famille,0,7.0
+1886,57,Homme,Moyen,0,1150.0,International,Hôtel,Voiture,Visite famille,0,
+1887,29,Homme,Moyen,3,460.0,Europe,Famille/Amis,Voiture,Visite famille,0,1.0
+1888,21,Homme,Moyen,2,730.0,France,Camping,Voiture,Loisirs,1,7.0
+1889,74,Femme,Moyen,4,1069.0,France,Camping,Avion,Visite famille,0,9.0
+1890,31,Homme,Élevé,0,1260.0,France,Location,Voiture,Loisirs,1,
+1891,41,Homme,Moyen,3,816.0,Europe,Camping,Avion,Loisirs,0,5.0
+1892,29,Homme,Moyen,4,492.0,France,Hôtel,Train,Loisirs,0,3.0
+1893,21,Femme,Moyen,2,546.0,France,Hôtel,Voiture,Affaires,0,8.0
+1894,65,Femme,Faible,0,124.0,France,Location,Train,Loisirs,0,
+1895,32,Homme,Moyen,3,725.0,Europe,Location,Voiture,Visite famille,0,5.0
+1896,59,Homme,Moyen,1,459.0,France,Hôtel,Train,Visite famille,1,3.0
+1897,31,Homme,Élevé,3,1239.0,France,Hôtel,Avion,Visite famille,1,9.0
+1898,73,Femme,Moyen,1,598.0,Europe,Location,Voiture,Affaires,0,1.0
+1899,29,Femme,Moyen,5,619.0,Europe,Location,Avion,Loisirs,0,9.0
+1900,45,Femme,Moyen,3,514.0,France,Location,Voiture,Visite famille,0,7.0
+1901,64,Femme,Faible,1,439.0,Europe,Hôtel,Voiture,Visite famille,0,5.0
+1902,74,Homme,Faible,0,264.0,Europe,Hôtel,Voiture,Loisirs,0,
+1903,54,Femme,Moyen,2,957.0,Europe,Famille/Amis,Voiture,Loisirs,0,8.0
+1904,73,Femme,Moyen,6,1038.0,Europe,Hôtel,Avion,Loisirs,0,1.0
+1905,69,Homme,Élevé,3,1045.0,Europe,Location,Voiture,Loisirs,1,3.0
+1906,54,Femme,Faible,0,144.0,France,Location,Train,Loisirs,0,
+1907,37,Femme,Moyen,3,853.0,International,Hôtel,Voiture,Affaires,1,10.0
+1908,21,Femme,Moyen,3,1052.0,International,Hôtel,Train,Loisirs,1,1.0
+1909,29,Homme,Moyen,1,845.0,France,Camping,Train,Loisirs,0,2.0
+1910,41,Homme,Élevé,1,764.0,Europe,Famille/Amis,Voiture,Loisirs,0,10.0
+1911,25,Homme,Moyen,0,736.0,Europe,Hôtel,Voiture,Loisirs,0,
+1912,40,Homme,Moyen,2,742.0,Europe,Hôtel,Avion,Visite famille,1,2.0
+1913,29,Femme,Moyen,1,821.0,France,Hôtel,Voiture,Loisirs,1,6.0
+1914,64,Femme,Moyen,1,1214.0,International,Hôtel,Voiture,Loisirs,1,1.0
+1915,45,Homme,Moyen,2,617.0,International,Camping,Voiture,Loisirs,1,1.0
+1916,27,Homme,Moyen,1,602.0,France,Location,Voiture,Loisirs,1,8.0
+1917,69,Homme,Moyen,2,913.0,Europe,Camping,Train,Loisirs,0,1.0
+1918,79,Femme,Élevé,1,979.0,France,Location,Train,Loisirs,1,10.0
+1919,28,Femme,Moyen,2,756.0,Europe,Famille/Amis,Voiture,Loisirs,1,3.0
+1920,46,Femme,Moyen,0,551.0,France,Hôtel,Avion,Loisirs,0,
+1921,60,Homme,Moyen,1,622.0,France,Hôtel,Train,Loisirs,0,5.0
+1922,36,Homme,Faible,1,528.0,France,Hôtel,Train,Affaires,0,6.0
+1923,24,Homme,Élevé,0,1167.0,Europe,Camping,Avion,Visite famille,1,
+1924,56,Femme,Moyen,0,608.0,France,Hôtel,Voiture,Visite famille,0,
+1925,31,Femme,Moyen,1,932.0,International,Camping,Train,Loisirs,0,1.0
+1926,66,Homme,Faible,3,307.0,France,Hôtel,Voiture,Loisirs,0,1.0
+1927,46,Homme,Faible,0,60.0,France,Location,Train,Loisirs,0,
+1928,67,Femme,Élevé,3,732.0,Europe,Hôtel,Train,Loisirs,0,10.0
+1929,24,Femme,Élevé,3,888.0,Europe,Hôtel,Voiture,Visite famille,1,9.0
+1930,74,Homme,Moyen,3,1187.0,France,Hôtel,Train,Loisirs,0,2.0
+1931,43,Femme,Élevé,3,1190.0,France,Location,Avion,Loisirs,0,2.0
+1932,35,Femme,Élevé,4,1095.0,France,Location,Voiture,Loisirs,0,6.0
+1933,40,Femme,Moyen,2,882.0,Europe,Hôtel,Avion,Loisirs,1,1.0
+1934,26,Femme,Moyen,2,348.0,Europe,Hôtel,Train,Loisirs,1,8.0
+1935,78,Homme,Faible,1,105.0,France,Hôtel,Voiture,Loisirs,0,3.0
+1936,56,Femme,Moyen,2,833.0,Europe,Hôtel,Voiture,Visite famille,0,6.0
+1937,74,Femme,Faible,1,487.0,International,Location,Avion,Affaires,0,4.0
+1938,51,Femme,Faible,0,242.0,France,Location,Voiture,Loisirs,1,
+1939,35,Homme,Moyen,1,701.0,International,Famille/Amis,Train,Affaires,0,3.0
+1940,69,Homme,Élevé,6,1469.0,France,Camping,Avion,Loisirs,1,9.0
+1941,63,Femme,Moyen,1,464.0,France,Hôtel,Voiture,Loisirs,1,8.0
+1942,39,Homme,Faible,1,146.0,France,Location,Avion,Loisirs,0,7.0
+1943,21,Femme,Faible,0,583.0,France,Location,Train,Loisirs,1,
+1944,33,Femme,Faible,1,281.0,France,Hôtel,Voiture,Visite famille,0,9.0
+1945,19,Homme,Faible,0,586.0,France,Famille/Amis,Avion,Loisirs,0,
+1946,52,Homme,Moyen,1,629.0,Europe,Location,Avion,Loisirs,0,8.0
+1947,52,Femme,Élevé,3,1359.0,International,Famille/Amis,Avion,Loisirs,0,5.0
+1948,41,Homme,Moyen,2,606.0,Europe,Hôtel,Train,Loisirs,0,8.0
+1949,24,Femme,Faible,0,214.0,France,Hôtel,Train,Affaires,0,
+1950,20,Femme,Faible,0,130.0,France,Camping,Train,Loisirs,0,
+1951,22,Femme,Moyen,3,751.0,Europe,Famille/Amis,Avion,Loisirs,1,4.0
+1952,30,Homme,Moyen,0,832.0,International,Camping,Train,Loisirs,1,
+1953,54,Homme,Moyen,4,1039.0,International,Hôtel,Voiture,Affaires,0,4.0
+1954,38,Femme,Moyen,2,629.0,Europe,Hôtel,Train,Visite famille,0,6.0
+1955,39,Homme,Moyen,2,,France,Famille/Amis,Avion,Loisirs,0,5.0
+1956,28,Homme,Moyen,4,894.0,Europe,Famille/Amis,Avion,Loisirs,1,4.0
+1957,33,Homme,Élevé,3,1193.0,Europe,Hôtel,Avion,Affaires,1,4.0
+1958,25,Homme,Faible,0,250.0,Europe,Hôtel,Avion,Loisirs,0,
+1959,76,Femme,Moyen,3,300.0,France,Famille/Amis,Voiture,Loisirs,0,10.0
+1960,33,Homme,Élevé,8,1228.0,International,Hôtel,Voiture,Loisirs,0,5.0
+1961,55,Homme,Faible,0,732.0,Europe,Hôtel,Avion,Loisirs,0,
+1962,62,Femme,Faible,0,544.0,France,Camping,Voiture,Loisirs,0,
+1963,54,Femme,Élevé,2,825.0,International,Location,Voiture,Affaires,1,3.0
+1964,65,Homme,Moyen,2,717.0,International,Hôtel,Voiture,Visite famille,0,3.0
+1965,79,Femme,Élevé,2,690.0,Europe,Famille/Amis,Voiture,Loisirs,0,9.0
+1966,77,Homme,Élevé,3,1194.0,France,Camping,Voiture,Affaires,0,3.0
+1967,27,Femme,Faible,1,90.0,France,Hôtel,Train,Loisirs,1,7.0
+1968,66,Femme,Moyen,1,711.0,Europe,Hôtel,Avion,Loisirs,0,9.0
+1969,39,Femme,Faible,3,319.0,France,Location,Train,Affaires,0,1.0
+1970,22,Femme,Moyen,3,531.0,France,Famille/Amis,Voiture,Loisirs,0,7.0
+1971,35,Homme,Élevé,6,1189.0,International,Hôtel,Train,Loisirs,0,8.0
+1972,32,Femme,Moyen,2,719.0,Europe,Hôtel,Avion,Loisirs,0,1.0
+1973,64,Femme,Faible,0,303.0,France,Famille/Amis,Train,Loisirs,0,
+1974,70,Homme,Faible,1,222.0,France,Famille/Amis,Avion,Affaires,0,7.0
+1975,30,Homme,Moyen,1,749.0,Europe,Location,Train,Loisirs,0,3.0
+1976,59,Femme,Faible,0,50.0,Europe,Hôtel,Train,Loisirs,0,
+1977,70,Femme,Faible,3,155.0,France,Famille/Amis,Train,Loisirs,0,8.0
+1978,41,Femme,Moyen,2,271.0,France,Camping,Voiture,Affaires,0,2.0
+1979,24,Femme,Moyen,2,602.0,International,Famille/Amis,Voiture,Loisirs,1,5.0
+1980,78,Femme,Faible,1,314.0,France,Famille/Amis,Voiture,Visite famille,0,5.0
+1981,39,Femme,Faible,2,129.0,France,Hôtel,Voiture,Visite famille,0,4.0
+1982,47,Homme,Moyen,6,489.0,France,Hôtel,Voiture,Visite famille,1,10.0
+1983,33,Homme,Faible,1,357.0,France,Location,Voiture,Loisirs,1,8.0
+1984,28,Homme,Moyen,1,646.0,Europe,Hôtel,Voiture,Affaires,0,10.0
+1985,20,Homme,Faible,1,191.0,France,Camping,Voiture,Loisirs,0,2.0
+1986,38,Femme,Moyen,3,732.0,Europe,Location,Avion,Loisirs,0,8.0
+1987,23,Homme,Moyen,3,1267.0,France,Camping,Avion,Visite famille,0,10.0
+1988,63,Homme,Moyen,3,715.0,International,Hôtel,Voiture,Loisirs,1,5.0
+1989,55,Homme,Moyen,3,690.0,France,Hôtel,Avion,Loisirs,0,9.0
+1990,26,Homme,Faible,2,235.0,France,Hôtel,Avion,Loisirs,0,1.0
+1991,25,Femme,Moyen,0,793.0,Europe,Location,Train,Loisirs,1,
+1992,41,Femme,Élevé,0,1256.0,International,Location,Avion,Loisirs,1,
+1993,29,Femme,Élevé,2,1041.0,International,Famille/Amis,Train,Loisirs,0,7.0
+1994,36,Femme,Élevé,3,777.0,Europe,Hôtel,Train,Affaires,0,7.0
+1995,52,Femme,Élevé,1,1016.0,Europe,Hôtel,Voiture,Loisirs,0,2.0
+1996,21,Homme,Faible,0,341.0,France,Famille/Amis,Train,Affaires,0,
+1997,23,Homme,Faible,1,50.0,France,Location,Voiture,Loisirs,0,2.0
+1998,41,Femme,Élevé,1,1070.0,Europe,Hôtel,Voiture,Loisirs,0,7.0
+1999,32,Femme,Élevé,3,1104.0,France,Hôtel,Avion,Loisirs,1,4.0
+2000,45,Homme,Élevé,3,1168.0,France,Location,Train,Visite famille,0,5.0
